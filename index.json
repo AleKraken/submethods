@@ -1,0 +1,53 @@
+[
+  {
+    "id": "333",
+    "submethodTypeName": "3x3",
+    "submethods": [
+        {
+            "id": "3x3-PLL",
+            "name": "PLL"
+        },
+        {
+            "id": "3x3-OLL",
+            "name": "OLL"
+        },
+        {
+            "id": "3x3-WV",
+            "name": "Winter Variation"
+        }
+    ]
+  },
+  {
+    "id": "222",
+    "submethodTypeName": "2x2",
+    "submethods": [
+        {
+            "id": "2x2-CLL",
+            "name": "CLL"
+        },
+        {
+            "id": "2x2-EG1",
+            "name": "EG-1"
+        },
+        {
+            "id": "2x2-EG2",
+            "name": "EG-2"
+        }
+    ]
+  },
+  {
+    "id": "333OH",
+    "submethodTypeName": "One Hand",
+    "submethods": [
+        {
+            "id": "OH-PLL",
+            "name": "One Hand PLL"
+        },
+        {
+            "id": "OH-OLL",
+            "name": "One Hand OLL"
+        }
+    ]
+  }
+
+]
