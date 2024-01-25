@@ -9,7 +9,8 @@
             "description": "Fridrich submethod focused in permutate last layer pieces",
             "difficulty": 1,
             "puzzlePaintId": 1,
-            "codeToPaint": "001550550-330033033-000005005"
+            "codeToPaint": "001550550-330033033-000005005",
+            "casesAmount": 57,
         },
         {
             "id": "3x3-OLL",
@@ -17,7 +18,8 @@
             "description": "Fridrich submethod focused in permutate last layer pieces",
             "difficulty": 1,
             "puzzlePaintId": 1,
-            "codeToPaint": "001550550-330033033-000005005"
+            "codeToPaint": "001550550-330033033-000005005",
+            "casesAmount": 21,
         },
         {
             "id": "3x3-WV",
@@ -25,7 +27,8 @@
             "description": "Fridrich submethod focused in permutate last layer pieces",
             "difficulty": 1,
             "puzzlePaintId": 1,
-            "codeToPaint": "001550550-330033033-000005005"
+            "codeToPaint": "001550550-330033033-000005005",
+            "casesAmount": 20,
         }
     ]
   },
@@ -39,7 +42,8 @@
             "description": "Fridrich submethod focused in permutate last layer pieces",
             "difficulty": 1,
             "puzzlePaintId": 4,
-            "codeToPaint": "001550550-330033033-000005005"
+            "codeToPaint": "001550550-330033033-000005005",
+            "casesAmount": 43,
         },
         {
             "id": "2x2-EG1",
@@ -47,7 +51,8 @@
             "description": "Fridrich submethod focused in permutate last layer pieces",
             "difficulty": 1,
             "puzzlePaintId": 4,
-            "codeToPaint": "001550550-330033033-000005005"
+            "codeToPaint": "001550550-330033033-000005005",
+            "casesAmount": 41,
         },
         {
             "id": "2x2-EG2",
@@ -55,7 +60,8 @@
             "description": "Fridrich submethod focused in permutate last layer pieces",
             "difficulty": 1,
             "puzzlePaintId": 4,
-            "codeToPaint": "001550550-330033033-000005005"
+            "codeToPaint": "001550550-330033033-000005005",
+            "casesAmount": 47,
         }
     ]
   },
@@ -69,7 +75,8 @@
             "description": "Fridrich submethod focused in permutate last layer pieces",
             "difficulty": 1,
             "puzzlePaintId": 1,
-            "codeToPaint": "001550550-330033033-000005005"
+            "codeToPaint": "001550550-330033033-000005005",
+            "casesAmount": 57,
         },
         {
             "id": "OH-OLL",
@@ -77,7 +84,8 @@
             "description": "Fridrich submethod focused in permutate last layer pieces",
             "difficulty": 1,
             "puzzlePaintId": 1,
-            "codeToPaint": "001550550-330033033-000005005"
+            "codeToPaint": "001550550-330033033-000005005",
+            "casesAmount": 21,
         }
     ]
   }
