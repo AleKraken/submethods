@@ -5,15 +5,24 @@
     "submethods": [
         {
             "id": "3x3-PLL",
-            "name": "PLL"
+            "name": "PLL",
+            "description": "Fridrich submethod focused in permutate last layer pieces",
+            "difficulty": 1,
+            "puzzlePaintId": 1
         },
         {
             "id": "3x3-OLL",
-            "name": "OLL"
+            "name": "OLL",
+            "description": "Fridrich submethod focused in permutate last layer pieces",
+            "difficulty": 1,
+            "puzzlePaintId": 1
         },
         {
             "id": "3x3-WV",
-            "name": "Winter Variation"
+            "name": "Winter Variation",
+            "description": "Fridrich submethod focused in permutate last layer pieces",
+            "difficulty": 1,
+            "puzzlePaintId": 1
         }
     ]
   },
@@ -23,15 +32,24 @@
     "submethods": [
         {
             "id": "2x2-CLL",
-            "name": "CLL"
+            "name": "CLL",
+            "description": "Fridrich submethod focused in permutate last layer pieces",
+            "difficulty": 1,
+            "puzzlePaintId": 4
         },
         {
             "id": "2x2-EG1",
-            "name": "EG-1"
+            "name": "EG-1",
+            "description": "Fridrich submethod focused in permutate last layer pieces",
+            "difficulty": 1,
+            "puzzlePaintId": 4
         },
         {
             "id": "2x2-EG2",
-            "name": "EG-2"
+            "name": "EG-2",
+            "description": "Fridrich submethod focused in permutate last layer pieces",
+            "difficulty": 1,
+            "puzzlePaintId": 4
         }
     ]
   },
@@ -41,11 +59,17 @@
     "submethods": [
         {
             "id": "OH-PLL",
-            "name": "One Hand PLL"
+            "name": "One Hand PLL",
+            "description": "Fridrich submethod focused in permutate last layer pieces",
+            "difficulty": 1,
+            "puzzlePaintId": 1
         },
         {
             "id": "OH-OLL",
-            "name": "One Hand OLL"
+            "name": "One Hand OLL",
+            "description": "Fridrich submethod focused in permutate last layer pieces",
+            "difficulty": 1,
+            "puzzlePaintId": 1
         }
     ]
   }
