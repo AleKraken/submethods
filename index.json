@@ -18,7 +18,7 @@
             "description": "Fridrich submethod focused in permutate last layer pieces",
             "difficulty": 1,
             "puzzlePaintId": 1,
-            "codeToPaint": "020000000-222000000-000020000",
+            "codeToPaint": "222000000-020000000-000020000",
             "casesAmount": 21
         },
         {
@@ -27,7 +27,7 @@
             "description": "Fridrich submethod focused in permutate last layer pieces",
             "difficulty": 1,
             "puzzlePaintId": 1,
-            "codeToPaint": "001552552-330033033-000005011",
+            "codeToPaint": "001552552-330033033-222225225",
             "casesAmount": 20
         }
     ]
