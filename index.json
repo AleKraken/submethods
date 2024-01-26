@@ -71,7 +71,7 @@
     "submethods": [
         {
             "id": "OH-PLL",
-            "name": "One Hand PLL",
+            "name": "OH PLL",
             "description": "Fridrich submethod focused in permutate last layer pieces",
             "difficulty": 1,
             "puzzlePaintId": 1,
@@ -80,7 +80,7 @@
         },
         {
             "id": "OH-OLL",
-            "name": "One Hand OLL",
+            "name": "OH OLL",
             "description": "Fridrich submethod focused in permutate last layer pieces",
             "difficulty": 1,
             "puzzlePaintId": 1,
