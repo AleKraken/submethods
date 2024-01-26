@@ -7,7 +7,7 @@
             "id": "3x3-PLL",
             "name": "PLL",
             "description": "Fridrich submethod focused in permutate last layer pieces",
-            "difficulty": 1,
+            "difficulty": 2,
             "puzzlePaintId": 2,
             "codeToPaint": "0363062225422234222405560",
             "casesAmount": 57
@@ -25,7 +25,7 @@
             "id": "3x3-WV",
             "name": "Winter Variation",
             "description": "Fridrich submethod focused in permutate last layer pieces",
-            "difficulty": 1,
+            "difficulty": 3,
             "puzzlePaintId": 1,
             "codeToPaint": "001552552-330033033-222225225",
             "casesAmount": 20
