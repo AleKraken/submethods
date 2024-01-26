@@ -2,7 +2,7 @@
             {
                 "id": "OLL001",
                 "name": "Fish A",
-                "colorsCodeToPaint": "200000000-002000000-220222022",
+                "colorsCodeToPaint": "200000000-200000000-220222020",
                 "setup": "y F' r U R' U' r' F R",
                 "algorithmList": [
                     "y F' r U R' U' r' F R",
