@@ -124,7 +124,7 @@
   },
   {
     "id": "555",
-    "submethodTypeName": "4x4",
+    "submethodTypeName": "5x5",
     "submethods": [
         {
             "id": "5x5-Last2centers",
