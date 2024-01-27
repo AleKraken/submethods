@@ -76,27 +76,45 @@
             "id": "2x2-CLL",
             "name": "CLL",
             "description": "Default description",
-            "difficulty": 1,
-            "puzzlePaintId": 3,
-            "codeToPaint": "3245-1235-4123",
+            "difficulty": 2,
+            "puzzlePaintId": 4,
+            "codeToPaint": "245352324662",
             "casesAmount": 43
         },
         {
             "id": "2x2-EG1",
             "name": "EG-1",
             "description": "Default description",
-            "difficulty": 1,
+            "difficulty": 3,
             "puzzlePaintId": 3,
-            "codeToPaint": "3245-1235-5163",
+            "codeToPaint": "253632625442",
             "casesAmount": 41
         },
         {
             "id": "2x2-EG2",
             "name": "EG-2",
             "description": "Default description",
-            "difficulty": 1,
+            "difficulty": 3,
             "puzzlePaintId": 4,
-            "codeToPaint": "1236-3245-1256",
+            "codeToPaint": "253632625442",
+            "casesAmount": 47
+        },
+        {
+            "id": "2x2-OrtegaOLL",
+            "name": "Ortega OLL",
+            "description": "Default description",
+            "difficulty": 3,
+            "puzzlePaintId": 4,
+            "codeToPaint": "245352324662",
+            "casesAmount": 47
+        },
+        {
+            "id": "2x2-OrtegaPBL",
+            "name": "Ortega PBL",
+            "description": "Default description",
+            "difficulty": 2,
+            "puzzlePaintId": 3,
+            "codeToPaint": "4455-5333-2222",
             "casesAmount": 47
         }
     ]
