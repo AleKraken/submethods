@@ -9,7 +9,7 @@
             "description": "Default description",
             "difficulty": 3,
             "puzzlePaintId": 2,
-            "codeToPaint": "0466052223522236222304450",
+            "codeToPaint": "466522235222362223445",
             "casesAmount": 57
         },
         {
@@ -45,7 +45,7 @@
             "description": "Default description",
             "difficulty": 4,
             "puzzlePaintId": 2,
-            "codeToPaint": "0244064252322265226303520",
+            "codeToPaint": "24436255222652246332",
             "casesAmount": 20
         },
         {
@@ -54,7 +54,7 @@
             "description": "Default description",
             "difficulty": 4,
             "puzzlePaintId": 2,
-            "codeToPaint": "0000002202022532005300210",
+            "codeToPaint": "000022020225320053021",
             "casesAmount": 20
         },
         {
@@ -63,7 +63,7 @@
             "description": "Default description",
             "difficulty": 4,
             "puzzlePaintId": 2,
-            "codeToPaint": "0203036225022204622502040",
+            "codeToPaint": "203362250222046225204",
             "casesAmount": 20
         }
     ]
