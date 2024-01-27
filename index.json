@@ -95,7 +95,7 @@
             "name": "EG-2",
             "description": "Default description",
             "difficulty": 1,
-            "puzzlePaintId": 3,
+            "puzzlePaintId": 4,
             "codeToPaint": "1236-3245-1256",
             "casesAmount": 47
         }
