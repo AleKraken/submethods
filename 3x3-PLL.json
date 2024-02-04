@@ -8,5 +8,36 @@
          "Algorithm test 1",
          "Algorithm test 2"
       ]
-   }
+   },
+   {
+      "id": "IdTest002",
+      "name": "TEST 2",
+      "colorsCodeToPaint": "143354213421352546643",
+      "setup": "SETUP TEST",
+      "algorithmList": [
+         "Algorithm test 1",
+         "Algorithm test 2"
+      ]
+   },
+   {
+      "id": "IdTest003",
+      "name": "TEST 3",
+      "colorsCodeToPaint": "143354213421352546643",
+      "setup": "SETUP TEST",
+      "algorithmList": [
+         "Algorithm test 1",
+         "Algorithm test 2"
+      ]
+   },
+   {
+      "id": "IdTest004",
+      "name": "TEST 4",
+      "colorsCodeToPaint": "143354213421352546643",
+      "setup": "SETUP TEST",
+      "algorithmList": [
+         "Algorithm test 1",
+         "Algorithm test 2"
+      ]
+   },
+   
 ]
