@@ -1,2 +1,12 @@
 [
+   {
+      "id": "IdTest001",
+      "name": "TEST 1",
+      "colorsCodeToPaint": "143354213421352546643",
+      "setup": "SETUP TEST",
+      "algorithmList": [
+         "Algorithm test 1",
+         "Algorithm test 2"
+      ]
+   }
 ]
