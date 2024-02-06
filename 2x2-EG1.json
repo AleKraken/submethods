@@ -1,1 +1,47 @@
-
+[
+   {
+      "id": "2X2001",
+      "name": "2X2001",
+      "colorsCodeToPaint": "213123452451",
+      "setup": "MDASDQW",
+      "algorithmList": [
+         "1232312"
+      ]
+   },
+   {
+      "id": "2X2002",
+      "name": "2X2002",
+      "colorsCodeToPaint": "462343526454",
+      "setup": "QKMDKQWDQ",
+      "algorithmList": [
+         "ADQWMDQWD"
+      ]
+   },
+   {
+      "id": "2X2003",
+      "name": "2X2003",
+      "colorsCodeToPaint": "234125324521",
+      "setup": "234QF",
+      "algorithmList": [
+         "213412R"
+      ]
+   },
+  {
+      "id": "2X2004",
+      "name": "2X2004",
+      "colorsCodeToPaint": "234125324521",
+      "setup": "234QF",
+      "algorithmList": [
+         "213412R"
+      ]
+   },
+  {
+      "id": "2X2005",
+      "name": "2X2005",
+      "colorsCodeToPaint": "234125324521",
+      "setup": "234QF",
+      "algorithmList": [
+         "213412R"
+      ]
+   }
+]
