@@ -38,6 +38,87 @@
          "Algorithm test 1",
          "Algorithm test 2"
       ]
+   },
+   {
+      "id": "IdTest005",
+      "name": "TEST 1",
+      "colorsCodeToPaint": "143354213421352546643",
+      "setup": "SETUP TEST",
+      "algorithmList": [
+         "Algorithm test 1",
+         "Algorithm test 2"
+      ]
+   },
+   {
+      "id": "IdTest006",
+      "name": "TEST 2",
+      "colorsCodeToPaint": "143354213421352546643",
+      "setup": "SETUP TEST",
+      "algorithmList": [
+         "Algorithm test 1",
+         "Algorithm test 2"
+      ]
+   },
+   {
+      "id": "IdTest007",
+      "name": "TEST 3",
+      "colorsCodeToPaint": "143354213421352546643",
+      "setup": "SETUP TEST",
+      "algorithmList": [
+         "Algorithm test 1",
+         "Algorithm test 2"
+      ]
+   },
+   {
+      "id": "IdTest008",
+      "name": "TEST 4",
+      "colorsCodeToPaint": "143354213421352546643",
+      "setup": "SETUP TEST",
+      "algorithmList": [
+         "Algorithm test 1",
+         "Algorithm test 2"
+      ]
+   },
+   {
+      "id": "IdTest009",
+      "name": "TEST 1",
+      "colorsCodeToPaint": "143354213421352546643",
+      "setup": "SETUP TEST",
+      "algorithmList": [
+         "Algorithm test 1",
+         "Algorithm test 2"
+      ]
+   },
+   {
+      "id": "IdTest010",
+      "name": "TEST 2",
+      "colorsCodeToPaint": "143354213421352546643",
+      "setup": "SETUP TEST",
+      "algorithmList": [
+         "Algorithm test 1",
+         "Algorithm test 2"
+      ]
+   },
+   {
+      "id": "IdTest011",
+      "name": "TEST 3",
+      "colorsCodeToPaint": "143354213421352546643",
+      "setup": "SETUP TEST",
+      "algorithmList": [
+         "Algorithm test 1",
+         "Algorithm test 2"
+      ]
+   },
+   {
+      "id": "IdTest012",
+      "name": "TEST 4",
+      "colorsCodeToPaint": "143354213421352546643",
+      "setup": "SETUP TEST",
+      "algorithmList": [
+         "Algorithm test 1",
+         "Algorithm test 2"
+      ]
    }
+   
    
 ]
