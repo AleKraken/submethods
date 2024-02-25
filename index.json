@@ -6,7 +6,7 @@
         {
             "id": "3x3-PLL",
             "name": "PLL",
-            "description": "Default description",
+            "description": "El objetivo es permutar (reordenar) las piezas de la última capa del cubo (esquinas y aristas) sin alterar su orientación",
             "difficulty": 3,
             "puzzlePaintId": 2,
             "codeToPaint": "466522235222362223445",
@@ -15,7 +15,7 @@
         {
             "id": "3x3-OLL",
             "name": "OLL",
-            "description": "Default description",
+            "description": "El objetivo es orientar correctamente todas las aristas y esquinas de la última capa del cubo, formando un patrón completo en la parte superior del cubo",
             "difficulty": 2,
             "puzzlePaintId": 1,
             "codeToPaint": "222000000-020000000-202020000",
@@ -24,7 +24,7 @@
         {
             "id": "3x3-F2L",
             "name": "F2L",
-            "description": "Default description",
+            "description": "En esta etapa, el objetivo es completar las dos primeras capas del cubo simultáneamente, colocando las esquinas y aristas en sus posiciones correctas",
             "difficulty": 2,
             "puzzlePaintId": 1,
             "codeToPaint": "001550550-330033033-000005005",
@@ -33,7 +33,7 @@
         {
             "id": "3x3-WV",
             "name": "Winter Variation",
-            "description": "Default description",
+            "description": "Se enfoca en obtener un OLL resulto mientras se inserta el último par de F2L, evitando así realizar el OLL",
             "difficulty": 3,
             "puzzlePaintId": 1,
             "codeToPaint": "001552552-330033033-222225225",
@@ -42,11 +42,11 @@
         {
             "id": "3x3-ZBLL",
             "name": "ZBLL",
-            "description": "Default description",
+            "description": "ZBLL es un método avanzado que se enfoca en orientar y permutar todas las aristas y esquinas en una sola etapa después de haber resuelto el F2L",
             "difficulty": 4,
             "puzzlePaintId": 2,
             "codeToPaint": "244362525222652246332",
-            "casesAmount": 20
+            "casesAmount": 472
         },
         {
             "id": "3x3-VLS",
@@ -126,7 +126,7 @@
         {
             "id": "OH-PLL",
             "name": "OH PLL",
-            "description": "Default description",
+            "description": "El objetivo es permutar (reordenar) las piezas de la última capa del cubo (esquinas y aristas) sin alterar su orientación",
             "difficulty": 3,
             "puzzlePaintId": 1,
             "codeToPaint": "001550550-330033033-000005005",
@@ -135,7 +135,7 @@
         {
             "id": "OH-OLL",
             "name": "OH OLL",
-            "description": "Default description",
+            "description": "El objetivo es orientar correctamente todas las aristas y esquinas de la última capa del cubo, formando un patrón completo en la parte superior del cubo",
             "difficulty": 2,
             "puzzlePaintId": 1,
             "codeToPaint": "001550550-330033033-000005005",
@@ -144,7 +144,7 @@
         {
             "id": "OH-F2L",
             "name": "OH F2L",
-            "description": "Default description",
+            "description": "En esta etapa, el objetivo es completar las dos primeras capas del cubo simultáneamente, colocando las esquinas y aristas en sus posiciones correctas",
             "difficulty": 2,
             "puzzlePaintId": 1,
             "codeToPaint": "001550550-330033033-000005005",
