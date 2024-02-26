@@ -1,1 +1,246 @@
-
+[
+   {
+      "id": "BLE ",
+      "name": "BLE CO",
+      "colorsCodeToPaint": "00002220022360222",
+      "setup": "",
+      "algorithmList": [
+         "R'U'R'U'R'URUR",
+         "URU'R'U'RU2R'URUR'"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE H1",
+      "colorsCodeToPaint": "000202020223620202",
+      "setup": "",
+      "algorithmList": [
+         "U'RU'R'U'RUR'URUR'"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE H2",
+      "colorsCodeToPaint": "202002000223600200202",
+      "setup": "",
+      "algorithmList": [
+         "RU'R'U'RU'R'URUR'"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE U1",
+      "colorsCodeToPaint": "20200200022360222",
+      "setup": "",
+      "algorithmList": [
+         "U'R'D'RU'R'DRURUR'"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE U2",
+      "colorsCodeToPaint": "000022020223602202",
+      "setup": "",
+      "algorithmList": [
+         "URU'R'U'R'D'(RUR')DR"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE U3",
+      "colorsCodeToPaint": "000022200223600200202",
+      "setup": "",
+      "algorithmList": [
+         "U'F'(RUR'U')R'FR2UR'U(RU2R')"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE U4",
+      "colorsCodeToPaint": "00020220022362022",
+      "setup": "",
+      "algorithmList": [
+         "U'F'(RUR'U')R'FR3DR'U2RD'R'U2R'"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE T1",
+      "colorsCodeToPaint": "002022000223602200002",
+      "setup": "",
+      "algorithmList": [
+         "R'F'RURU'R'F"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE T2",
+      "colorsCodeToPaint": "000022200223620202",
+      "setup": "",
+      "algorithmList": [
+         "R'F'RURU'R'FUR'U2(RUR')UR"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE T3",
+      "colorsCodeToPaint": "00020202022360222",
+      "setup": "",
+      "algorithmList": [
+         "U'F'(RUR'U')R'FU'RU'R'U2R"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE T4",
+      "colorsCodeToPaint": "060023200222020202",
+      "setup": "",
+      "algorithmList": [
+         "F'(RUR'U')R'FRU'(RUR')URU2R'"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE L1",
+      "colorsCodeToPaint": "00202200022362022",
+      "setup": "",
+      "algorithmList": [
+         "U'F'(RUR'U')R'FR"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE L2",
+      "colorsCodeToPaint": "200002200223602202",
+      "setup": "",
+      "algorithmList": [
+         "U2RU2R'U'y'R'U2RU'(R'U'R)"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE L3",
+      "colorsCodeToPaint": "0000220202236002202",
+      "setup": "",
+      "algorithmList": [
+         "URU'R'Uy'R'U(RUR')U2R"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE L4",
+      "colorsCodeToPaint": "000202200223602200002",
+      "setup": "",
+      "algorithmList": [
+         "R'F'RURU'R'FU2(rUR'U'r'FRF')"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE pi1",
+      "colorsCodeToPaint": "002202000223620200002",
+      "setup": "",
+      "algorithmList": [
+         "RU2R'URU2R'U'(RU2R')"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE pi2",
+      "colorsCodeToPaint": "202002000223620202",
+      "setup": "",
+      "algorithmList": [
+         "(RUR')U2(RUR'U')RU2R'"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE pi3",
+      "colorsCodeToPaint": "2000020202236002022",
+      "setup": "",
+      "algorithmList": [
+         "U2RU2R'U(RU'R')U2(RU'R')"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE pi4",
+      "colorsCodeToPaint": "000202020223600200202",
+      "setup": "",
+      "algorithmList": [
+         "U2(RUR')U2RU2R'U2(RU'R')"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE sune1",
+      "colorsCodeToPaint": "200002020223602200002",
+      "setup": "",
+      "algorithmList": [
+         "(RUR')U2(RUR')U2(RU'R')"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE sune2",
+      "colorsCodeToPaint": "000022020223620200002",
+      "setup": "",
+      "algorithmList": [
+         "U'(RU'R'U)RUR'URU2(R'URUR')"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE sune3",
+      "colorsCodeToPaint": "20000202022362022",
+      "setup": "",
+      "algorithmList": [
+         "U(RU'R'U)RUR'U2(RUR')"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE sune4",
+      "colorsCodeToPaint": "200002200223620200002",
+      "setup": "",
+      "algorithmList": [
+         "U'F'(RUR'U')R'F(RUR')U2RUR'UR"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE antisune1",
+      "colorsCodeToPaint": "0020220002236002022",
+      "setup": "",
+      "algorithmList": [
+         "U'F'RUR2U'R'(FRUR)"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE antisune2",
+      "colorsCodeToPaint": "0022020002236002202",
+      "setup": "",
+      "algorithmList": [
+         "U'(RU'R')U2(RU'R')U'(RUR')"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE antisune3",
+      "colorsCodeToPaint": "002202000223602202",
+      "setup": "",
+      "algorithmList": [
+         "U'(RUR')U2(RU'R')U2(RU'R')"
+      ]
+   },
+   {
+      "id": "BLE ",
+      "name": "BLE antisune4",
+      "colorsCodeToPaint": "0002022002236002022",
+      "setup": "",
+      "algorithmList": [
+         "U'F'(RUR'U')R'F(RUR)U2R2U'R2U'R2U2R"
+      ]
+   }
+]
