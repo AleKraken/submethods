@@ -1,1 +1,490 @@
 
+[
+   {
+      "id": "FLSU1",
+      "name": "FLS U1",
+      "colorsCodeToPaint": "00020220022022022",
+      "setup": "",
+      "algorithmList": [
+         "(U2) R' U' R2 U' R2 U2 (R U' F') U F'"
+      ]
+   },
+   {
+      "id": "FLSU2",
+      "name": "FLS U2",
+      "colorsCodeToPaint": "00020220022202002002",
+      "setup": "",
+      "algorithmList": [
+         "(U') F' U F U' R U2 (R' U' R) U2 R'"
+      ]
+   },
+   {
+      "id": "FLSU3",
+      "name": "FLS U3",
+      "colorsCodeToPaint": "00020220202202022",
+      "setup": "",
+      "algorithmList": [
+         "(U2) R2 U R U' R2 U (R F R F' R')"
+      ]
+   },
+   {
+      "id": "FLSU4",
+      "name": "FLS U4",
+      "colorsCodeToPaint": "02020020022202022",
+      "setup": "",
+      "algorithmList": [
+         "U2 (R U' R' U F') U2 F U F' U2 F"
+      ]
+   },
+   {
+      "id": "FLSU5",
+      "name": "FLS U5",
+      "colorsCodeToPaint": "02020020202202002002",
+      "setup": "",
+      "algorithmList": [
+         "U2 (R U R' U') F' U L' U2 (L U2 F)"
+      ]
+   },
+   {
+      "id": "FLSU6",
+      "name": "FLS U6",
+      "colorsCodeToPaint": "02020020202022022",
+      "setup": "",
+      "algorithmList": [
+         "U (R U' R' U) F' U2 (L' U L U') F"
+      ]
+   },
+   {
+      "id": "FLSU7",
+      "name": "FLS U7",
+      "colorsCodeToPaint": "02020020022022002002",
+      "setup": "",
+      "algorithmList": [
+         "(R U' R B U) B2 R' (B R U' R2)"
+      ]
+   },
+   {
+      "id": "FLSU8",
+      "name": "FLS U8",
+      "colorsCodeToPaint": "00020220202022002002",
+      "setup": "",
+      "algorithmList": [
+         "R U' R B' (R' B U' B U' B' U R')"
+      ]
+   },
+   {
+      "id": "FLST1",
+      "name": "FLS T1",
+      "colorsCodeToPaint": "2000022002202002202",
+      "setup": "",
+      "algorithmList": [
+         "(U) R' U' R' U' (R2 U R2 F') R' U R F"
+      ]
+   },
+   {
+      "id": "FLST2",
+      "name": "FLS T2",
+      "colorsCodeToPaint": "20000220022200002022",
+      "setup": "",
+      "algorithmList": [
+         "R U' R U2 F (R2 F' U2 R2)"
+      ]
+   },
+   {
+      "id": "FLST3",
+      "name": "FLS T3",
+      "colorsCodeToPaint": "2000022020220002202",
+      "setup": "",
+      "algorithmList": [
+         "y' R U' R2 U R' (U2 R2 F') U2 F R2"
+      ]
+   },
+   {
+      "id": "FLST4",
+      "name": "FLS T4",
+      "colorsCodeToPaint": "2200002002220002202",
+      "setup": "",
+      "algorithmList": [
+         "(R U R' U') y' (R U2 R2 U' R2 U' R')",
+         "(R U R' U') F U2 F2 U' F2 U' F'"
+      ]
+   },
+   {
+      "id": "FLST5",
+      "name": "FLS T5",
+      "colorsCodeToPaint": "22000020202200002022",
+      "setup": "",
+      "algorithmList": [
+         "y R U2 R2 D' (F R U' R') F2 D R"
+      ]
+   },
+   {
+      "id": "FLST6",
+      "name": "FLS T6",
+      "colorsCodeToPaint": "2200002020202002202",
+      "setup": "",
+      "algorithmList": [
+         "y U F U2 R U2 R' U (F' U' L' U L)"
+      ]
+   },
+   {
+      "id": "FLST7",
+      "name": "FLS T7",
+      "colorsCodeToPaint": "22000020022020002022",
+      "setup": "",
+      "algorithmList": [
+         "y F2 R' F' U' (R2 U' R2 U2 R F')"
+      ]
+   },
+   {
+      "id": "FLST8",
+      "name": "FLS T8",
+      "colorsCodeToPaint": "20000220202020002022",
+      "setup": "",
+      "algorithmList": [
+         "F' U2 L' U2 L U' F U (R U R')"
+      ]
+   },
+   {
+      "id": "FLSL1",
+      "name": "FLS L1",
+      "colorsCodeToPaint": "0000220202202002202",
+      "setup": "",
+      "algorithmList": [
+         "U' F' U L' U2 L U F (R U R')"
+      ]
+   },
+   {
+      "id": "FLSL2",
+      "name": "FLS L2",
+      "colorsCodeToPaint": "00002202022200002022",
+      "setup": "",
+      "algorithmList": [
+         "(R F R' F') R' U' R2 U R' U R2"
+      ]
+   },
+   {
+      "id": "FLSL3",
+      "name": "FLS L3",
+      "colorsCodeToPaint": "0000220220220002202",
+      "setup": "",
+      "algorithmList": [
+         "U R2 U2 (F R2 F') U2 R' U R'"
+      ]
+   },
+   {
+      "id": "FLSL4",
+      "name": "FLS L4",
+      "colorsCodeToPaint": "0200200202220002202",
+      "setup": "",
+      "algorithmList": [
+         "U' F2 U2 R' F2 R U2 (F U' F)"
+      ]
+   },
+   {
+      "id": "FLSL5",
+      "name": "FLS L5",
+      "colorsCodeToPaint": "02002002202200002022",
+      "setup": "",
+      "algorithmList": [
+         "F' U L' U' L U2 F U' (R U R')"
+      ]
+   },
+   {
+      "id": "FLSL6",
+      "name": "FLS L6",
+      "colorsCodeToPaint": "0200200220202002202",
+      "setup": "",
+      "algorithmList": [
+         "U' R U2 R' U2 F' U L' (U2 L U2 F)"
+      ]
+   },
+   {
+      "id": "FLSL7",
+      "name": "FLS L7",
+      "colorsCodeToPaint": "02002002022020002022",
+      "setup": "",
+      "algorithmList": [
+         "y F R' (U2 R2 U R2 U) F R F2"
+      ]
+   },
+   {
+      "id": "FLSL8",
+      "name": "FLS L8",
+      "colorsCodeToPaint": "00002202202020002022",
+      "setup": "",
+      "algorithmList": [
+         "F' L U2 L2 U' L2 U' F' L' F2"
+      ]
+   },
+   {
+      "id": "FLSCO1",
+      "name": "FLS CO1",
+      "colorsCodeToPaint": "00002220022200202002",
+      "setup": "",
+      "algorithmList": [
+         "(R' F R F') R' U2 R2 U R2 U R"
+      ]
+   },
+   {
+      "id": "FLSCO2",
+      "name": "FLS CO2",
+      "colorsCodeToPaint": "02002020202200202002",
+      "setup": "",
+      "algorithmList": [
+         "(R F R' F') R2 U R' F' U2 (F R U2 R2)"
+      ]
+   },
+   {
+      "id": "FLSH1",
+      "name": "FLS H1",
+      "colorsCodeToPaint": "202002000220200200202",
+      "setup": "",
+      "algorithmList": [
+         "R U R' U2 R U2 R' U (F' U' F)"
+      ]
+   },
+   {
+      "id": "FLSH2",
+      "name": "FLS H2",
+      "colorsCodeToPaint": "202002000222000000222",
+      "setup": "",
+      "algorithmList": [
+         "(y U) F U' R U' R' U R U' (R2 F R F2)"
+      ]
+   },
+   {
+      "id": "FLSH3",
+      "name": "FLS H3",
+      "colorsCodeToPaint": "222000002022000000222",
+      "setup": "",
+      "algorithmList": [
+         "U (R2 B' R2 F') R B2 R' F (R U B' R')"
+      ]
+   },
+   {
+      "id": "FLSH4",
+      "name": "FLS H4",
+      "colorsCodeToPaint": "222000002020200200202",
+      "setup": "",
+      "algorithmList": [
+         "U2 L F R' F2 R F U' (R U R' F L')"
+      ]
+   },
+   {
+      "id": "FLSPI1",
+      "name": "FLS PI1",
+      "colorsCodeToPaint": "002202000220220200002",
+      "setup": "",
+      "algorithmList": [
+         "R U' R B' R' U' R U2 (R' U R')"
+      ]
+   },
+   {
+      "id": "FLSPI2",
+      "name": "FLS PI2",
+      "colorsCodeToPaint": "002202000222020000022",
+      "setup": "",
+      "algorithmList": [
+         "U2 F R' F' R F R' F' U' (F R U2)"
+      ]
+   },
+   {
+      "id": "FLSPI3",
+      "name": "FLS PI3",
+      "colorsCodeToPaint": "002202002022020200002",
+      "setup": "",
+      "algorithmList": [
+         "F2 L F L2 U' L U L' U' L U' (LU F)"
+      ]
+   },
+   {
+      "id": "FLSPI4",
+      "name": "FLS PI4",
+      "colorsCodeToPaint": "022200000222020200002",
+      "setup": "",
+      "algorithmList": [
+         "(U') R' F R F' R' d' R U2 R' U2 F'"
+      ]
+   },
+   {
+      "id": "FLSPI5",
+      "name": "FLS PI5",
+      "colorsCodeToPaint": "022200002022020000022",
+      "setup": "",
+      "algorithmList": [
+         "F L F2 L' F' U' F2 L F2 L' F' U' F"
+      ]
+   },
+   {
+      "id": "FLSPI6",
+      "name": "FLS PI6",
+      "colorsCodeToPaint": "022200002020220200002",
+      "setup": "",
+      "algorithmList": [
+         "U' F2 U' F2 L F' R L' U' R' F2 U F2"
+      ]
+   },
+   {
+      "id": "FLSPI7",
+      "name": "FLS PI7",
+      "colorsCodeToPaint": "022200000220220000022",
+      "setup": "",
+      "algorithmList": [
+         "(U2) R U' R' F' U' L' U L F U F' U2 F"
+      ]
+   },
+   {
+      "id": "FLSPI8",
+      "name": "FLS PI8",
+      "colorsCodeToPaint": "002202002020220000022",
+      "setup": "",
+      "algorithmList": [
+         "L F' R U' R' U R U R' F2 R F' L'"
+      ]
+   },
+   {
+      "id": "FLSSUNE1",
+      "name": "FLS SUNE1",
+      "colorsCodeToPaint": "200002020220202200002",
+      "setup": "",
+      "algorithmList": [
+         "F' R' F R U2 y' R' U' R' U R2"
+      ]
+   },
+   {
+      "id": "FLSSUNE2",
+      "name": "FLS SUNE2",
+      "colorsCodeToPaint": "200002020222002000022",
+      "setup": "",
+      "algorithmList": [
+         "X R U R' U' l' D2 R D R' U R' D R U' X2"
+      ]
+   },
+   {
+      "id": "FLSSUNE3",
+      "name": "FLS SUNE3",
+      "colorsCodeToPaint": "200002022022002200002",
+      "setup": "",
+      "algorithmList": [
+         "R U R' U' F' R' U' F' U F R F"
+      ]
+   },
+   {
+      "id": "FLSSUNE4",
+      "name": "FLS SUNE4",
+      "colorsCodeToPaint": "220000020222002200002",
+      "setup": "",
+      "algorithmList": [
+         "R2 U R' U R U2 F R F' R'"
+      ]
+   },
+   {
+      "id": "FLSSUNE5",
+      "name": "FLS SUNE5",
+      "colorsCodeToPaint": "220000022022002000022",
+      "setup": "",
+      "algorithmList": [
+         "U2 F R U' R' L F2 L' U' L F' L' U2 F'"
+      ]
+   },
+   {
+      "id": "FLSSUNE6",
+      "name": "FLS SUNE6",
+      "colorsCodeToPaint": "220000022020202200002",
+      "setup": "",
+      "algorithmList": [
+         "U F R' F' R2 U2 R' U F' L F' L' F2"
+      ]
+   },
+   {
+      "id": "FLSSUNE7",
+      "name": "FLS SUNE7",
+      "colorsCodeToPaint": "220000020220202000022",
+      "setup": "",
+      "algorithmList": [
+         "R2 B' R2 U R U L' B2 L U B R'"
+      ]
+   },
+   {
+      "id": "FLSSUNE8",
+      "name": "FLS SUNE8",
+      "colorsCodeToPaint": "200002022020202000022",
+      "setup": "",
+      "algorithmList": [
+         "d' R' F2 U' F' R U R' U' F2 U R"
+      ]
+   },
+   {
+      "id": "FLSANTISUNE1",
+      "name": "FLS ANTISUNE1",
+      "colorsCodeToPaint": "0002022002202002022",
+      "setup": "",
+      "algorithmList": [
+         "U L (U' D) R U R' F R' F' R D' L'"
+      ]
+   },
+   {
+      "id": "FLSANTISUNE2",
+      "name": "FLS ANTISUNE2",
+      "colorsCodeToPaint": "00020220022200000222",
+      "setup": "",
+      "algorithmList": [
+         "R F R' F' U2 R U R' U R2"
+      ]
+   },
+   {
+      "id": "FLSANTISUNE3",
+      "name": "FLS ANTISUNE3",
+      "colorsCodeToPaint": "0002022020220002022",
+      "setup": "",
+      "algorithmList": [
+         "y' R2 U' R U R' y U2 R' F' R F"
+      ]
+   },
+   {
+      "id": "FLSANTISUNE4",
+      "name": "FLS ANTISUNE4",
+      "colorsCodeToPaint": "0202002002220002022",
+      "setup": "",
+      "algorithmList": [
+         "y L' U L d' R F U R U' R' F' R'"
+      ]
+   },
+   {
+      "id": "FLSANTISUNE5",
+      "name": "FLS ANTISUNE5",
+      "colorsCodeToPaint": "02020020202200000222",
+      "setup": "",
+      "algorithmList": [
+         "R' F R F' R U2 F R U R' U' F'"
+      ]
+   },
+   {
+      "id": "FLSANTISUNE6",
+      "name": "FLS ANTISUNE6",
+      "colorsCodeToPaint": "0202002020202002022",
+      "setup": "",
+      "algorithmList": [
+         "F U' L' U2 L F L' U L U' F'"
+      ]
+   },
+   {
+      "id": "FLSANTISUNE7",
+      "name": "FLS ANTISUNE7",
+      "colorsCodeToPaint": "02020020022020000222",
+      "setup": "",
+      "algorithmList": [
+         "U F' U' R U R' U' F U R U R'"
+      ]
+   },
+   {
+      "id": "FLSANTISUNE8",
+      "name": "FLS ANTISUNE8",
+      "colorsCodeToPaint": "00020220202020000222",
+      "setup": "",
+      "algorithmList": [
+         "U2 R' U' R U F R U R' U' F' U2 R"
+      ]
+   }
+]
