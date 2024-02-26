@@ -17,8 +17,8 @@
             "name": "OLL",
             "description": "",
             "difficulty": 2,
-            "puzzlePaintId": 1,
-            "codeToPaint": "222000000-020000000-202020000",
+            "puzzlePaintId": 2,
+            "codeToPaint": "466522235222362223445",
             "casesAmount": 21
         },
         {
@@ -60,6 +60,33 @@
         {
             "id": "3x3-COLL",
             "name": "COLL",
+            "description": "",
+            "difficulty": 4,
+            "puzzlePaintId": 2,
+            "codeToPaint": "203362250222046225204",
+            "casesAmount": 20
+        },
+        {
+            "id": "3x3-BLE",
+            "name": "BLE",
+            "description": "",
+            "difficulty": 4,
+            "puzzlePaintId": 2,
+            "codeToPaint": "203362250222046225204",
+            "casesAmount": 20
+        },
+        {
+            "id": "3x3-FLS",
+            "name": "FLS",
+            "description": "",
+            "difficulty": 4,
+            "puzzlePaintId": 2,
+            "codeToPaint": "203362250222046225204",
+            "casesAmount": 20
+        },
+        {
+            "id": "3x3-CLS",
+            "name": "CLS",
             "description": "",
             "difficulty": 4,
             "puzzlePaintId": 2,
