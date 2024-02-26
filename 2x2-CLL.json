@@ -31,15 +31,6 @@
       ]
    },
    {
-      "id": "CLL05",
-      "name": "CLL AS 5",
-      "colorsCodeToPaint": "425264635223",
-      "setup": "",
-      "algorithmList": [
-         "y2 R U2 R' U2 R' F R F'"
-      ]
-   },
-   {
       "id": "CLL04",
       "name": "CLL AS 4",
       "colorsCodeToPaint": "326245356224",
@@ -47,6 +38,15 @@
       "algorithmList": [
          "y2 R' F R F' R U R'",
          "y2 L' U L F' R U R'"
+      ]
+   },
+   {
+      "id": "CLL05",
+      "name": "CLL AS 5",
+      "colorsCodeToPaint": "425264635223",
+      "setup": "",
+      "algorithmList": [
+         "y2 R U2 R' U2 R' F R F'"
       ]
    },
    {
