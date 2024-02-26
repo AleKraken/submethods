@@ -10,7 +10,7 @@
             "difficulty": 3,
             "puzzlePaintId": 2,
             "codeToPaint": "466522235222362223445",
-            "casesAmount": 57
+            "casesAmount": 21
         },
         {
             "id": "3x3-OLL",
@@ -19,7 +19,7 @@
             "difficulty": 2,
             "puzzlePaintId": 2,
             "codeToPaint": "466522235222362223445",
-            "casesAmount": 21
+            "casesAmount": 57
         },
         {
             "id": "3x3-F2L",
