@@ -1,0 +1,191 @@
+[
+   {
+      "id": "OHPLLAa",
+      "name": "Aa",
+      "colorsCodeToPaint": "454522263222432223665",
+      "setup": "",
+      "algorithmList": [
+         "x R' U (R' D2) R U' (R' D2 R2)"
+      ]
+   },
+   {
+      "id": "OHPLLAb",
+      "name": "Ab",
+      "colorsCodeToPaint": "653422253222432225664",
+      "setup": "",
+      "algorithmList": [
+         "x (R2 D2) R U (R' D2) R U' R"
+      ]
+   },
+   {
+      "id": "OHPLLE",
+      "name": "E",
+      "colorsCodeToPaint": "354622263222452225364",
+      "setup": "",
+      "algorithmList": [
+         "y' R2 U R' U' y (R U R' U') (R U R' U') R U R' y' R U' R2"
+      ]
+   },
+   {
+      "id": "OHPLLF",
+      "name": "F",
+      "colorsCodeToPaint": "564322263222432225654",
+      "setup": "",
+      "algorithmList": [
+         "y' (R U R' U') R' U R U2 R' L' U R U' L U' R U' R'"
+      ]
+   },
+   {
+      "id": "OHPLLGa",
+      "name": "Ga",
+      "colorsCodeToPaint": "436522234222552224366",
+      "setup": "",
+      "algorithmList": [
+         "R2 u R' U R' U' R u' R2 y' R' U R"
+      ]
+   },
+   {
+      "id": "OHPLLGb",
+      "name": "Gb",
+      "colorsCodeToPaint": "534322264222632225654",
+      "setup": "",
+      "algorithmList": [
+         "R' U' R y R2 u R' U R U' R u' R2"
+      ]
+   },
+   {
+      "id": "OHPLLGc",
+      "name": "Gc",
+      "colorsCodeToPaint": "466522233222552224346",
+      "setup": "",
+      "algorithmList": [
+         "R2 u' R U' R U R' u R2 y R U' R'"
+      ]
+   },
+   {
+      "id": "OHPLLGd",
+      "name": "Gd",
+      "colorsCodeToPaint": "653422253222642226543",
+      "setup": "",
+      "algorithmList": [
+         "R U R' y' R2 u' R U' R' U R' u R2"
+      ]
+   },
+   {
+      "id": "OHPLLH",
+      "name": "H",
+      "colorsCodeToPaint": "565322244222332224656",
+      "setup": "",
+      "algorithmList": [
+         "x' R r U2' R' r' u' U' R2 U D "
+      ]
+   },
+   {
+      "id": "OHPLLJa",
+      "name": "Ja",
+      "colorsCodeToPaint": "544322263222532225664",
+      "setup": "",
+      "algorithmList": [
+         "R' U2 R U R' U2 L U' R U L'"
+      ]
+   },
+   {
+      "id": "OHPLLJb",
+      "name": "Jb",
+      "colorsCodeToPaint": "554322263222632225644",
+      "setup": "",
+      "algorithmList": [
+         "R U2 R' U' R U2 z U' R z' R' U' L"
+      ]
+   },
+   {
+      "id": "OHPLLNa",
+      "name": "Na",
+      "colorsCodeToPaint": "556322234222342224566",
+      "setup": "",
+      "algorithmList": [
+         "R U R' U (R U2 R' U' R U2 L' U R' U' L) U' R U' R'"
+      ]
+   },
+   {
+      "id": "OHPLLNb",
+      "name": "Nb",
+      "colorsCodeToPaint": "655422244222332223665",
+      "setup": "",
+      "algorithmList": [
+         "R' U' R U' (R' U2 R U R' U2 L U' R U L') U R' U R"
+      ]
+   },
+   {
+      "id": "OHPLLRa",
+      "name": "Ra",
+      "colorsCodeToPaint": "534322265222432225664",
+      "setup": "",
+      "algorithmList": [
+         "R U' R' U' R U R (D R') U' R (D' R') U2 R'"
+      ]
+   },
+   {
+      "id": "OHPLLRb",
+      "name": "Rb",
+      "colorsCodeToPaint": "663422255222342226543",
+      "setup": "",
+      "algorithmList": [
+         "y' R' U2 R' D' R U' R' D R U R U' R' U' R"
+      ]
+   },
+   {
+      "id": "OHPLLT",
+      "name": "T",
+      "colorsCodeToPaint": "554322264222332225664",
+      "setup": "",
+      "algorithmList": [
+         "R U R' U' R' F R2 U' R' U' R U R' F'"
+      ]
+   },
+   {
+      "id": "OHPLLUa",
+      "name": "Ua",
+      "colorsCodeToPaint": "535322244222532224666",
+      "setup": "",
+      "algorithmList": [
+         "y2 R U' R U R U R U' R' U' R2"
+      ]
+   },
+   {
+      "id": "OHPLLUb",
+      "name": "Ub",
+      "colorsCodeToPaint": "545322245222332224666",
+      "setup": "",
+      "algorithmList": [
+         "y2 z U' R U' R' U' R' U' R U R U2 z'"
+      ]
+   },
+   {
+      "id": "OHPLLV",
+      "name": "V",
+      "colorsCodeToPaint": "645422243222532223665",
+      "setup": "",
+      "algorithmList": [
+         "R' U R U' x' U R U2 R' U' R U' R' U2 R U R' U'"
+      ]
+   },
+   {
+      "id": "OHPLLY",
+      "name": "Y",
+      "colorsCodeToPaint": "635422245222432223665",
+      "setup": "",
+      "algorithmList": [
+         "R2 U' R' U R U' x' U' z' U' R U' R' U' z U R"
+      ]
+   },
+   {
+      "id": "OHPLLZ",
+      "name": "Z",
+      "colorsCodeToPaint": "545322246222532224636",
+      "setup": "",
+      "algorithmList": [
+         "(R' U' R U') (R U R U') (R' U R U) R2 U' R'"
+      ]
+   }
+]
