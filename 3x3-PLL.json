@@ -1,1 +1,248 @@
-
+[
+   {
+      "id": "PLL01",
+      "name": "Aa",
+      "colorsCodeToPaint": "363622254222342224556",
+      "setup": "",
+      "algorithmList": [
+         "l' U R' D2 R U' R' D2 R2",
+         "x R' U R' D2 R U' R' D2 R2",
+         "y x' R2 D2 R' U' R D2 R' U R' x"
+      ]
+   },
+   {
+      "id": "PLL02",
+      "name": "Ab",
+      "colorsCodeToPaint": "564322264222342226553",
+      "setup": "",
+      "algorithmList": [
+         "x R2 D2 R U R' D2 R U' R x'",
+         "l' R' D2 R U R' D2 R U' R x'",
+         "y x' R U' R D2 R' U R D2 R2 x",
+         "y' x L U' L D2 L' U L D2 L2"
+      ]
+   },
+   {
+      "id": "PLL03",
+      "name": "E",
+      "colorsCodeToPaint": "364622264222352225354",
+      "setup": "",
+      "algorithmList": [
+         "y x' R U' R' D R U R' D' R U R' D R U' R' D' x",
+         "R2 U R' U' y R U R' U' R U R' U' R U R' y' R U' R2",
+         "z U2 R2 F R U R' U' R U R' U' R U R' U' F' R2 U2 z'"
+      ]
+   },
+   {
+      "id": "PLL04",
+      "name": "F",
+      "colorsCodeToPaint": "536322235222662225444",
+      "setup": "",
+      "algorithmList": [
+         "y R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R",
+         "y2 R' U2 R' d' R' F' R2 U' R' U R' F R U' F",
+         "R' U R U' R2 F' U' F U R F R' F' R2"
+      ]
+   },
+   {
+      "id": "PLL05",
+      "name": "Ga",
+      "colorsCodeToPaint": "653422256222442226533",
+      "setup": "",
+      "algorithmList": [
+         "R2 u R' U R' U' R u' R2 y' R' U R",
+         "R2 U R' U R' U' R U' R2 D U' R' U R D'",
+         "R2 u R' U R' U' R u' R2 F' U F",
+         "D' R2 U R' U R' U' R U' R2 U' D R' U R"
+      ]
+   },
+   {
+      "id": "PLL06",
+      "name": "Gb",
+      "colorsCodeToPaint": "643422253222542226563",
+      "setup": "",
+      "algorithmList": [
+         "R' U' R U D' R2 U R' U R U' R U' R2 D",
+         "R' U' R y R2 u R' U R U' R u' R2",
+         "y F' U' F R2 u R' U R U' R u' R2",
+         "R' d' F R2 u R' U R U' R u' R2"
+      ]
+   },
+   {
+      "id": "PLL07",
+      "name": "Gc",
+      "colorsCodeToPaint": "633422255222442226563",
+      "setup": "",
+      "algorithmList": [
+         "y2 R2 F2 R U2 R U2 R' F R U R' U' R' F R2",
+         "R2 U' R U' R U R' U R2 D' U R U' R' D",
+         "R2 u' R U' R U R' u R2 f R' f'"
+      ]
+   },
+   {
+      "id": "PLL08",
+      "name": "Gd",
+      "colorsCodeToPaint": "653422253222642226543",
+      "setup": "",
+      "algorithmList": [
+         "R U R' U' D R2 U' R U' R' U R' U R2 D'",
+         "R U R' y' R2 u' R U' R' U R' u R2",
+         "D' R U R' U' D R2 U' R U' R' U R' U R2",
+         "f R f' R2 u' R U' R' U R' u R2"
+      ]
+   },
+   {
+      "id": "PLL09",
+      "name": "H",
+      "colorsCodeToPaint": "656422233222442223565",
+      "setup": "",
+      "algorithmList": [
+         "M2 U M2 U2 M2 U M2",
+         "M2 U' M2 U2 M2 U' M2",
+         "R2 U2 R U2 R2 U2 R2 U2 R U2 R2"
+      ]
+   },
+   {
+      "id": "PLL10",
+      "name": "Ja",
+      "colorsCodeToPaint": "466522235222362223445",
+      "setup": "",
+      "algorithmList": [
+         "L' U' L F L' U' L U L F' L2 U L",
+         "y2 x R2 F R F' R U2 r' U r U2 x'",
+         "y R' U L' U2 R U' R' U2 R L",
+         "y2 R' U2 R U R' U2 L U' R U L'"
+      ]
+   },
+   {
+      "id": "PLL11",
+      "name": "Jb",
+      "colorsCodeToPaint": "663422254222542226533",
+      "setup": "",
+      "algorithmList": [
+         "R U R' F' R U R' U' R' F R2 U' R'",
+         "R U2 R' U' R U2 L' U R' U' L",
+         "R U2 R' U' R U2 L' U R' U' r x",
+         "L' U R U' L U2 R' U R U2 R'"
+      ]
+   },
+   {
+      "id": "PLL12",
+      "name": "Na",
+      "colorsCodeToPaint": "334622265222652225344",
+      "setup": "",
+      "algorithmList": [
+         "R U R' U R U R' F' R U R' U' R' F R2 U' R' U2 R U' R'",
+         "z U R' D R2 U' R D' U R' D R2 U' R D' z'",
+         "L U' R U2 L' U R' L U' R U2 L' U R'",
+         "r' D r U2 r' D r U2 r' D r U2 r' D r U2 r' D r"
+      ]
+   },
+   {
+      "id": "PLL13",
+      "name": "Nb",
+      "colorsCodeToPaint": "344622266222552225334",
+      "setup": "",
+      "algorithmList": [
+         "R' U R U' R' F' U' F R U R' F R' F' R U' R",
+         "R' U L' U2 R U' L R' U L' U2 R U' L",
+         "z D' R U' R2 D R' U D' R U' R2 D R' U z'",
+         "r D r' U2 r D r' U2 r D r' U2 r D r' U2 r D r'"
+      ]
+   },
+   {
+      "id": "PLL14",
+      "name": "Ra",
+      "colorsCodeToPaint": "645422243222652226353",
+      "setup": "",
+      "algorithmList": [
+         "y R U R' F' R U2 R' U2 R' F R U R U2 R'",
+         "y R U' R' U' R U R D R' U' R D' R' U2 R'",
+         "L U2 L' U2 L F' L' U' L U L F L2"
+      ]
+   },
+   {
+      "id": "PLL15",
+      "name": "Rb",
+      "colorsCodeToPaint": "536322236222462225454",
+      "setup": "",
+      "algorithmList": [
+         "R' U2 R U2 R' F R U R' U' R' F' R2",
+         "R' U2 R' D' R U' R' D R U R U' R' U' R",
+         "y R2 F R U R U' R' F' R U2 R' U2 R",
+         "y' R U2 R' U2 R' F R2 U' R' U' R U R' F' R U R' U R U2 R'"
+      ]
+   },
+   {
+      "id": "PLL16",
+      "name": "T",
+      "colorsCodeToPaint": "663422253222442226553",
+      "setup": "",
+      "algorithmList": [
+         "R U R' U' R' F R2 U' R' U' R U R' F'",
+         "R U R' U' R' F R2 U' R' U F' L' U L",
+         "y2 L' U' L U L F' L2 U L U L' U' L F",
+         "R2 U R2 U' R2 U' D R2 U' R2 U R2 D'"
+      ]
+   },
+   {
+      "id": "PLL17",
+      "name": "Ua",
+      "colorsCodeToPaint": "646422233222642223555",
+      "setup": "",
+      "algorithmList": [
+         "M2 U M' U2 M U M2",
+         "y2 R U' R U R U R U' R' U' R2",
+         "R2 U' R' U' R U R U R U' R",
+         "y2 M2 U M U2 M' U M2"
+      ]
+   },
+   {
+      "id": "PLL18",
+      "name": "Ub",
+      "colorsCodeToPaint": "636422236222442223555",
+      "setup": "",
+      "algorithmList": [
+         "M2 U' M' U2 M U' M2",
+         "y2 R2 U R U R' U' R' U' R' U R'",
+         "R' U R' U' R' U' R' U R U R2",
+         "y2 M2 U' M U2 M' U' M2"
+      ]
+   },
+   {
+      "id": "PLL19",
+      "name": "V",
+      "colorsCodeToPaint": "453522256222362226443",
+      "setup": "",
+      "algorithmList": [
+         "R' U R' d' R' F' R2 U' R' U R' F R F",
+         "R' U R' U' y R' F' R2 U' R' U R' F R F",
+         "R' U R' U' R D' R' D R' U D' R2 U' R2 D R2",
+         "z D' R2 D R2 U R' D' R U' R U R' D R U'"
+      ]
+   },
+   {
+      "id": "PLL20",
+      "name": "Y",
+      "colorsCodeToPaint": "546322236222342224556",
+      "setup": "",
+      "algorithmList": [
+         "F R U' R' U' R U R' F' R U R' U' R' F R F'",
+         "F R' F R2 U' R' U' R U R' F' R U R' U' F'",
+         "R2 U' R2 U' R2 U R' F' R U R2 U' R' F R",
+         "R2 D' R2 U R2 U' R2 D R2 U' R2 U R2 U R2"
+      ]
+   },
+   {
+      "id": "PLL21",
+      "name": "Z",
+      "colorsCodeToPaint": "535322245222632224646",
+      "setup": "",
+      "algorithmList": [
+         "M2 U M2 U M' U2 M2 U2 M'",
+         "y M2 U' M2 U' M' U2 M2 U2 M'",
+         "M' U' M2 U' M2 U' M' U2 M2",
+         "y R' U' R U' R U R U' R' U R U R2 U' R'"
+      ]
+   }
+]
