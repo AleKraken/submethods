@@ -410,5 +410,527 @@
       "algorithmList": [
          "U' R U' R' U' R U' R' U R U2 R'"
       ]
+   },
+   {
+      "id": "CLSRFU00",
+      "name": "RFU00",
+      "colorsCodeToPaint": "000022200222002231005",
+      "setup": "",
+      "algorithmList": [
+         "U R' D' R U' R' D R",
+         " L D' L' U L D L'",
+         "U2 R' D' R U2 R' D R"
+      ]
+   },
+   {
+      "id": "CLSRFU01",
+      "name": "RFU01",
+      "colorsCodeToPaint": "000022200222020231005",
+      "setup": "",
+      "algorithmList": [
+         "U' R U2 R' U R U2 R' U R U2 R'",
+         "R' D R' U2 R D' R' U2 R2"
+      ]
+   },
+   {
+      "id": "CLSRFU02",
+      "name": "RFU02",
+      "colorsCodeToPaint": "000022200222000231205",
+      "setup": "",
+      "algorithmList": [
+         "y' U R' U R U R' U2 R",
+         "U F' R U R' U' R' F R U' R U R'"
+      ]
+   },
+   {
+      "id": "CLSRFU03",
+      "name": "RFU03",
+      "colorsCodeToPaint": "200002200222002231005",
+      "setup": "",
+      "algorithmList": [
+         "R U R' U' R' F' R U R U' R' F",
+         "U R U2 R' U2 R U R' U2 R U2 R'",
+         "y' R D L2 D' R' D L2 D'"
+      ]
+   },
+   {
+      "id": "CLSRFU04",
+      "name": "RFU04",
+      "colorsCodeToPaint": "200002200222020231005",
+      "setup": "",
+      "algorithmList": [
+         "U2 R U2 R' U R U2 R' U2 R U R'",
+         "U R' U R D R' U R U D' R' U R",
+         "y M' U2 r' U' F2 U F2 R"
+      ]
+   },
+   {
+      "id": "CLSRFU05",
+      "name": "RFU05",
+      "colorsCodeToPaint": "200002200222000231205",
+      "setup": "",
+      "algorithmList": [
+         "U R U' R' U R U R' U' R U R'",
+         "y' R' U2 R U' R2 U2 R U R' U R2"
+      ]
+   },
+   {
+      "id": "CLSRFU06",
+      "name": "RFU06",
+      "colorsCodeToPaint": "000202200222002231005",
+      "setup": "",
+      "algorithmList": [
+         "U' R U2 R' U R U R'"
+      ]
+   },
+   {
+      "id": "CLSRFU07",
+      "name": "RFU07",
+      "colorsCodeToPaint": "000202200222020231005",
+      "setup": "",
+      "algorithmList": [
+         "U2 R U R' U R2 U2 R' U' R U' R' U R'",
+         "y' U R2 U2 R2 U R' U' R' U2 R U' R"
+      ]
+   },
+   {
+      "id": "CLSRFU08",
+      "name": "RFU08",
+      "colorsCodeToPaint": "000202200222000231205",
+      "setup": "",
+      "algorithmList": [
+         "U2 R U' R2 U2 R U R' U R U' R U2 R'",
+         "U' R' D' R U R' D R2 U2 R' U' R U' R'",
+         "y' R' U R2 U2 R' U' R U' R2 U' R"
+      ]
+   },
+   {
+      "id": "CLSRFU09",
+      "name": "RFU09",
+      "colorsCodeToPaint": "000022020222002231005",
+      "setup": "",
+      "algorithmList": [
+         "U' R U R' U' R U' R' U' R U R'",
+         "y' R' U' R U R' U R U' R' U R"
+      ]
+   },
+   {
+      "id": "CLSRFU10",
+      "name": "RFU10",
+      "colorsCodeToPaint": "000022020222020231005",
+      "setup": "",
+      "algorithmList": [
+         "U R U R' U2 R U R'"
+      ]
+   },
+   {
+      "id": "CLSRFU11",
+      "name": "RFU11",
+      "colorsCodeToPaint": "000022020222000231205",
+      "setup": "",
+      "algorithmList": [
+         "U' R U' R' U R U F R' U R U' F' R'",
+         "y L' U L' F2 U2 L U L' U F2 L2"
+      ]
+   },
+   {
+      "id": "CLSRFU12",
+      "name": "RFU12",
+      "colorsCodeToPaint": "200002020222002231005",
+      "setup": "",
+      "algorithmList": [
+         "y' U R' U R U2 R' U R"
+      ]
+   },
+   {
+      "id": "CLSRFU13",
+      "name": "RFU13",
+      "colorsCodeToPaint": "200002020222020231005",
+      "setup": "",
+      "algorithmList": [
+         "y' U' R' U2 R U R' U' R U' R' U' R"
+      ]
+   },
+   {
+      "id": "CLSRFU14",
+      "name": "RFU14",
+      "colorsCodeToPaint": "200002020222000231205",
+      "setup": "",
+      "algorithmList": [
+         "y' U2 R' U R U2 R' U2 R U2 R' U R"
+      ]
+   },
+   {
+      "id": "CLSRFU15",
+      "name": "RFU15",
+      "colorsCodeToPaint": "000202020222002231005",
+      "setup": "",
+      "algorithmList": [
+         "R' U R U2 R2 U' R U2 R' U' R2",
+         "y' R' U R' U2 R U R' U R2"
+      ]
+   },
+   {
+      "id": "CLSRFU16",
+      "name": "RFU16",
+      "colorsCodeToPaint": "000202020222020231005",
+      "setup": "",
+      "algorithmList": [
+         "U R U' L' U2 L U' R' U2 L' U L",
+         "y' R' U R U' R U R' U R U2 R2 U R"
+      ]
+   },
+   {
+      "id": "CLSRFU17",
+      "name": "RFU17",
+      "colorsCodeToPaint": "000202020222000231205",
+      "setup": "",
+      "algorithmList": [
+         "U' R U' R' U' R U R' U R U2 R' U R U' R'",
+         "y' U' L' U R' U' R L U' R' U2 R"
+      ]
+   },
+   {
+      "id": "CLSRFU18",
+      "name": "RFU18",
+      "colorsCodeToPaint": "002022000222002231005",
+      "setup": "",
+      "algorithmList": [
+         "U R U2 R' U2 R U R' U R U' R'",
+         "y' U' L' U R' U' L U R"
+      ]
+   },
+   {
+      "id": "CLSRFU19",
+      "name": "RFU19",
+      "colorsCodeToPaint": "002022000222020231005",
+      "setup": "",
+      "algorithmList": [
+         "y' U' R2 U' R U' R' U2 R U' R",
+         "y L F' L' U2 R' F' R U2 F"
+      ]
+   },
+   {
+      "id": "CLSRFU20",
+      "name": "RFU20",
+      "colorsCodeToPaint": "002022000222000231205",
+      "setup": "",
+      "algorithmList": [
+         "U' R' D' R U R' D U' R U' R' U2 R",
+         "y' R F2 U2 R' U' R U' F2 R'"
+      ]
+   },
+   {
+      "id": "CLSRFU21",
+      "name": "RFU21",
+      "colorsCodeToPaint": "202002000222002231005",
+      "setup": "",
+      "algorithmList": [
+         "y' U R' U R2 D R' U2 R D' R2 U R",
+         "y' R' U2 R2 U' R U2 R U R' U R' U R'"
+      ]
+   },
+   {
+      "id": "CLSRFU22",
+      "name": "RFU22",
+      "colorsCodeToPaint": "202002000222020231005",
+      "setup": "",
+      "algorithmList": [
+         "U L U' R U R' U' R U R' L' U' R U R'",
+         "y U L' U2 L U' F2 R U R' U' F2"
+      ]
+   },
+   {
+      "id": "CLSRFU23",
+      "name": "RFU23",
+      "colorsCodeToPaint": "002202000222000231205",
+      "setup": "",
+      "algorithmList": [
+         "y' U R' U (R U R') U R U' R' U2 R"
+      ]
+   },
+   {
+      "id": "CLSRFU24",
+      "name": "RFU24",
+      "colorsCodeToPaint": "002202000222002231005",
+      "setup": "",
+      "algorithmList": [
+         "U2 R U' R' U2 R U R' U R U R'",
+         "y' U R' U R U2 R' U' R U R' U R"
+      ]
+   },
+   {
+      "id": "CLSRFU25",
+      "name": "RFU25",
+      "colorsCodeToPaint": "002202000222020231005",
+      "setup": "",
+      "algorithmList": [
+         "U2 R U2 R' U R U2 L U' R' U L'",
+         "y' U' R' U' R U' R' U' R U R' U2 R"
+      ]
+   },
+   {
+      "id": "CLSRFU26",
+      "name": "RFU26",
+      "colorsCodeToPaint": "202002000222000231205",
+      "setup": "",
+      "algorithmList": [
+         "U' (R U2 R' U) (R U' R' U') R U' R' "
+      ]
+   },
+   {
+      "id": "CLSUFR00",
+      "name": "UFR00",
+      "colorsCodeToPaint": "000022200222002215003",
+      "setup": "",
+      "algorithmList": [
+         "R2 U R2 U R2 U2 R2",
+         "U2 R2 U2 R2 U' R2 U' R2",
+         "R' F R F' R' F R F' R' F R F'",
+         "U' R U' R' U R U2 R' U' R U R'"
+      ]
+   },
+   {
+      "id": "CLSUFR01",
+      "name": "UFR01",
+      "colorsCodeToPaint": "002022000222002215003",
+      "setup": "",
+      "algorithmList": [
+         "D R' U' R U R' U' R U' R' U R D'",
+         "y' U R' U' R U R' U' R U' R' U R"
+      ]
+   },
+   {
+      "id": "CLSUFR02",
+      "name": "UFR02",
+      "colorsCodeToPaint": "000022020222002215003",
+      "setup": "",
+      "algorithmList": [
+         "y' U' R' U2 R U R' U2 R U R' U2 R"
+      ]
+   },
+   {
+      "id": "CLSUFR03",
+      "name": "UFR03",
+      "colorsCodeToPaint": "000202200222002215003",
+      "setup": "",
+      "algorithmList": [
+         "U2 R U' R' U R U R' U R U' R'",
+         "U R U' R' U R U' R' U2 R U2 R'"
+      ]
+   },
+   {
+      "id": "CLSUFR04",
+      "name": "UFR04",
+      "colorsCodeToPaint": "002202000222002215003",
+      "setup": "",
+      "algorithmList": [
+         "R U' R2 U' R U' R' U2 R2 U R'"
+      ]
+   },
+   {
+      "id": "CLSUFR05",
+      "name": "UFR05",
+      "colorsCodeToPaint": "000202020222002215003",
+      "setup": "",
+      "algorithmList": [
+         "U R U R' U' R U2 R' U R U' R'"
+      ]
+   },
+   {
+      "id": "CLSUFR06",
+      "name": "UFR06",
+      "colorsCodeToPaint": "200002200222002215003",
+      "setup": "",
+      "algorithmList": [
+         "y' U2 R' U R U' R' U' R U' R' U R",
+         "y U2 R' U' R' D R U R' D' R2"
+      ]
+   },
+   {
+      "id": "CLSUFR07",
+      "name": "UFR07",
+      "colorsCodeToPaint": "202002000222002215003",
+      "setup": "",
+      "algorithmList": [
+         "U (R U' R' U) (R U' R' U) R U' R'",
+         "R U R' U' (R U R' U') R U R' U'"
+      ]
+   },
+   {
+      "id": "CLSUFR08",
+      "name": "UFR08",
+      "colorsCodeToPaint": "200002020222002215003",
+      "setup": "",
+      "algorithmList": [
+         "U2 R U' R' U' R U' R' U2 R U R'"
+      ]
+   },
+   {
+      "id": "CLSUFR09",
+      "name": "UFR09",
+      "colorsCodeToPaint": "000022200222000215203",
+      "setup": "",
+      "algorithmList": [
+         "U R U2 R' U' R U2 R' U' R U2 R'"
+      ]
+   },
+   {
+      "id": "CLSUFR10",
+      "name": "UFR10",
+      "colorsCodeToPaint": "002022000222000215203",
+      "setup": "",
+      "algorithmList": [
+         "U' R U R' U R U' R' U2 R U R'"
+      ]
+   },
+   {
+      "id": "CLSUFR11",
+      "name": "UFR11",
+      "colorsCodeToPaint": "000022020222000215203",
+      "setup": "",
+      "algorithmList": [
+         "U R' U R U' R2 U' R2 U2 R2 U' R U' R"
+      ]
+   },
+   {
+      "id": "CLSUFR12",
+      "name": "UFR12",
+      "colorsCodeToPaint": "000202200222000215203",
+      "setup": "",
+      "algorithmList": [
+         "y' U2 R' U R U R' U R U2 R' U' R"
+      ]
+   },
+   {
+      "id": "CLSUFR13",
+      "name": "UFR13",
+      "colorsCodeToPaint": "002202000222000215203",
+      "setup": "",
+      "algorithmList": [
+         "U2 R U2 R' U2 R U' R' U R U' R'",
+         "U2 R U2 R' U2 R U' R' U R U' R' U"
+      ]
+   },
+   {
+      "id": "CLSUFR14",
+      "name": "UFR14",
+      "colorsCodeToPaint": "000202020222000215203",
+      "setup": "",
+      "algorithmList": [
+         "y' U' R' U R U' R' U R U' R' U' R U R' U R",
+         "R' U R U R2 U2 R U R2 U R' U' R'"
+      ]
+   },
+   {
+      "id": "CLSUFR15",
+      "name": "UFR15",
+      "colorsCodeToPaint": "200002200222000215203",
+      "setup": "",
+      "algorithmList": [
+         "y' U' R' U' R U R' U2 R U' R' U R"
+      ]
+   },
+   {
+      "id": "CLSUFR16",
+      "name": "UFR16",
+      "colorsCodeToPaint": "202002000222000215203",
+      "setup": "",
+      "algorithmList": [
+         "y' R' U' R U2 R' U2 R U2 R' U' R"
+      ]
+   },
+   {
+      "id": "CLSUFR17",
+      "name": "UFR17",
+      "colorsCodeToPaint": "200002020222000215203",
+      "setup": "",
+      "algorithmList": [
+         "U R U' R' U R U' R' U R U R' U' R U' R'",
+         "y' R U' R' U' R2 U2 R' U' R2 U' R U R"
+      ]
+   },
+   {
+      "id": "CLSUFR18",
+      "name": "UFR18",
+      "colorsCodeToPaint": "000022200222020215003",
+      "setup": "",
+      "algorithmList": [
+         "U' R U R' U' R U R' U R U' R'"
+      ]
+   },
+   {
+      "id": "CLSUFR19",
+      "name": "UFR19",
+      "colorsCodeToPaint": "002022000222020215003",
+      "setup": "",
+      "algorithmList": [
+         "y' U' R' U' R U R' U2 R U2 R' U2 R"
+      ]
+   },
+   {
+      "id": "CLSUFR20",
+      "name": "UFR20",
+      "colorsCodeToPaint": "000022020222020215003",
+      "setup": "",
+      "algorithmList": [
+         "y' U R' U' R U' R' U R U2 R' U' R"
+      ]
+   },
+   {
+      "id": "CLSUFR21",
+      "name": "UFR21",
+      "colorsCodeToPaint": "000202200222020215003",
+      "setup": "",
+      "algorithmList": [
+         "y' R' U' R U R' U' R U R' U' R",
+         "y' R' U' R U R' U' R U R' U' R U"
+      ]
+   },
+   {
+      "id": "CLSUFR22",
+      "name": "UFR22",
+      "colorsCodeToPaint": "002202000222020215003",
+      "setup": "",
+      "algorithmList": [
+         "U R U2 R' U' R U2 R' U2 R U' R'"
+      ]
+   },
+   {
+      "id": "CLSUFR23",
+      "name": "UFR23",
+      "colorsCodeToPaint": "000202020222020215003",
+      "setup": "",
+      "algorithmList": [
+         "R U R' U2 R U2 R' U2 R U R'"
+      ]
+   },
+   {
+      "id": "CLSUFR24",
+      "name": "UFR24",
+      "colorsCodeToPaint": "200002200222020215003",
+      "setup": "",
+      "algorithmList": [
+         "y' R' U R2 U R' U R U2 R2 U' R"
+      ]
+   },
+   {
+      "id": "CLSUFR25",
+      "name": "UFR25",
+      "colorsCodeToPaint": "202002000222020215003",
+      "setup": "",
+      "algorithmList": [
+         "y' U' R' U2 R U R' U2 R U2 R' U R"
+      ]
+   },
+   {
+      "id": "CLSUFR26",
+      "name": "UFR26",
+      "colorsCodeToPaint": "200002020222020215003",
+      "setup": "",
+      "algorithmList": [
+         "y' U2 R' U2 R U2 R' U R U' R' U R",
+         "y' U2 R' U2 R U2 R' U R U' R' U R U'"
+      ]
    }
 ]
