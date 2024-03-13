@@ -92,6 +92,24 @@
             "puzzlePaintId": 2,
             "codeToPaint": "203362250222046225204",
             "casesAmount": 20
+        },
+        {
+            "id": "3x3-MirrorBLE",
+            "name": "BLE Mirror",
+            "description": "",
+            "difficulty": 4,
+            "puzzlePaintId": 2,
+            "codeToPaint": "203362250222046225204",
+            "casesAmount": 20
+        },
+        {
+            "id": "3x3-MirrorWV",
+            "name": "Winter Variation Mirror",
+            "description": "",
+            "difficulty": 3,
+            "puzzlePaintId": 1,
+            "codeToPaint": "001552552-330033033-222225225",
+            "casesAmount": 20
         }
     ]
   },
