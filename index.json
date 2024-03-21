@@ -7,7 +7,7 @@
             "id": "3x3-PLL",
             "name": "PLL",
             "description": "",
-            "difficulty": 3,
+            "difficulty": 2,
             "puzzlePaintId": 2,
             "codeToPaint": "466522235222362223445",
             "casesAmount": 21
@@ -16,7 +16,7 @@
             "id": "3x3-OLL",
             "name": "OLL",
             "description": "",
-            "difficulty": 2,
+            "difficulty": 1,
             "puzzlePaintId": 2,
             "codeToPaint": "466522235222362223445",
             "casesAmount": 57
@@ -43,7 +43,7 @@
             "id": "3x3-ZBLL",
             "name": "ZBLL",
             "description": "",
-            "difficulty": 4,
+            "difficulty": 5,
             "puzzlePaintId": 2,
             "codeToPaint": "244362525222652246332",
             "casesAmount": 472
@@ -88,7 +88,7 @@
             "id": "3x3-CLS",
             "name": "CLS",
             "description": "",
-            "difficulty": 4,
+            "difficulty": 3,
             "puzzlePaintId": 2,
             "codeToPaint": "203362250222046225204",
             "casesAmount": 20
@@ -97,14 +97,14 @@
             "id": "3x3-MirrorBLE",
             "name": "BLE Mirror",
             "description": "",
-            "difficulty": 4,
+            "difficulty": 5,
             "puzzlePaintId": 2,
             "codeToPaint": "203362250222046225204",
             "casesAmount": 20
         },
         {
             "id": "3x3-MirrorWV",
-            "name": "Winter Variation Mirror",
+            "name": "WV Mirror",
             "description": "",
             "difficulty": 3,
             "puzzlePaintId": 1,
