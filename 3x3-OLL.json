@@ -1,1 +1,533 @@
-
+[
+   {
+      "id": "OLL01",
+      "name": "Sune",
+      "colorsCodeToPaint": "200002020222002200002",
+      "setup": "",
+      "algorithmList": [
+         "(R U R' U) (R U2 R')"
+      ]
+   },
+   {
+      "id": "OLL02",
+      "name": "Anti sune",
+      "colorsCodeToPaint": "000202200222000202200",
+      "setup": "",
+      "algorithmList": [
+         "(R U2 R') (U' R U' R')",
+         "U’ (R’ U’ R U’) (R’ U2 R)"
+      ]
+   },
+   {
+      "id": "OLL03",
+      "name": "H",
+      "colorsCodeToPaint": "202002000222000200202",
+      "setup": "",
+      "algorithmList": [
+         "F (R U R’ U’)x3 F’ ",
+         "(R U2 R' U') (R U R' U') (R U' R')"
+      ]
+   },
+   {
+      "id": "OLL04",
+      "name": "Pi",
+      "colorsCodeToPaint": "002202000222020200002",
+      "setup": "",
+      "algorithmList": [
+         "R U2 (R2 U’ R2 U’ R2) U2 R",
+         "f (R U R’ U’) f’ (F) (R U R’ U’) F’"
+      ]
+   },
+   {
+      "id": "OLL05",
+      "name": "T",
+      "colorsCodeToPaint": "200002200222000220200",
+      "setup": "",
+      "algorithmList": [
+         "(r U R' U') (r' F R F')",
+         "U (R U2 R’) (U’ R U’ R’) U (R U R’ U) (R U2 R’)"
+      ]
+   },
+   {
+      "id": "OLL06",
+      "name": "L",
+      "colorsCodeToPaint": "000202200222002200002",
+      "setup": "",
+      "algorithmList": [
+         "F' (r U R' U') r' F R",
+         "(R' U' R U') (R' U R U') (R' U R U') R' U2 R"
+      ]
+   },
+   {
+      "id": "OLL07",
+      "name": "U",
+      "colorsCodeToPaint": "000022200222000200202",
+      "setup": "",
+      "algorithmList": [
+         "R2 D (R’ U2 R D’) (R’ U2 R’)",
+         "(R U R' U) (R U2 R2) (U’ R U’) (R’ U2 R)"
+      ]
+   },
+   {
+      "id": "OLL08",
+      "name": "T Shape",
+      "colorsCodeToPaint": "220000200222000020220",
+      "setup": "",
+      "algorithmList": [
+         "(R U R' U') (R' F R F')"
+      ]
+   },
+   {
+      "id": "OLL09",
+      "name": "T Shape",
+      "colorsCodeToPaint": "020200200222020020020",
+      "setup": "",
+      "algorithmList": [
+         "F (R U R' U') F'"
+      ]
+   },
+   {
+      "id": "OLL10",
+      "name": "Square",
+      "colorsCodeToPaint": "220000022022020220000",
+      "setup": "",
+      "algorithmList": [
+         "r’ (U2’ R U R’ U) r"
+      ]
+   },
+   {
+      "id": "OLL11",
+      "name": "Square",
+      "colorsCodeToPaint": "000202202022000002220",
+      "setup": "",
+      "algorithmList": [
+         "(r U2 R' U') (R U' r')"
+      ]
+   },
+   {
+      "id": "OLL12",
+      "name": "C Shape",
+      "colorsCodeToPaint": "020020200222020002020",
+      "setup": "",
+      "algorithmList": [
+         "F (R U R’ U’) R’ F’ (r U R U’) r’",
+         "(U2) R U (R2 U' R') F (R U R U') F'"
+      ]
+   },
+   {
+      "id": "OLL013",
+      "name": "C Shape",
+      "colorsCodeToPaint": "000022022020202202000",
+      "setup": "",
+      "algorithmList": [
+         "R' U' (R' F R F') U R"
+      ]
+   },
+   {
+      "id": "OLL14",
+      "name": "W Shape",
+      "colorsCodeToPaint": "200002200220202002020",
+      "setup": "",
+      "algorithmList": [
+         "(R U R' U) (R U' R' U') (R' F R F')"
+      ]
+   },
+   {
+      "id": "OLL15",
+      "name": "W Shape",
+      "colorsCodeToPaint": "002022002022020020020",
+      "setup": "",
+      "algorithmList": [
+         "(L' U' L U') (L' U L U) (L F' L' F)",
+         "U2 (R' U' R U') (R' U R U) l U' R' U"
+      ]
+   },
+   {
+      "id": "OLL16",
+      "name": "Flip Edges",
+      "colorsCodeToPaint": "000022200220202020020",
+      "setup": "",
+      "algorithmList": [
+         "(r U R' U') r' (R U R U') R'"
+      ]
+   },
+   {
+      "id": "OLL17",
+      "name": "Flip Edges",
+      "colorsCodeToPaint": "020020200222002020020",
+      "setup": "",
+      "algorithmList": [
+         "(R U R' U') M' (U R U' r')"
+      ]
+   },
+   {
+      "id": "OLL18",
+      "name": "P Shape",
+      "colorsCodeToPaint": "200002202022000020220",
+      "setup": "",
+      "algorithmList": [
+         "R' U' F (U R U' R') F' R"
+      ]
+   },
+   {
+      "id": "OLL19",
+      "name": "P Shape",
+      "colorsCodeToPaint": "220000202022000220200",
+      "setup": "",
+      "algorithmList": [
+         "R U B' (U' R' U) (R B R')",
+         "S (R U R' U') (R' F R f')"
+      ]
+   },
+   {
+      "id": "OLL20",
+      "name": "P Shape",
+      "colorsCodeToPaint": "020020020220202202000",
+      "setup": "",
+      "algorithmList": [
+         "f' (L' U' L U) f",
+         "(U2) F' (U' L' U L) F"
+      ]
+   },
+   {
+      "id": "OLL21",
+      "name": "P Shape",
+      "colorsCodeToPaint": "020200202022020220000",
+      "setup": "",
+      "algorithmList": [
+         "f (R U R' U') f'",
+         "(U2) F (U R U' R') F'"
+      ]
+   },
+   {
+      "id": "OLL22",
+      "name": "Line",
+      "colorsCodeToPaint": "022200000222020000022",
+      "setup": "",
+      "algorithmList": [
+         "f (R U R' U')x2 f'",
+         "(U2) F (U R U' R')x2 F'"
+      ]
+   },
+   {
+      "id": "OLL23",
+      "name": "Line",
+      "colorsCodeToPaint": "020200020222020002020",
+      "setup": "",
+      "algorithmList": [
+         "(r' U' r) (U' R' U R)x2 (r' U r)"
+      ]
+   },
+   {
+      "id": "OLL24",
+      "name": "Line",
+      "colorsCodeToPaint": "002202002020220200002",
+      "setup": "",
+      "algorithmList": [
+         "R' F' U' F U' (R U R' U R) "
+      ]
+   },
+   {
+      "id": "OLL25",
+      "name": "Line",
+      "colorsCodeToPaint": "222000000222000000222",
+      "setup": "",
+      "algorithmList": [
+         "r U2 R' U' M (R U R' U') r U' r'",
+         "(R' F R U) (R U' R2' F') R2 U' R' (U R U R')"
+      ]
+   },
+   {
+      "id": "OLL26",
+      "name": "Fish Shape",
+      "colorsCodeToPaint": "002202000220200020220",
+      "setup": "",
+      "algorithmList": [
+         "(R U R' U') R' F (R2 U R' U') F'"
+      ]
+   },
+   {
+      "id": "OLL27",
+      "name": "Fish Shape",
+      "colorsCodeToPaint": "220000200220220200002",
+      "setup": "",
+      "algorithmList": [
+         "(R U R' U) (R' F R F') (R U2 R')"
+      ]
+   },
+   {
+      "id": "OLL28",
+      "name": "Fish Shape",
+      "colorsCodeToPaint": "020020022022000220200",
+      "setup": "",
+      "algorithmList": [
+         "(R U2 R') (R' F R F') (R U2 R')"
+      ]
+   },
+   {
+      "id": "OLL29",
+      "name": "Fish Shape",
+      "colorsCodeToPaint": "000022020220200020220",
+      "setup": "",
+      "algorithmList": [
+         "(F R' F' R) (U R U' R')"
+      ]
+   },
+   {
+      "id": "OLL30",
+      "name": "L Shape",
+      "colorsCodeToPaint": "220000020222002000022",
+      "setup": "",
+      "algorithmList": [
+         "F (U R U' R2) F' (R U R U') R'"
+      ]
+   },
+   {
+      "id": "OLL31",
+      "name": "L Shape",
+      "colorsCodeToPaint": "022200000222000020220",
+      "setup": "",
+      "algorithmList": [
+         "R' F (R U R') F' R F U' F'"
+      ]
+   },
+   {
+      "id": "OLL32",
+      "name": "L Shape",
+      "colorsCodeToPaint": "020200200222000002220",
+      "setup": "",
+      "algorithmList": [
+         "(r U r') (R U R' U') (r U' r')"
+      ]
+   },
+   {
+      "id": "OLL33",
+      "name": "L Shape",
+      "colorsCodeToPaint": "220000020222020020020",
+      "setup": "",
+      "algorithmList": [
+         "(r' U' r) (R' U' R U) (r' U r)"
+      ]
+   },
+   {
+      "id": "OLL34",
+      "name": "Awkward Shape",
+      "colorsCodeToPaint": "200002200220200020220",
+      "setup": "",
+      "algorithmList": [
+         "(R U R' U') (R U' R') F' U' F (R U R')"
+      ]
+   },
+   {
+      "id": "OLL35",
+      "name": "Awkward Shape",
+      "colorsCodeToPaint": "000202020220202020020",
+      "setup": "",
+      "algorithmList": [
+         "F R' F (R2 U' R' U') (R U R') F2"
+      ]
+   },
+   {
+      "id": "OLL36",
+      "name": "Awkward Shape",
+      "colorsCodeToPaint": "202002000220202020020",
+      "setup": "",
+      "algorithmList": [
+         "R U R' U) (R U2 R') F (R U R' U') F'"
+      ]
+   },
+   {
+      "id": "OLL37",
+      "name": "Awkward Shape ",
+      "colorsCodeToPaint": "020020200220200200202",
+      "setup": "",
+      "algorithmList": [
+         "(R' U' R U') (R' U2 R) F (R U R' U') F'"
+      ]
+   },
+   {
+      "id": "OLL38",
+      "name": "Arrow",
+      "colorsCodeToPaint": "002202000220220000022",
+      "setup": "",
+      "algorithmList": [
+         "F (R U R' U') (R U R' U') F'"
+      ]
+   },
+   {
+      "id": "OLL39",
+      "name": "Arrow",
+      "colorsCodeToPaint": "200002022022000002220",
+      "setup": "",
+      "algorithmList": [
+         "F' (L' U' L U) (L' U' L U) F"
+      ]
+   },
+   {
+      "id": "OLL40",
+      "name": "Arrow",
+      "colorsCodeToPaint": "220000020220200202200",
+      "setup": "",
+      "algorithmList": [
+         "l U’ l2 U l2’ U (l2 U’ l)"
+      ]
+   },
+   {
+      "id": "OLL41",
+      "name": "Arrow",
+      "colorsCodeToPaint": "022200002022020200002",
+      "setup": "",
+      "algorithmList": [
+         "r' U r2 U' r2’ U' (r2 U r')"
+      ]
+   },
+   {
+      "id": "OLL42",
+      "name": "Arrow",
+      "colorsCodeToPaint": "222000000220200200202",
+      "setup": "",
+      "algorithmList": [
+         "r' U2' R (U R' U' R) (U R' U r)"
+      ]
+   },
+   {
+      "id": "OLL43",
+      "name": "Arrow",
+      "colorsCodeToPaint": "202002000220200000222",
+      "setup": "",
+      "algorithmList": [
+         "(r U2 R' U') (R U R' U') (R U' r')"
+      ]
+   },
+   {
+      "id": "OLL44",
+      "name": "Tetris",
+      "colorsCodeToPaint": "200002020220202000022",
+      "setup": "",
+      "algorithmList": [
+         "(r U R' U) (R U2 r')"
+      ]
+   },
+   {
+      "id": "OLL45",
+      "name": "Tetris",
+      "colorsCodeToPaint": "022020000220200202200",
+      "setup": "",
+      "algorithmList": [
+         "(r' U' R U' R' U2 r)",
+         "U2 (l' U' L U') (L' U2 l)"
+      ]
+   },
+   {
+      "id": "OLL46",
+      "name": "Tetris",
+      "colorsCodeToPaint": "220000022022002200002",
+      "setup": "",
+      "algorithmList": [
+         "r' (R2 U R' U R U2 R') U M'"
+      ]
+   },
+   {
+      "id": "OLL47",
+      "name": "Tetris",
+      "colorsCodeToPaint": "002022002022000002220",
+      "setup": "",
+      "algorithmList": [
+         "M' (R' U' R U') (R' U2 R U') R r'"
+      ]
+   },
+   {
+      "id": "OLL48",
+      "name": "Tetris",
+      "colorsCodeToPaint": "020200200222002000022",
+      "setup": "",
+      "algorithmList": [
+         "(R U R’ F’) U’ F U (R U2 R’)",
+         "(U2) L F' (L' U' L U) F U' L'"
+      ]
+   },
+   {
+      "id": "OLL49",
+      "name": "Tetris",
+      "colorsCodeToPaint": "022020000222020020020",
+      "setup": "",
+      "algorithmList": [
+         "R' F (R U R' U') F' U R"
+      ]
+   },
+   {
+      "id": "OLL50",
+      "name": "Point",
+      "colorsCodeToPaint": "02002020202020202002",
+      "setup": "",
+      "algorithmList": [
+         "(r U R' U') M2 (U R U' R') U' M'",
+         "M U (R U R' U') M2' (U R U' r'"
+      ]
+   },
+   {
+      "id": "OLL51",
+      "name": "Point",
+      "colorsCodeToPaint": "020200022020220002020",
+      "setup": "",
+      "algorithmList": [
+         "(R U2') (R2' F R F') U2' (R' F R F')"
+      ]
+   },
+   {
+      "id": "OLL52",
+      "name": "Point",
+      "colorsCodeToPaint": "022200002020220000022",
+      "setup": "",
+      "algorithmList": [
+         "F (R U R' U') F' f (R U R' U') f'",
+         " y (r U r') U2 R U2' R' U2 (r U' r')"
+      ]
+   },
+   {
+      "id": "OLL53",
+      "name": "Point",
+      "colorsCodeToPaint": "220000022020220020020",
+      "setup": "",
+      "algorithmList": [
+         "f (R U R' U') f' U' F (R U R' U') F'"
+      ]
+   },
+   {
+      "id": "OLL54",
+      "name": "Point",
+      "colorsCodeToPaint": "020200202020200002220",
+      "setup": "",
+      "algorithmList": [
+         "f (R U R' U') f' U F (R U R' U') F' "
+      ]
+   },
+   {
+      "id": "OLL55",
+      "name": "Point",
+      "colorsCodeToPaint": "020020202020200000222",
+      "setup": "",
+      "algorithmList": [
+         "y R U2' (R2' F R F') U2' M' (U R U' r') ",
+         "(r U R' U R U2 r') (r' U' R U' R' U2 r) "
+      ]
+   },
+   {
+      "id": "OLL56",
+      "name": "Point",
+      "colorsCodeToPaint": "020020202020220002020",
+      "setup": "",
+      "algorithmList": [
+         " U (R U R' U') M' (R' F R F')"
+      ]
+   },
+   {
+      "id": "OLL57",
+      "name": "Point",
+      "colorsCodeToPaint": "022020002020220020020",
+      "setup": "",
+      "algorithmList": [
+         "(R U R' U) (R' F R F') U2' (R' F R F')"
+      ]
+   }
+]
