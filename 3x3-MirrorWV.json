@@ -1,0 +1,251 @@
+[
+   {
+      "id": "WVFL1",
+      "name": "WV1",
+      "colorsCodeToPaint": "055550550-100233233-222222233",
+      "setup": "",
+      "algorithmList": [
+         "y U' R U2 L' U' L U2 R'",
+         "U' r' D' r U r' D r",
+         "y2 R' F' R U R' U' R' F R2",
+         "y U R U2 L' U L U2 R'"
+      ]
+   },
+   {
+      "id": "WVFL2",
+      "name": "WV2",
+      "colorsCodeToPaint": "255550552-100233033-222222033",
+      "setup": "",
+      "algorithmList": [
+         "y U' L' U L"
+      ]
+   },
+   {
+      "id": "WVFL3",
+      "name": "WV3",
+      "colorsCodeToPaint": "055550550-100233033-222222033",
+      "setup": "",
+      "algorithmList": [
+         "y L F' L' U' L' U L F",
+         "F R' F' U' F' U F R",
+         "y U R' U L' U' R U' L"
+      ]
+   },
+   {
+      "id": "WVFL4",
+      "name": "WV4",
+      "colorsCodeToPaint": "055550552-100233033-022222233",
+      "setup": "",
+      "algorithmList": [
+         "y U' L2 D' L U L' D L2",
+         "y' R2 D' R U R' D R2"
+      ]
+   },
+   {
+      "id": "WVFL5",
+      "name": "WV5",
+      "colorsCodeToPaint": "055550550-100233033-022222233",
+      "setup": "",
+      "algorithmList": [
+         "y U' L' U L U2 L' U2 L U L' U L"
+      ]
+   },
+   {
+      "id": "WVFL6",
+      "name": "WV6",
+      "colorsCodeToPaint": "055550552-100233033-220222233",
+      "setup": "",
+      "algorithmList": [
+         "y L' U L U2 L' U L U2 L' U' L"
+      ]
+   },
+   {
+      "id": "WVFL7",
+      "name": "WV7",
+      "colorsCodeToPaint": "055550550-102233033-220222233",
+      "setup": "",
+      "algorithmList": [
+         "y U' L' U' L U L' U L"
+      ]
+   },
+   {
+      "id": "WVFL8",
+      "name": "WV8",
+      "colorsCodeToPaint": "255550550-100233033-022222033",
+      "setup": "",
+      "algorithmList": [
+         "y U2 M x U' L U R' L' U2 L"
+      ]
+   },
+   {
+      "id": "WVFL9",
+      "name": "WV9",
+      "colorsCodeToPaint": "255550550-100233233-022222033",
+      "setup": "",
+      "algorithmList": [
+         "y U' R U2 L' U L U2 R' U' L' U L"
+      ]
+   },
+   {
+      "id": "WVFL10",
+      "name": "WV10",
+      "colorsCodeToPaint": "055550552-100233033-022222033",
+      "setup": "",
+      "algorithmList": [
+         "y U2 R U' L' U L R' U L' U L"
+      ]
+   },
+   {
+      "id": "WVFL11",
+      "name": "WV11",
+      "colorsCodeToPaint": "055550550-100233233-022222033",
+      "setup": "",
+      "algorithmList": [
+         "y U2 L' U2 L"
+      ]
+   },
+   {
+      "id": "WVFL12",
+      "name": "WV12",
+      "colorsCodeToPaint": "055550550-100233033-020222233",
+      "setup": "",
+      "algorithmList": [
+         "y U2 L' U L U' L' U2 L"
+      ]
+   },
+   {
+      "id": "WVFL13",
+      "name": "WV13",
+      "colorsCodeToPaint": "055550550-102233233-020222233",
+      "setup": "",
+      "algorithmList": [
+         "y U' R U2 L' U' R' U R U' L U2 R'"
+      ]
+   },
+   {
+      "id": "WVFL14",
+      "name": "WV14",
+      "colorsCodeToPaint": "055550552-102233033-020222233",
+      "setup": "",
+      "algorithmList": [
+         "y U2 L U L2 U L2 U2 L'"
+      ]
+   },
+   {
+      "id": "WVFL15",
+      "name": "WV15",
+      "colorsCodeToPaint": "055550550-100233233-020222233",
+      "setup": "",
+      "algorithmList": [
+         "y U' L' U' L2 U L2 U L2 U2 L'"
+      ]
+   },
+   {
+      "id": "WVFL16",
+      "name": "WV16",
+      "colorsCodeToPaint": "255550550-100233033-220222033",
+      "setup": "",
+      "algorithmList": [
+         "y U' L' U2 R' U' R L U2 R' U' R"
+      ]
+   },
+   {
+      "id": "WVFL17",
+      "name": "WV17",
+      "colorsCodeToPaint": "255550550-102233233-220222033",
+      "setup": "",
+      "algorithmList": [
+         "y U2 L' U2 L2 U L' U L U2 L'"
+      ]
+   },
+   {
+      "id": "WVFL18",
+      "name": "WV18",
+      "colorsCodeToPaint": "055550550-100233233-220222033",
+      "setup": "",
+      "algorithmList": [
+         "y U2 R U' L' U R' U2 L"
+      ]
+   },
+   {
+      "id": "WVFL19",
+      "name": "WV19",
+      "colorsCodeToPaint": "055550552-102233033-220222033",
+      "setup": "",
+      "algorithmList": [
+         "y R U' L' U M' x'"
+      ]
+   },
+   {
+      "id": "WVFL20",
+      "name": "WV20",
+      "colorsCodeToPaint": "255550550-100233233-020222033",
+      "setup": "",
+      "algorithmList": [
+         "y U' R U2 R' L' U' L U' R U' R'"
+      ]
+   },
+   {
+      "id": "WVFL21",
+      "name": "WV21",
+      "colorsCodeToPaint": "255550552-102233033-020222033",
+      "setup": "",
+      "algorithmList": [
+         "y U' L2 D' L U' L' D L U2 L"
+      ]
+   },
+   {
+      "id": "WVFL22",
+      "name": "WV22",
+      "colorsCodeToPaint": "255550550-102233033-020222033",
+      "setup": "",
+      "algorithmList": [
+         "y U' L' U L2 U L' U L U2 L'"
+      ]
+   },
+   {
+      "id": "WVFL23",
+      "name": "WV23",
+      "colorsCodeToPaint": "255550552-100233033-020222033",
+      "setup": "",
+      "algorithmList": [
+         "y U2 L' U L U' L' U L U' L' U2 L"
+      ]
+   },
+   {
+      "id": "WVFL24",
+      "name": "WV24",
+      "colorsCodeToPaint": "055550550-100233033-020222033",
+      "setup": "",
+      "algorithmList": [
+         "y U2 L' U2 L2 U2 L' U' L U' L'"
+      ]
+   },
+   {
+      "id": "WVFL25",
+      "name": "WV25",
+      "colorsCodeToPaint": "055550552-100233033-020222033",
+      "setup": "",
+      "algorithmList": [
+         "y U' L' U L2 U2 L' U' L U' L'"
+      ]
+   },
+   {
+      "id": "WVFL26",
+      "name": "WV26",
+      "colorsCodeToPaint": "055550550-102233033-020222033",
+      "setup": "",
+      "algorithmList": [
+         "y U2 L U' R' U L2 U' R U' L"
+      ]
+   },
+   {
+      "id": "WVFL27",
+      "name": "WV27",
+      "colorsCodeToPaint": "055550550-102233233-020222033",
+      "setup": "",
+      "algorithmList": [
+         "y U' L' U' L U L' U' L U L' U L"
+      ]
+   }
+]
