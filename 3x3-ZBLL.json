@@ -1562,5 +1562,2177 @@
          "R' U' R' F D' R U R' D R2 U' R' F' R",
          "R U R' U R U' R' U R U2 R' U' R U2 R' U' R U' R'"
       ]
+   },
+   {
+      "id": "ZBLLT1",
+      "name": "T1",
+      "colorsCodeToPaint": "553242624222652224336",
+      "setup": "L' U L U2' R' L' U L U R U R' U R y'",
+      "algorithmList": [
+         "y R' U' R U' R' U' R U2 L' R' U R U' L",
+         "y' R' U2 R' U' D R' U' R D' R U R U R2",
+         "y2 S R U' R2 U B' U' R2 U B R' S'",
+         "y R' U2 R2 U R2 U R F' R U2 R' U2 R' F R"
+      ]
+   },
+   {
+      "id": "ZBLLT2",
+      "name": "T2",
+      "colorsCodeToPaint": "543242623222652223256",
+      "setup": "L' U R' U' L U' R' U2' R' U R' U' R U2' R2'",
+      "algorithmList": [
+         "y R' U2 R2 U R' U' R' U2 F' R U2 R U2 R' F",
+         "R' U2 R U' R' D R' U R U R' U2 R U' D' R",
+         "M U R' F' r U r U' r' F M U' M'",
+         "R2 U2 R' U R U' R U2 R U L' U R U' L"
+      ]
+   },
+   {
+      "id": "ZBLLT3",
+      "name": "T3",
+      "colorsCodeToPaint": "654232526222362223445",
+      "setup": "R' U' R U R' F2' R U2' R' U2' R' F2' R2'",
+      "algorithmList": [
+         "R2 F2 R U2 R U2 R' F2 R U' R' U R",
+         "R U R' U' D R' U R' U' R' U R2 D'",
+         "y2 R' U' R' D' R U' R' r U2 r' D R2",
+         "y2 R' U' R' D' R U' M' U2 r' D R2"
+      ]
+   },
+   {
+      "id": "ZBLLT4",
+      "name": "T4",
+      "colorsCodeToPaint": "356252423222632225644",
+      "setup": "R' D R' U R D' R' U R2' U' R2' U' R2' y'",
+      "algorithmList": [
+         "y2 F R2 D R' U' R D' R2 U' R U2 R' U' F'",
+         "y' R D R' U' R D' R2 U R U' R' U' R U R' U' R",
+         "R U R' U' R' U' F R f' R' U R S",
+         "y R2 U R2 U R2 U' R D R' U' R D' R"
+      ]
+   },
+   {
+      "id": "ZBLLT5",
+      "name": "T5",
+      "colorsCodeToPaint": "654232523222462223465",
+      "setup": "R U L' U R' U' L U' R U R' U2' R U2' R' y",
+      "algorithmList": [
+         "y F R U R' U' R U R' U' F' R U R' U' R' F R F'",
+         "y' R U2 R' U2 R U' R' U r' F R F' r U' R'",
+         "y' R U2 R' U2 R U' R' U L' U R U' L U' R'",
+         "y r' D' r U' r' F r U' r' F D r2 U r' U' r' F r F'"
+      ]
+   },
+   {
+      "id": "ZBLLT6",
+      "name": "T6",
+      "colorsCodeToPaint": "445262325222642226533",
+      "setup": "F' r U R' U' L' U l y'",
+      "algorithmList": [
+         "y2 R' U' R' D' R U R' D R2",
+         "y' F R F' r U R' U' r'",
+         "y R' F' r U R U' r' F",
+         "y l' U' L U R U' r' Fy l' U' L U R U' r' F"
+      ]
+   },
+   {
+      "id": "ZBLLT7",
+      "name": "T7",
+      "colorsCodeToPaint": "533242625222652224346",
+      "setup": "R' U' R F U' R' U' R U F' R' U2' R",
+      "algorithmList": [
+         "R' U2 R F U' R' U R U F' R' U R",
+         "R U2 D' R U' R U R U' R2 D U' R'",
+         "R' U2 R U' R2 F' R U R U' R' F R U2 R' U R",
+         "R' U' R' D' R U2 R' D R U R U' R' U R U R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLT8",
+      "name": "T8",
+      "colorsCodeToPaint": "543242626222552224336",
+      "setup": "L' R' U R U' L R' U' R U' R' U R y",
+      "algorithmList": [
+         "y' R' U' R U R' U R L' U R' U' R L",
+         "R U R' U' R U' R' U' F R U R' U' R' F' R",
+         "y' R' U' R U R' U R r' F R' F' r R",
+         "y' R' U' S' R U R' S R2 f' U' f"
+      ]
+   },
+   {
+      "id": "ZBLLT9",
+      "name": "T9",
+      "colorsCodeToPaint": "644232524222662223455",
+      "setup": "F R U' R' U' R U2' R' U' F' y'",
+      "algorithmList": [
+         "y F U R U2 R' U R U R' F'",
+         "L U2 R' U2 R U2 L' U' R' U R",
+         "y2 R U2 r' F2 r U2 R' U' L' U L",
+         "y F U R U2 R' U' F' L' U L"
+      ]
+   },
+   {
+      "id": "ZBLLT10",
+      "name": "T10",
+      "colorsCodeToPaint": "455262323222642226543",
+      "setup": "F' R U2' R' U2' R' F R U R U' R' y",
+      "algorithmList": [
+         "y R U R' U' R' F' R U2 R U2 R' F",
+         "y L' U2 L U2 L F' L' U' L' U L F",
+         "y r' F2 r U2 r U' r' U' r' F r F",
+         "y R U R' U2 R U R' y' R' U' R U2 R' U' R"
+      ]
+   },
+   {
+      "id": "ZBLLT11",
+      "name": "T11",
+      "colorsCodeToPaint": "554242626222352224346",
+      "setup": "R' U' R U' R' U R U L U' R' U M x",
+      "algorithmList": [
+         "y' F U R' U' R F' R' U' R U R' U R",
+         "y R U R' U' R U R2 D' R U2 R' D R U' R U' R'",
+         "x' M' U' R U L' U' R' U' R U R' U R",
+         "L R' U' R U L' U' R' U' R U R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLT12",
+      "name": "T12",
+      "colorsCodeToPaint": "346252426222332225654",
+      "setup": "R' U' R' D' R U2' R' D R U R U' R' U' R y",
+      "algorithmList": [
+         "y' R' U R U R' U' R' D' R U2 R' D R U R",
+         "F' U f U2 R U2 R' U2 S'",
+         "y r' F R U2 F U2 F' U2 M'",
+         "y' R' U r U2 B U2 B' U2 M"
+      ]
+   },
+   {
+      "id": "ZBLLT13",
+      "name": "T13",
+      "colorsCodeToPaint": "465262323222532225644",
+      "setup": "R U R' U' R B2' R' U2' R U2' R B2' R2' y2'",
+      "algorithmList": [
+         "y2 R' U' R U D' R U' R U R U' R2 D",
+         "R U R D R' U R r' U2 r D' R2",
+         "y2 R2 B2 R' U2 R' U2 R B2 R' U R U' R'",
+         "R U R D R' U M U2 r D' R2"
+      ]
+   },
+   {
+      "id": "ZBLLT14",
+      "name": "T14",
+      "colorsCodeToPaint": "563242625222362223445",
+      "setup": "R D' R U2' R2' U R2' U R2' U' R D R'",
+      "algorithmList": [
+         "y' R' D' R U R' D R2 U' R' U R U R' U' R U R'",
+         "R' D R2 U' R' U R U R' U' R U R2 D' R",
+         "y2 R' U' R U R U f' U' F R U' R' S",
+         "R D' R' U R2 U' R2 U' R2 U2 R' D R'"
+      ]
+   },
+   {
+      "id": "ZBLLT15",
+      "name": "T15",
+      "colorsCodeToPaint": "366252425222442226533",
+      "setup": "L U' R U R' L' U2' R U' R' U' R U' R' y'",
+      "algorithmList": [
+         "y R U R' U R U R' U2 L R U' R' U L'",
+         "y2 R' U' R U F U' R' U2 R U F' R' U2 R U2",
+         "y' L U L' U L U L' U2 L R U' L' U R'",
+         "S R' U R2 U' F U R2 U' F' R S'"
+      ]
+   },
+   {
+      "id": "ZBLLT16",
+      "name": "T16",
+      "colorsCodeToPaint": "346252425222342226563",
+      "setup": "R' U2' R2' U R' U' R' U2' F R U R U' R' F' y2'",
+      "algorithmList": [
+         "y2 F R U R' U' R' F' U2 R U R U' R2 U2 R",
+         "M U' r U R' U' R' F R F' M U M'",
+         "y' F U2 F' U F U' R U' R' U' R U2 R' U2 F'",
+         "L2 U2 L U' L' U L' U2 L' U' R U' L' U R'"
+      ]
+   },
+   {
+      "id": "ZBLLT17",
+      "name": "T17",
+      "colorsCodeToPaint": "533242626222562223445",
+      "setup": "F R' F' r U R U' r' y",
+      "algorithmList": [
+         "y' r U R' U' r' F R F'",
+         "R U R D R' U' R D' R2",
+         "R' F' R U R' U' R' F R U R",
+         "x R' U' R D' R' U R D x'"
+      ]
+   },
+   {
+      "id": "ZBLLT18",
+      "name": "T18",
+      "colorsCodeToPaint": "465262324222332225654",
+      "setup": "R' U' L U' R U L' U R' U' R U2' R' U2' R y",
+      "algorithmList": [
+         "R' U' R U' R2 F' R U R U' R' F U R U' R' U2 R",
+         "y' R F R' U R U' R' U R U' F' R2 F' R U R U' R' F",
+         "R U R D R' U' R D' r2 U' M2 U2 M2 U' M2",
+         "y' F' L' U' L U L' U' L U F L' U' L U L F' L' F"
+      ]
+   },
+   {
+      "id": "ZBLLT19",
+      "name": "T19",
+      "colorsCodeToPaint": "336252425222642226543",
+      "setup": "R U R' B' U R U R' U' B R U2' R' y2'",
+      "algorithmList": [
+         "y R2 U R' U' R' U R' U2 D R' U2 R D'",
+         "L U2 r' D' F r U' r' F' D r U' L'",
+         "y2 R U2 R' f' L U L' U' L' f R U' R'",
+         "L U2 L' F' U L U' L' U' F L U' L'"
+      ]
+   },
+   {
+      "id": "ZBLLT20",
+      "name": "T20",
+      "colorsCodeToPaint": "346252426222542226533",
+      "setup": "L R U' R' U L' R U R' U R U' R' y",
+      "algorithmList": [
+         "y' R U R' U' R U' R' L U' R U R' L'",
+         "y' R U S' R' U' R S R2 F R F'",
+         "y' R F U R' U' R U' R' U' R U F' R'",
+         "y R U R' F' U2 F U R' U' R U' R' U2 F R F'"
+      ]
+   },
+   {
+      "id": "ZBLLT21",
+      "name": "T21",
+      "colorsCodeToPaint": "553242626222462223435",
+      "setup": "F R U R' U' R' F' R U2' R U2' R' y",
+      "algorithmList": [
+         "y' R U2 R' U2 R' F R U R U' R' F'",
+         "y R' U' R U2 R' F R U R' U' R' F' R U' R",
+         "y R' U' R U2 R' U' R y R U R' U2 R U R'"
+      ]
+   },
+   {
+      "id": "ZBLLT22",
+      "name": "T22",
+      "colorsCodeToPaint": "336252426222442226553",
+      "setup": "F' L' U L U L' U2' L U F y",
+      "algorithmList": [
+         "y' F' U' r' F2 r U F R U' R'",
+         "y2 R' U' R U' R' U R' F' R U R U' R' F R",
+         "y' F' U' L' U2 L U' L' U' L F",
+         "y' F' U' L' U2 L U F R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLT23",
+      "name": "T23",
+      "colorsCodeToPaint": "543242623222562223465",
+      "setup": "R U R D R' U2' R D' R' U' R' U R U R' y",
+      "algorithmList": [
+         "y2 f R' F' U2 R' U2 R U2 S'",
+         "F U' B' R2 U' R2 U R2 F' B",
+         "y' R U' R' U' R U R D R' U2 R D' R' U' R'",
+         "y' R U' r' U2 F' U2 F U2 M'"
+      ]
+   },
+   {
+      "id": "ZBLLT24",
+      "name": "T24",
+      "colorsCodeToPaint": "366252423222542226543",
+      "setup": "R U R' U R U' R' U' L' U R U' L R' y2'",
+      "algorithmList": [
+         "y2 R L' U R' U' L U R U R' U' R U' R'",
+         "y R' U' R U R' U' R2 D R' U2 R D' R' U R' U R",
+         "y' f' L' U L U' f R U R' U' R U' R'",
+         "y2 r' F R F' r U' R' U' R U R' U' R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLT25",
+      "name": "T25",
+      "colorsCodeToPaint": "646232426222342223555",
+      "setup": "L' U R' U' R L U2' R' U' R",
+      "algorithmList": [
+         "R' U R U2 L' R' U R U' L",
+         "R' U' R' U' R U R' F' R U R' U' R' F R'",
+         "y2 L' U R' U' L R U2 R' U' R",
+         "R' U R U2 r' R' F R F' r"
+      ]
+   },
+   {
+      "id": "ZBLLT26",
+      "name": "T26",
+      "colorsCodeToPaint": "555242326222432224636",
+      "setup": "R U R' U R U2' R D R' U R D' R' U' R' y",
+      "algorithmList": [
+         "y' R U R D R' U' R D' R' U2 R' U' R U' R'",
+         "y R U R2 F R F' R U' R' F' U F",
+         "L' U2 L U L' U L U' L' U R U' L U R'",
+         "R U R' U R U2 R D R' U R D' R' U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLT27",
+      "name": "T27",
+      "colorsCodeToPaint": "545242323222532224666",
+      "setup": "L U' R U R' L' U2' R U R' y2'",
+      "algorithmList": [
+         "y2 R U' R' U2 L R U' R' U L'",
+         "y2 R' F R U R' U' R' F' R2 U' R' U2 R",
+         "R' U2 R U R2 F R U R U' R' F' R",
+         "y2 R U' L U L' R' U2 L U L'"
+      ]
+   },
+   {
+      "id": "ZBLLT28",
+      "name": "T28",
+      "colorsCodeToPaint": "666232424222542223535",
+      "setup": "R' U' R U' R' U2' R' D' R U' R' D R U R y",
+      "algorithmList": [
+         "y' R' U' R' D' R U R' D R U2 R U R' U R",
+         "R U2 R' U' R' F R2 U' R' U' R U R' F' R U' R'",
+         "y R' F R' F' R2 U' R' U R f R' f'",
+         "y f R f' R' U' R U R2 F R F' R"
+      ]
+   },
+   {
+      "id": "ZBLLT29",
+      "name": "T29",
+      "colorsCodeToPaint": "545242325222632224636",
+      "setup": "R' U2' R U R' U R F U R U2' R' U R U R' F'",
+      "algorithmList": [
+         "F R U' R' U' R U2 R' U' F' R' U' R U' R' U2 R",
+         "r' U' R' F2 R F' R' F2 R2 U' R' U2 r",
+         "r' U' l' U2 R U' R' U2 l R U' R' U2 r",
+         "y' R U R' U R' D' R U R' D R U R' F R U R U' R' F'"
+      ]
+   },
+   {
+      "id": "ZBLLT30",
+      "name": "T30",
+      "colorsCodeToPaint": "535242326222532224646",
+      "setup": "F R U' R' U' R U2' R' U' F' R' U' R U' R' U2' R",
+      "algorithmList": [
+         "R' U2 R U R' U R F U R U2 R' U R U R' F'",
+         "r' U2 R U R2 F2 R F R' F2 R U r",
+         "y2 F R U R' U' R' F' R U' R' D' R U' R' D R U' R U' R'",
+         "y2 L F R U2 R' U R U2 R2 F R F2 L'"
+      ]
+   },
+   {
+      "id": "ZBLLT31",
+      "name": "T31",
+      "colorsCodeToPaint": "656232424222342223565",
+      "setup": "F' r2' U2' R' F' R U2' r' U r' y2'",
+      "algorithmList": [
+         "y2 r U' r U2 R' F R U2 r2 F",
+         "y2 F' r2 U2 R' F' R U2 r' U r'",
+         "R' U R U2 R' U' F' R U R' U R U2 R' F R",
+         "r' U r' U2 l U' R' F2 r2 U' x"
+      ]
+   },
+   {
+      "id": "ZBLLT32",
+      "name": "T32",
+      "colorsCodeToPaint": "666232423222442223555",
+      "setup": "R' U' R U R U R2' F' R U R U' R' F R U' R2' U R y2",
+      "algorithmList": [
+         "y2 R' U' R2 U R' F' R U R' U' R' F R2 U' R' U' R' U R",
+         "y' r U R' U' r' F R F' U R U R' U' R' F R2 U' R' U' R U R' F'",
+         "y2 F R U' R' S U' R U f' U R2 F R F' R",
+         "R U R2 U2 R U R' U2 L U' R U L' R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLT33",
+      "name": "T33",
+      "colorsCodeToPaint": "656232426222442223535",
+      "setup": "R U R' D U R2' U2' R2' U R2' U R2' D' R U' R'",
+      "algorithmList": [
+         "R U' R' U R U R' U' R U R' U' R' D' R U' R' D R",
+         "y2 R' U' R U' R' U R F U' R' U2 R U F'",
+         "y2 R' U' R U' R' U R U L U2 R' U2 R U2 L'",
+         "R U R D R' U' R D' U R' U R' U' R U' R2 U' D R' U R D'"
+      ]
+   },
+   {
+      "id": "ZBLLT34",
+      "name": "T34",
+      "colorsCodeToPaint": "434262526222452226353",
+      "setup": "L' U2' R U2' R' U2' L U R U R' U' R U' R'",
+      "algorithmList": [
+         "R U R' U R U' R' U' L' U2 R U2 R' U2 L",
+         "R U R' U R U' R' F' U' L' U2 L U F",
+         "R U R' U R U' R' U' R' F2 R F2 L' U2 L",
+         "y2 R' U R U' R' U' R U R' U' R U R D R' U R D' R'"
+      ]
+   },
+   {
+      "id": "ZBLLT35",
+      "name": "T35",
+      "colorsCodeToPaint": "646232423222542223565",
+      "setup": "R' U' R U' R' U R F U' R' U2' R U F'",
+      "algorithmList": [
+         "F U' R' U2 R U F' R' U' R U R' U R",
+         "y2 R' D' R U R' D R U R U' R' U R U' R' U' R U R'",
+         "y' R U2 L' U2 L U2 R' U' L' U' L U L' U L",
+         "y L U2 R' U2 R U2 L' U' R' U' R U R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLT36",
+      "name": "T36",
+      "colorsCodeToPaint": "545242326222332224656",
+      "setup": "R U R' U R U' R' U' L' U2' R U2' R' U2' L y'",
+      "algorithmList": [
+         "y L' U2 R U2 R' U2 L U R U R' U' R U' R'",
+         "y2 F' U' L' U2 L U F R U R' U' R U' R'",
+         "R D R' U' R D' R' U' R' U R U' R' U R U R' U' R",
+         "F' U L U2 L' U' F L U L' U' L U' L'"
+      ]
+   },
+   {
+      "id": "ZBLLT37",
+      "name": "T37",
+      "colorsCodeToPaint": "443262626222352225354",
+      "setup": "R U R' U' L' U2' R U R' U2' L R U' R' y'",
+      "algorithmList": [
+         "R' D' R U R' D R2 U R' U2 R U' R' U' R U' R'",
+         "y R U R' L' U2 R U' R' U2 L U R U' R'",
+         "y S2 R U R' S' U R' U' F R' f' R2 U R",
+         "y R U R' r' F2 R F' R' F2 r U R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLT38",
+      "name": "T38",
+      "colorsCodeToPaint": "635232324222542224566",
+      "setup": "R U2' R' U' R U' R D' R U2' R' D R U2' R",
+      "algorithmList": [
+         "R' U2 R' D' R U2 R' D R' U R' U R U2 R'",
+         "y' R U R2 D' R U2 R' D R U2 R U R' U' R U' R'",
+         "y' R2 F' R U S' R U' R' f R f R f'",
+         "R' U2 R' D' R U2 R' D R3 U R' U R U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLT39",
+      "name": "T39",
+      "colorsCodeToPaint": "344252523222562226463",
+      "setup": "R' U' R F U' R' U' R U F' U R' U R y'",
+      "algorithmList": [
+         "y R' U' R U' F U' R' U R U F' R' U R",
+         "y2 R D R' U' R D' R2 U' R U2 R' U R U R' U R",
+         "y R D' R2 U' R U2 R' U R U R' U R U' R D R'",
+         "y R' U' R U2 R2 F' R U R U' R' F R U2 R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLT40",
+      "name": "T40",
+      "colorsCodeToPaint": "635232326222442224556",
+      "setup": "R' U2' R U R' U R' D R' U2' R D' R' U2' R' y2'",
+      "algorithmList": [
+         "R' U2 R' D' R U2 R' D R2 U' R' U2 R U R' U R",
+         "y2 R U2 R D R' U2 R D' R U' R U' R' U2 R",
+         "y' R' F2 R U' R2 F2 R2 U' R' U2 R' F2 R2",
+         "F R U R' U' F' R U R' U R U' R' U' R' F R F'"
+      ]
+   },
+   {
+      "id": "ZBLLT41",
+      "name": "T41",
+      "colorsCodeToPaint": "433262626222552225344",
+      "setup": "x R2' D2' R U2' R' D2' R U2' l y",
+      "algorithmList": [
+         "y' l' U2 R' D2 R U2 R' D2 R2 x'",
+         "y' l' U2 R' D2 R U2 R' D2 l2",
+         "y2 R U2 R' U R U R' y' R' U' R U2 R' U' R",
+         "y' x R' U2 R' D2 R U2 R' D2 R2 x'"
+      ]
+   },
+   {
+      "id": "ZBLLT42",
+      "name": "T42",
+      "colorsCodeToPaint": "334252526222562226443",
+      "setup": "x' R2' D2' R' U2' R D2' R' U2' l' y",
+      "algorithmList": [
+         "y' l U2 R D2 R' U2 R D2 R2 x",
+         "y' x' R U2 R D2 R' U2 R D2 R2 x",
+         "R' U2 R U' R' U' R y R U R' U2 R U R'",
+         "y r U2 L D2 L' U2 L D2 L2"
+      ]
+   },
+   {
+      "id": "ZBLLT43",
+      "name": "T43",
+      "colorsCodeToPaint": "364252523222462226453",
+      "setup": "F R U' R' U R U R' U R U' R' F' y2'",
+      "algorithmList": [
+         "y2 F R U R' U' R U' R' U' R U R' F'",
+         "f U R U' R' U R' U' R f' R' U R",
+         "y R' F' U' F U R F R' F' R U R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLT44",
+      "name": "T44",
+      "colorsCodeToPaint": "354252524222362226463",
+      "setup": "L' R' U R U' L R' U' R U2' R U R2' U R2' U2' R' y2",
+      "algorithmList": [
+         "y' R U R' U2 R U' R' U2 R U' R2 F' R U R U' R' F",
+         "y R U R' U2 R D' R U' R' U' R U2 R' U D R'",
+         "r U2 R2 F R F' U2 r' F R U R U' R' F'",
+         "F' U' F U R' F R2 U R' U' R' F' R2 U R'"
+      ]
+   },
+   {
+      "id": "ZBLLT45",
+      "name": "T45",
+      "colorsCodeToPaint": "364252525222362226443",
+      "setup": "R' U2' R U R' U R' D' R U' R' D R U R y'",
+      "algorithmList": [
+         "y R' U' R' D' R U R' D R U' R U' R' U2 R",
+         "y2 r' D' r U' r' F2 r U' r' F' D r",
+         "y2 F U' R' U2 R' U2 R U' R' U' R U R U F'",
+         "y2 f R f' R2 u' R U' R' U R' u R3 U R' U R U2 l' L' B' L B' L' B2 L B2 x'"
+      ]
+   },
+   {
+      "id": "ZBLLT46",
+      "name": "T46",
+      "colorsCodeToPaint": "364252524222562226433",
+      "setup": "R U' R' U' R U2' R' U2' R' D' R U' R' D R",
+      "algorithmList": [
+         "y R U R' U R' D' R U' R' D R U R U2 R'",
+         "y2 R F R' U R U2 R' U R U F' R'",
+         "R' D' R U R' D R U2 R U2 R' U R U R'",
+         "y R U R D R' U' R D' R' U R' U R U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLT47",
+      "name": "T47",
+      "colorsCodeToPaint": "556242426222332223645",
+      "setup": "x M U' L U2' R' U R U2' R' U L' U L",
+      "algorithmList": [
+         "r U R' U' r' F R F' R' U2 R U R' U R",
+         "R' U R2 D R' U R D' R' U R' U' R U' R' U' R",
+         "y f R' F' R U2 R' F R F' R U2 R' S'",
+         "M' f' U' f r' U' R U' R U R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLT48",
+      "name": "T48",
+      "colorsCodeToPaint": "655232324222642224536",
+      "setup": "R U' R' U' R U' R' U R' D' R U R' D R2' U R' y2'",
+      "algorithmList": [
+         "y2 R U2 R' U' R U' R2 F' r U R U' r' F",
+         "y2 R U' R2 D' R U' R' D R U' R U R' U R U R'",
+         "y2 F R U R' U' R' F' R U F' R U R' U' R' F R2 U' R'",
+         "y2 M F R F' r U R' U R' U' R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLT49",
+      "name": "T49",
+      "colorsCodeToPaint": "565242323222562226443",
+      "setup": "R' U' R U2' R D R' U' R D' R2' U R U' R' U R y'",
+      "algorithmList": [
+         "y R' U' R U R' U' R2 D R' U R D' R' U2 R' U R",
+         "R' U' R U R2 D' R U2 R' D R2 U2 R' U2 R",
+         "y' R2 U2 R U2 R' U L' R U R' U' R2 L",
+         "F U R' D' r U2 r' D R2 U' R' U F'"
+      ]
+   },
+   {
+      "id": "ZBLLT50",
+      "name": "T50",
+      "colorsCodeToPaint": "363252625222342224546",
+      "setup": "R2' U R U2' R' U R D' R U2' R' D U' R",
+      "algorithmList": [
+         "R U' R' U R U R' U' R U R' U R' D' R U R' D R",
+         "R' U D' R U2 R' D R' U' R U2 R' U' R2",
+         "F U' R2 U R' U R U2 R2 U' R U2 R' F'",
+         "y R D R' U R D' R' U R' U R U' R' U R U R' U' R"
+      ]
+   },
+   {
+      "id": "ZBLLT51",
+      "name": "T51",
+      "colorsCodeToPaint": "444262523222532223665",
+      "setup": "R U R' U R U R2' D' r U2' r' D R2' U R' y'",
+      "algorithmList": [
+         "y R U' R2 D' r U2 r' D R2 U' R' U' R U' R'",
+         "y R' U' R U' R' U' R2 D r' U2 r D' R2 U' R",
+         "y2 R U2 R' U2 R U R2 D' R U' R' D R U2 R U' R'",
+         "R U R' U' R' U R D R' U' R2 D' R D R2 D' R"
+      ]
+   },
+   {
+      "id": "ZBLLT52",
+      "name": "T52",
+      "colorsCodeToPaint": "646232425222352225364",
+      "setup": "R2' U R2' U R D' R U' R' D R U' R2'",
+      "algorithmList": [
+         "y2 R U R' U2 R' D' R U R' D R2 U' R' U R U' R'",
+         "R2 U R' D' R U R' D R' U' R2 U' R2",
+         "y2 R' U F' R' U2 R U2 F U' R' U R2",
+         "y2 R U2 R' U2 R2 D R' U2 R D' R2 U R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLT53",
+      "name": "T53",
+      "colorsCodeToPaint": "666232424222352225354",
+      "setup": "F R' F' r U R U' F R' F' r U R U' r2' y2'",
+      "algorithmList": [
+         "y2 r2 U R' U' r' F R F' U R' U' r' F R F'",
+         "y2 F U R' D' R U R' D R U' R' D' R U' R' D R F'",
+         "y2 R2 D' R U' R' D R U R U R' U2 R' D' R U2 R' D R2",
+         "y R U R D R' U R D' R' U L' U R' U' L"
+      ]
+   },
+   {
+      "id": "ZBLLT54",
+      "name": "T54",
+      "colorsCodeToPaint": "434252625222642224536",
+      "setup": "R' U2' R' U2' R2' U R F R U R U' R' F' R2' y2'",
+      "algorithmList": [
+         "y2 R2 F R U R' U' R' F' R' U' R2 U2 R U2 R",
+         "y r U r' R U R' U' R U R' U' r U' r' F R U R' U' F'",
+         "f' U' F R' D' R U2 R' D R U' f R' F' R",
+         "R U R' U R U' R' U R L' U L U2 R' U' L' U2 L"
+      ]
+   },
+   {
+      "id": "ZBLLT55",
+      "name": "T55",
+      "colorsCodeToPaint": "636232425222652225344",
+      "setup": "R U' R2' D' r U2' r' D R2' U R' y2'",
+      "algorithmList": [
+         "y2 R U' R2 D' r U2 r' D R2 U R'",
+         "R U R' U R U' R' L' U2 R U R' U2 L",
+         "y R U R' U' R2 D R' U2 R D' R2 U R U' R'",
+         "L' U2 R U' R' U2 L R U R' U' R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLT56",
+      "name": "T56",
+      "colorsCodeToPaint": "535242325222662226443",
+      "setup": "R' U R2' D r' U2' r D' R2' U' R",
+      "algorithmList": [
+         "R' U R2 D r' U2 r D' R2 U' R",
+         "y R' U' R U R2 D' R U2 R' D R2 U' R' U R",
+         "y2 R' U' R U' R' U R U R' F' R U R' U' R' F R2",
+         "L' U' L U' L' U L R U2 L' U' L U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLT57",
+      "name": "T57",
+      "colorsCodeToPaint": "545242323222662226453",
+      "setup": "R2' U' R2' U' R' D R' U R D' R' U R2' y2'",
+      "algorithmList": [
+         "R' U' R U2 R D R' U' R D' R2 U R U' R' U R",
+         "y2 R2 U' R D R' U' R D' R U R2 U R2",
+         "R' U2 R U2 R2 D' R U2 R' D R2 U' R' U R",
+         "y F U' R U R2 D' r U2 r' D R U' F'"
+      ]
+   },
+   {
+      "id": "ZBLLT58",
+      "name": "T58",
+      "colorsCodeToPaint": "353252623222642224546",
+      "setup": "R2' F2' R U2' R U2' R' F' R U R' U' R' F' R2' y'",
+      "algorithmList": [
+         "y R' D' R U' R' D R U' R U' R' U R U' R' U' R U R'",
+         "y2 R' U R U' R' U' R U R' U' R U' R D R' U' R D' R'",
+         "y' R2 U R U2 R' U R D' R U2 R' D U' R",
+         "F R U2 R' U R2 U2 R' U' R U' R2 U F'"
+      ]
+   },
+   {
+      "id": "ZBLLT59",
+      "name": "T59",
+      "colorsCodeToPaint": "656232426222352225344",
+      "setup": "R U R' U2' R' D' R U R' D R2' U' R' U R U' R' y'",
+      "algorithmList": [
+         "y R U R' U' R U R2 D' R U' R' D R U2 R U' R'",
+         "y2 R U R' U' R2 D R' U2 R D' R2 U2 R U2 R'",
+         "y' R2 U' R U F' U2 R' U2 R F U' R",
+         "L U L' U' L2 D L' U2 L D' L2 U2 L U2 L'"
+      ]
+   },
+   {
+      "id": "ZBLLT60",
+      "name": "T60",
+      "colorsCodeToPaint": "666232423222552225344",
+      "setup": "F R U R' U' R' F' R U R' F' R U R U' R' F R U' R' ",
+      "algorithmList": [
+         "y2 R U R' F' R U R' U' R' F R U' R' F R U R U' R' F'",
+         "y R U R' U R U R2 D' r U2 r' D R2 U R'",
+         "y R' U R2 D r' U2 r D' R2 U R U R' U R",
+         "y2 D' R' D x' U2 r U r' U2 x R2 U' R' U R2"
+      ]
+   },
+   {
+      "id": "ZBLLT61",
+      "name": "T61",
+      "colorsCodeToPaint": "344252525222332224666",
+      "setup": "R' U' R U' R' U2' R U' R' U2' R U R' U R y",
+      "algorithmList": [
+         "y2 R U' R' U2 R U R' U2 R U R' U R U' R'",
+         "y' R' U' R U' R' U2 R U R' U2 R U R' U R",
+         "L U' L' U2 L U L' U2 L U L' U L U' L'",
+         "y' r U R' U' r' F R F' R2 x F R F' R U2 r' U r U2 x' U2"
+      ]
+   },
+   {
+      "id": "ZBLLT62",
+      "name": "T62",
+      "colorsCodeToPaint": "443262623222642223555",
+      "setup": "R U R' U R U2' R' U R U2' R' U' R U' R' y",
+      "algorithmList": [
+         "y' R U R' U R U2 R' U' R U2 R' U' R U' R'",
+         "R' U R U2 R' U' R U2 R' U' R U' R' U R",
+         "y2 L' U L U2 L' U' L U2 L' U' L U' L' U L",
+         "y L U L' U L U2 L' U' L U2 L' U' L U' L'"
+      ]
+   },
+   {
+      "id": "ZBLLT63",
+      "name": "T63",
+      "colorsCodeToPaint": "536242425222452226363",
+      "setup": "R' U2' R2' U R2' U R U' R U R' U' R U' R' y",
+      "algorithmList": [
+         "y' R U R' U R U' R' U R' U' R2 U' R2 U2 R",
+         "R U' R U2 R U2 R' U R U R' U' R' U R' U'",
+         "y R' U R U2 R' U' R U' R U R' U' R' U' R U2 R U2 R'",
+         "y R' F' U' F U' R U R2 F R F' U R"
+      ]
+   },
+   {
+      "id": "ZBLLT64",
+      "name": "T64",
+      "colorsCodeToPaint": "566242425222352226343",
+      "setup": "R U2' R' U' R U' R' U' R U R' U R U2' R'",
+      "algorithmList": [
+         "R U2 R' U' R U' R' U R U R' U R U2 R'",
+         "y2 L U2 L' U' L U' L' U L U L' U L U2 L'"
+      ]
+   },
+   {
+      "id": "ZBLLT65",
+      "name": "T65",
+      "colorsCodeToPaint": "536242424222652226353",
+      "setup": "R U2' R2' U' R2' U' R' U R' U' R U R' U R y",
+      "algorithmList": [
+         "y' R' U' R U' R' U R U' R U R2 U R2 U2 R'",
+         "R' U R2 U R' U R' U' R U' R' U' R U R U' R'",
+         "y L' U' L U' L' U L U' L U L2 U L2 U2 L'",
+         "y z D R' U R' D' R U' R U' R D R' U D' z'"
+      ]
+   },
+   {
+      "id": "ZBLLT66",
+      "name": "T66",
+      "colorsCodeToPaint": "556242423222652226343",
+      "setup": "R' U2' R U R' U R U R' U' R U' R' U2' R y2'",
+      "algorithmList": [
+         "y2 R' U2 R U R' U R U' R' U' R U' R' U2 R",
+         "L' U2 L U L' U L U' L' U' L U' L' U2 L",
+         "y2 R' U2 R U R' U R U L' U' L U' L' U2 L",
+         "R U2 R2 U R' U2 R2 U R U' R U' R U' R2"
+      ]
+   },
+   {
+      "id": "ZBLLT67",
+      "name": "T67",
+      "colorsCodeToPaint": "354252524222632224636",
+      "setup": "R' U' R U' R U2' R2' U' R2' U' R2' U R y",
+      "algorithmList": [
+         "y' R' U' R2 U R2 U R2 U2 R' U R' U R",
+         "R U2 R' U2 R' U2 R U R U' R' U R' U R",
+         "y L' U' L2 U L2 U L2 U2 L' U L' U L",
+         "L' U L2 F' L' F L' U y' L' U L U F U"
+      ]
+   },
+   {
+      "id": "ZBLLT68",
+      "name": "T68",
+      "colorsCodeToPaint": "463262625222442223535",
+      "setup": "R U R' U R' U2' R2' U R2' U R2' U' R' y",
+      "algorithmList": [
+         "y' R U R2 U' R2 U' R2 U2 R U' R U' R'",
+         "y2 R' U2 R U2 R U2 R' U' R' U R U' R U' R'",
+         "R U' R2 F R F' R U' B U' B' U' R'",
+         "R U2 R' U2 R' U' F U R U' R U R' U' F'"
+      ]
+   },
+   {
+      "id": "ZBLLT69",
+      "name": "T69",
+      "colorsCodeToPaint": "334252525222632224646",
+      "setup": "R' U' R U' R' U2' R2' U R' U R U2' R'",
+      "algorithmList": [
+         "R U2 R' U' R U' R2 U2 R U R' U R",
+         "y2 L U2 L' U' L U' L2 U2 L U L' U L",
+         "R U2 R' U' R U' R' U2 L' U2 L U L' U L"
+      ]
+   },
+   {
+      "id": "ZBLLT70",
+      "name": "T70",
+      "colorsCodeToPaint": "433262625222642223545",
+      "setup": "R U R' U R U2' R2' U' R U' R' U2' R y2'",
+      "algorithmList": [
+         "y2 R' U2 R U R' U R2 U2 R' U' R U' R'",
+         "L' U2 L U L' U L2 U2 L' U' L U' L'",
+         "L' U2 L U L' U L U2 R U2 R' U' R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLT71",
+      "name": "T71",
+      "colorsCodeToPaint": "364252524222332224656",
+      "setup": "R U R' U' R' U R U R U' R' U R' U R U2' R' U' R",
+      "algorithmList": [
+         "R' U R U2 R' U' R U' R U R' U' R' U' R U R U' R'",
+         "x D' R' U R D R2 D2 R U' R' D2 R l",
+         "y' R U R' U R U' R2 U' R' U' R U R' U' R2 U2 R",
+         "y R B r' U' R' U2 R2 U' r B R2 B2"
+      ]
+   },
+   {
+      "id": "ZBLLT72",
+      "name": "T72",
+      "colorsCodeToPaint": "546242425222652226333",
+      "setup": "R' U2' R U R' U R U2' R U2' R' U' R U' R' y",
+      "algorithmList": [
+         "y' R U R' U R U2 R' U2 R' U' R U' R' U2 R",
+         "y' R U R' U R U2 R' L' U' L U' L' U2 L",
+         "y L' U' L U' L' U2 L R U R' U R U2 R'",
+         "y L U L' U L U2 L' R' U' R U' R' U2 R"
+      ]
+   },
+   {
+      "id": "ZBLLH1",
+      "name": "H1",
+      "colorsCodeToPaint": "433262624222623242555",
+      "setup": "R U R' U R U2' R2' F' r U R U' r' F y'",
+      "algorithmList": [
+         "y F' r U R' U' r' F R2 U2 R' U' R U' R'",
+         "R U2 R' U' R U' R' F R U' R' U' R U2 R' U' F'",
+         "y R' U' F' U F R U R U R' U' R' F R F'",
+         "L R' U' R U' R' U R U2 L' U R' U2 R"
+      ]
+   },
+   {
+      "id": "ZBLLH2",
+      "name": "H2",
+      "colorsCodeToPaint": "556242423222626252333",
+      "setup": "R U R D R' U' R D' R2' U R U2' R' U' R U' R' y",
+      "algorithmList": [
+         "y' F R' F' r U R U' r2 F2 r U L' U L",
+         "y' R U R' U R U2 R' U' R2 D R' U R D' R' U' R'",
+         "y2 F U R U' R' S U R' U' R U R U' B' z'",
+         "y2 F U R U' R' F' r' F' r U r U' r' F"
+      ]
+   },
+   {
+      "id": "ZBLLH3",
+      "name": "H3",
+      "colorsCodeToPaint": "546242425222326252363",
+      "setup": "R' U' R' D' R U R' D R' U R' U R U2' R'",
+      "algorithmList": [
+         "y' R U2 R' U' R U R' U2 R' F R2 U' R' U' R U R' F'",
+         "y R U R D R' U R' U' R U R2 D' R U' R U' R'",
+         "R U2 R' U' R U' R D' R U' R' D R U R",
+         "y' R' U2 R2 B' U R2 U R2 U' B U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLH4",
+      "name": "H4",
+      "colorsCodeToPaint": "463262625222323242545",
+      "setup": "R' U' F U' R2' U R2' U F' R2' U2' R' y",
+      "algorithmList": [
+         "y2 R' U2 R U R' U R' D R' U R D' R' U' R'",
+         "y R' D R2 U' R2 D' R U' R' D R2 U2 R2 D' R",
+         "y' R U2 R2 F U' R2 U' R2 U F' U R",
+         "y F' R U2 R' U2 R' F U' R U R U' R' U' R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLH5",
+      "name": "H5",
+      "colorsCodeToPaint": "344252525222624232636",
+      "setup": "R2' F2' r U r' F R2' U2' B' R B R' y",
+      "algorithmList": [
+         "y2 R' U2 R2 U R2 U R U2 R' F R U R U' R' F'",
+         "R U R' U R U' R' U R U' R2 F' R U R U' R' F R U' R'",
+         "R' F' R U R' U' R' F D' R U' R' D R U2 R",
+         "y' L U2 L' U R' U2 L U2 L' U2 R L U' L'"
+      ]
+   },
+   {
+      "id": "ZBLLH6",
+      "name": "H6",
+      "colorsCodeToPaint": "443262625222623242535",
+      "setup": "R U2' R' U F2' R U2' R' U2' R' F2' R2' U R' y",
+      "algorithmList": [
+         "y' R U2 R' U' R U R' U' F' R U R' U' R' F R2 U' R'",
+         "y' r U2 R' U' R U' r' U R U2 R' U2 R' F R F'",
+         "L F L' U' L U L F' D L' U L D' L' U2 L' U'",
+         "L' U R2 D R' U2 R D' R' U L U R'"
+      ]
+   },
+   {
+      "id": "ZBLLH7",
+      "name": "H7",
+      "colorsCodeToPaint": "354252524222324232666",
+      "setup": "R U2' R2' U' R U' R' U2' F R U R U' R' F' y",
+      "algorithmList": [
+         "y2 F R U' R' U' R U2 R' U' F' R U2 R' U' R U' R'",
+         "y R' D' R U2 R' D R U R U2 R' U R U' R' U' R U' R'",
+         "y2 R' U' R U' R' U R U R' F R U R' U' R' F' R2",
+         "y' F R U R' U' R' F' U2 R U R' U R2 U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLH8",
+      "name": "H8",
+      "colorsCodeToPaint": "364252523222424232656",
+      "setup": "F U R U' R' U R U2' R' U' R U R' F' y2'",
+      "algorithmList": [
+         "y2 F R U' R' U R U2 R' U' R U R' U' F'",
+         "y2 f R U R' U' f' R U R' U' R' F R F'"
+      ]
+   },
+   {
+      "id": "ZBLLH9",
+      "name": "H9",
+      "colorsCodeToPaint": "433262625222423242565",
+      "setup": "R' U' F R' F' R U' R U R' F U R U' R' F' R",
+      "algorithmList": [
+         "R F R2 U' R2 U' R2 U2 R2 U' F' R'",
+         "y' R' U R D' R U R' U2 R U R' U D R' U' R",
+         "R' F R U R' U' F' R U' R' U R' F R F' U R",
+         "y L' U L U' y' R U R' U2 R U R' U2 y' R' U' R"
+      ]
+   },
+   {
+      "id": "ZBLLH10",
+      "name": "H10",
+      "colorsCodeToPaint": "645232323222625262454",
+      "setup": "R' U' F' R U R' U' R' F R2' U2' R' U2' R y",
+      "algorithmList": [
+         "y' R' U2 R U2 R2 F' R U R U' R' F U R",
+         "y L' U2 M' x' D R2 U R2 u' R2 B",
+         "y l F l2 U2 F l U2 l2 U' l2 U2 l' U2 l",
+         "F' B L2 B' L2 U L2 U L2 U' L2 F"
+      ]
+   },
+   {
+      "id": "ZBLLH11",
+      "name": "H11",
+      "colorsCodeToPaint": "453262623222623242545",
+      "setup": "R U R' U R U' R' U' R' F' R U2' R U2' R' F y'",
+      "algorithmList": [
+         "y2 f R2 S' U' R2 U' R2 U R2 F'",
+         "y F' R U2 R' U2 R' F R U R U R' U' R U' R'",
+         "F B' R2 B R2 U' R2 U' R2 U R2 F'",
+         "U L U2 L' U2 L2 F L' U' L' U L F' U' L'"
+      ]
+   },
+   {
+      "id": "ZBLLH12",
+      "name": "H12",
+      "colorsCodeToPaint": "443262623222523242565",
+      "setup": "F U' R U' R' U R U R' U2' R U2' R' U F'",
+      "algorithmList": [
+         "F U' R U2 R' U2 R U' R' U' R U R' U F'",
+         "y' R D' R U2 R' U2 R U' R' U' R U R' D R'",
+         "y f U2 R F R' F' R U2 R U2 R2 U2 f'",
+         "L' F' L2 U L2 U L2 U2 L2 U F L"
+      ]
+   },
+   {
+      "id": "ZBLLH13",
+      "name": "H13",
+      "colorsCodeToPaint": "563242625222423262534",
+      "setup": "R2' D R' U2' R D' R2' U' R2' D R' U' R D' R2' y2'",
+      "algorithmList": [
+         "y' R' U2 R U R' U' F' R U R' U' R' F R U2 R",
+         "y2 R2 D R' U R D' R2 U R2 D R' U2 R D' R2",
+         "L2 D L' U L D' L2 U L2 D L' U2 L D' L2",
+         "L U2 R' U L' U L U L' U' L U' R U2 L'"
+      ]
+   },
+   {
+      "id": "ZBLLH14",
+      "name": "H14",
+      "colorsCodeToPaint": "445262326222325232456",
+      "setup": "R U R' U R2' D R' U' R D' R2' U R U2' R' y",
+      "algorithmList": [
+         "y' R U2 R' U' R2 D R' U R D' R2 U' R U' R'",
+         "y R' U2 R2 U R D' R U R' D R' U2 R'",
+         "y' L' U2 L2 U L D' L U L' D L' U2 L'",
+         "y2 R2 D R' U2 R D' R U' R2 U' R2 U2 R"
+      ]
+   },
+   {
+      "id": "ZBLLH15",
+      "name": "H15",
+      "colorsCodeToPaint": "634232526222424252653",
+      "setup": "R2' D' R U2' R' D R2' U R2' D' R U R' D R2' y2'",
+      "algorithmList": [
+         "y2 R2 D' R U' R' D R2 U' R2 D' R U2 R' D R2",
+         "R' U2 R U R' U R2 y R U' R' U' R U2 R' U' F'",
+         "y' R' U L' U' R U2 L U' L' U' L U L' U' L",
+         "y L' U R' U' L U2 R U' R' U' R U R' U' R"
+      ]
+   },
+   {
+      "id": "ZBLLH16",
+      "name": "H16",
+      "colorsCodeToPaint": "465262325222325232446",
+      "setup": "R' U2' R' D R' U R D' R U R2' U2' R' y",
+      "algorithmList": [
+         "y R' U2 R U R2 D' R U' R' D R2 U R' U R",
+         "y2 R2 D' R U2 R' D R' U R2 U R2 U2 R'",
+         "y' R U2 R2 U' R' D R' U' R D' R U2 R",
+         "y L U2 L2 U' L' D L' U' L D' L U2 L"
+      ]
+   },
+   {
+      "id": "ZBLLH17",
+      "name": "H17",
+      "colorsCodeToPaint": "346252425222626242335",
+      "setup": "L U' R' U L' U R2' U R2' U R U' R U' R' y2'",
+      "algorithmList": [
+         "F R' F' R U2 R U2 R' U' R' F2 r U r' F R",
+         "y2 R U R' U R' U' R2 U' R2 U' L U' R U L'",
+         "y R' D' R U R' D R2 U R' U2 R U2 R' U R U2 R'",
+         "R' U2 R' D' R2 D2 R' U R D2 R' U R' D R2"
+      ]
+   },
+   {
+      "id": "ZBLLH18",
+      "name": "H18",
+      "colorsCodeToPaint": "336252426222526242345",
+      "setup": "L' U R U' L U' R2' U' R2' U' R' U R' U R y2'",
+      "algorithmList": [
+         "y2 R' U' R U' R' U F' R U R' U' R' F R2 U' R' U R",
+         "y2 R' U' R U' R U R2 U R2 U L' U R' U' L",
+         "U' R' U' R F D R' U R U' R' U R D' R' U' R F'",
+         "R U2 R D R2 D2 R U' R' D2 R U' R D' R2 U"
+      ]
+   },
+   {
+      "id": "ZBLLH19",
+      "name": "H19",
+      "colorsCodeToPaint": "465262323222425232456",
+      "setup": "R2' U R' U' R' U2' R' U2' R U R' D R' U R D'",
+      "algorithmList": [
+         "y' F R U' R' U' R U2 R' U' F' U R U R' U R U2 R'",
+         "y' R' U' R f U R U2 R' U2 R' U2 R2 U R' f'",
+         "y R U R' U' R' U2 R2 D R' U R D' R2 U R2 U2 R'",
+         "R' U' R D' R U' R' U2 R U2 R U R U' R2 D"
+      ]
+   },
+   {
+      "id": "ZBLLH20",
+      "name": "H20",
+      "colorsCodeToPaint": "533242625222623262544",
+      "setup": "F U R U2' R' U R U R' F' R U2' R' U' R U' R' y'",
+      "algorithmList": [
+         "y R U R' U R U2 R' F R U' R' U' R U2 R' U' F'",
+         "y2 R2 D' r U2 r' D R' U R2 U R2 U2 R'",
+         "y2 F' R U2 R' U2 R' F R U R U' R2 U2 R U R' U R",
+         "y R U' L U L2 R' U2 L U L' U L U L U' L'"
+      ]
+   },
+   {
+      "id": "ZBLLH21",
+      "name": "H21",
+      "colorsCodeToPaint": "346252426222326242355",
+      "setup": "L U' R' U L' U R U R' U R",
+      "algorithmList": [
+         "R' U' R U' R' U' L U' R U L'",
+         "R' F' R U2 R U2 R' F U' R U' R'",
+         "R' U' R2 D R' U2 R D' R' U R' U2 R",
+         "y2 L' U' L U' L' U' R U' L U R'"
+      ]
+   },
+   {
+      "id": "ZBLLH22",
+      "name": "H22",
+      "colorsCodeToPaint": "366252425222326242345",
+      "setup": "L' U R U' L U' R' U' R U' R'",
+      "algorithmList": [
+         "R U R' U R U r' F R' F' r",
+         "R U R' U R U L' U R' U' L",
+         "y R' F R U R' U' R' F' R U' R U R' U R",
+         "R U R2 D' R U2 R' D R U' R U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLH23",
+      "name": "H23",
+      "colorsCodeToPaint": "455262323222625232446",
+      "setup": "r' U r U r' U' r U R2' F R F' R y'",
+      "algorithmList": [
+         "y R' F R' F' R2 U' r' U r U' r' U' r",
+         "y R U R' U R U2 R D' R U' R' D R U R",
+         "y R U' L' U R2 U' R L U2 R' U' R",
+         "y l' U R' U' x' R2 U' r' U r U' r' U' r"
+      ]
+   },
+   {
+      "id": "ZBLLH24",
+      "name": "H24",
+      "colorsCodeToPaint": "445262323222625232466",
+      "setup": "r U' r' U' r U r' U' l R U' R' U l' y",
+      "algorithmList": [
+         "y' R U R2 F R F' r U' r' U r U r'",
+         "y' l U' R U R' l' U r U' r' U r U r'",
+         "y R U2 R' U' R U' R' U L' U R U' L U R'",
+         "y' R' U' R U' R' U2 R' D R' U R D' R' U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLH25",
+      "name": "H25",
+      "colorsCodeToPaint": "545242325222324232666",
+      "setup": "F R' U R U2' R2' U' R U2' R' U' R2' U F'",
+      "algorithmList": [
+         "y' R' U' R y U' R U' R' U R l U' R' U l'",
+         "F U' R2 U R U2 R' U R2 U2 R' U' R F'",
+         "F' U' F U' R U' R' U R l U' R' U l'",
+         "y2 R' F R' F' R2 U R' U' R U' f R' f'"
+      ]
+   },
+   {
+      "id": "ZBLLH26",
+      "name": "H26",
+      "colorsCodeToPaint": "434262524222626252353",
+      "setup": "R U R' L' U2' R U R' U2' L R U2' R' U' R U' R' y",
+      "algorithmList": [
+         "y R U' R2 U' F2 U' R2 U R2 U F2 R2 U R'",
+         "y r U2 R2 F R F' R U2 r' L' U2 L U L' U L",
+         "y' F R U R' U' R U R' U' F' U R' F' U' F U R",
+         "y r U2 R2 F R F' R U2 r' U2 R' U2 R U R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLH27",
+      "name": "H27",
+      "colorsCodeToPaint": "343252625222625262434",
+      "setup": "F U R U' R' U R U' R' U R U' R' F' y'",
+      "algorithmList": [
+         "y F R U R' U' R U R' U' R U R' U' F'",
+         "y F U R U' R' U R U' R' U R U' R' F'",
+         "y f U R U' R' U R U' R' U R U' R' f'",
+         "y f R U R' U' R U R' U' R U R' U' f'"
+      ]
+   },
+   {
+      "id": "ZBLLH28",
+      "name": "H28",
+      "colorsCodeToPaint": "666232424222323242555",
+      "setup": "x' U' R U' R' U R' F2' R U' R U R' U x",
+      "algorithmList": [
+         "x' U' R U' R' U R' F2 R U' R U R' U x",
+         "R U' L' U R' U' L R U' L' U R' U' L",
+         "R U' r' F R' F' r R U' r' F R' F' r",
+         "r' F R F' r U R' r' F R F' r U R'"
+      ]
+   },
+   {
+      "id": "ZBLLH29",
+      "name": "H29",
+      "colorsCodeToPaint": "636232425222623242545",
+      "setup": "R' U' R U' L U' R' U L' U2' R2' U2' R' U' R U' R'",
+      "algorithmList": [
+         "R' U2 R U R' U R U R' U' R U R' F' R U R' U' R' F R2",
+         "R' U2 R U R' U R U' r U2 R2 F R F' R U2 r'",
+         "L' U L U' L' U' L U R' U' R U L' U' L U2 R' U' RL' U L U' L' U' L U R' U' R U L' U' L U2 R' U' R",
+         "R U R' U R U2 R2 U2 L U' R U L' U R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLH30",
+      "name": "H30",
+      "colorsCodeToPaint": "646232426222523242535",
+      "setup": "R U R' U L' U R U' L U2' R2' U2' R U R' U R",
+      "algorithmList": [
+         "R' U' R U' R' U2 R2 U2 L' U R' U' L U' R U' R'",
+         "R' F2 r2 U' r' F r' F2 R2 U R' U R U2 R'",
+         "r D r2 U' F2 r U2 L' U2 r' D' r F L2",
+         "R U' R' U R U R' U' L U L' U' R U R' U2 L U L'"
+      ]
+   },
+   {
+      "id": "ZBLLH31",
+      "name": "H31",
+      "colorsCodeToPaint": "656242323222524232646",
+      "setup": "L U2' R' U R U2' L' R' U R U' R' U2' R U R' U R y",
+      "algorithmList": [
+         "R' U' F' U F R U' F U R U' R' U R U' R' F'",
+         "y R U' R2 F2 U' R2 U' R2 U F2 U R2 U R'",
+         "y' R' U' R U' R' U2 R U R' U' R U R' F' R U R' U' R' F R2",
+         "y R' U2 R F' r' F r U F U' R' U2 F R F'"
+      ]
+   },
+   {
+      "id": "ZBLLH32",
+      "name": "H32",
+      "colorsCodeToPaint": "646232423222623242555",
+      "setup": "R' F R' F' R2' U R' U' R y U' R U' R' y",
+      "algorithmList": [
+         "y' R U R' U y' R' U R U' R2 F R F' R",
+         "F R' U R U2 R2 U' R U2 R' U' R2 U F'",
+         "y2 f R f' U R' U R U' R2 F R F' R",
+         "y' F U F' U2 L2 U' L2 U' L2 U2 L2 F U' F'"
+      ]
+   },
+   {
+      "id": "ZBLLH33",
+      "name": "H33",
+      "colorsCodeToPaint": "344252525222326262364",
+      "setup": "R U2' R' U' R U R' U' R U' R'",
+      "algorithmList": [
+         "R U R' U R U' R' U R U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLH34",
+      "name": "H34",
+      "colorsCodeToPaint": "354252526222326262344",
+      "setup": "R' U2' R U R' U' R U R' U R",
+      "algorithmList": [
+         "R' U' R U' R' U R U' R' U2 R",
+         "y2 L' U' L U' L' U L U' L' U2 L"
+      ]
+   },
+   {
+      "id": "ZBLLH35",
+      "name": "H35",
+      "colorsCodeToPaint": "645232323222524242665",
+      "setup": "R' U' R U' R' U R U' R' U2' R y",
+      "algorithmList": [
+         "y' R' U2 R U R' U' R U R' U R",
+         "y L' U2 L U L' U' L U L' U L"
+      ]
+   },
+   {
+      "id": "ZBLLH36",
+      "name": "H36",
+      "colorsCodeToPaint": "645232326222324242655",
+      "setup": "R U R' U R U' R' U R U2' R' y",
+      "algorithmList": [
+         "y' R U2 R' U' R U R' U' R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLH37",
+      "name": "H37",
+      "colorsCodeToPaint": "344252526222526262334",
+      "setup": "R U2' R' U' R U' R' U' R' U' R U' R' U2' R y",
+      "algorithmList": [
+         "y' R' U2 R U R' U R U R U R' U R U2 R'",
+         "R U R2 U' R2 U R2 U2 R2 U2 R' U R' U R",
+         "y R' U R U R' U R U R U R' U R' U' R2 U' R'",
+         "y' R U2 R2 U2 R' U2 R U2 R' U2 R2 U2 R"
+      ]
+   },
+   {
+      "id": "ZBLLH38",
+      "name": "H38",
+      "colorsCodeToPaint": "334252525222626262344",
+      "setup": "R' U2' R U R' U R U R U R' U R U2' R' y'",
+      "algorithmList": [
+         "y R U2 R' U' R U' R' U' R' U' R U' R' U2 R",
+         "y R U2 R' U' R U' R' U r' F' r U' r' F2 r",
+         "r R U2 r' R U2 R' l' U2 y U' R2 U' R2 U' R2 U' R2 U",
+         "R L F2 L' R U2 R2 F U2 y' R' U2 R' U2 R' U2 R"
+      ]
+   },
+   {
+      "id": "ZBLLH39",
+      "name": "H39",
+      "colorsCodeToPaint": "645232325222624242635",
+      "setup": "R' U' R U' R' U2' R U R U2' R' U' R U' R'",
+      "algorithmList": [
+         "R U R' U R U2 R' U' R' U2 R U R' U R",
+         "y2 R' U' R U' R' U2 R U R U2 R' U' R U' R'",
+         "R' U' R U' R' U2 R U R U2 R' U' R U' R'",
+         "R' U' R' r2 U' R' U R' r2 U' r' U2 r"
+      ]
+   },
+   {
+      "id": "ZBLLH40",
+      "name": "H40",
+      "colorsCodeToPaint": "463262624222325252453",
+      "setup": "R' U' R U' R U R2' U R U' R U R' U' R U R' U' R U'",
+      "algorithmList": [
+         "R U R' U R U' R' U R U' R' U R' U' R2 U' R' U R' U R",
+         "F U R' F R F' R U' R' U R' F R F' R U' R' F'",
+         "R U R' U R U' R' U R2 U R U R U' R' U' R' U R'",
+         "R U R' U R U' R' U R2 U R U R U' R' U' R' U R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI1",
+      "name": "PI1",
+      "colorsCodeToPaint": "552242364222623246532",
+      "setup": "L R' U' R U' R' U R U2' L' U R' U2' R",
+      "algorithmList": [
+         "y' R U R' U R U2 R2 F' r U R U' r' F",
+         "y' R U R' U R U2 R2 U' R' F R U R U' R' F' R",
+         "R' U2 R U' L U2 R' U' R U R' U R L'",
+         "y F U R U2 R' U R U R' F' R U R' U R U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI2",
+      "name": "PI2",
+      "colorsCodeToPaint": "623232454222524235662",
+      "setup": "L' R U R' U R U' R' U2' L U' R U2' R'",
+      "algorithmList": [
+         "y' r' F' r U' r' F2 r2 U R' U' r' F R F'",
+         "y R' U' R U' R' U2 R U' R U R D R' U' R D' R2",
+         "y' L' U' L U' L' U2 L r U R' U' r' F R F'",
+         "R U2 R' U' R U' r' F' r U R' U2 r' F2 r"
+      ]
+   },
+   {
+      "id": "ZBLLPI3",
+      "name": "PI3",
+      "colorsCodeToPaint": "562242365222423246532",
+      "setup": "R U2' R' U' R U' R D' R U' R' D R U R y2'",
+      "algorithmList": [
+         "y2 R' U' R' D' R U R' D R3 U R' U R U2 R'",
+         "y2 R' U' R' D' R U R' D R' U R' U R U2 R'",
+         "S R U R U' R' F U R' U' R U R' U' f'",
+         "y R U R' U R' D R2 U' R' U R U' R D' R' U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI4",
+      "name": "PI4",
+      "colorsCodeToPaint": "632232456222424235652",
+      "setup": "R' U2' R U R' U R' D R' U R D' R' U' R' y2'",
+      "algorithmList": [
+         "y2 R U R D R' U' R D' R U' R U' R' U2 R",
+         "y' R' U' F U' R2 U R2 U F' R2 U2 R'",
+         "y2 R U R D R' U' R D' R3' U' R U' R' U2 R",
+         "y' R' D R2 U2 R2 D' R U R' D R2 U R2 D' R"
+      ]
+   },
+   {
+      "id": "ZBLLPI5",
+      "name": "PI5",
+      "colorsCodeToPaint": "342252635222626254332",
+      "setup": "R U R2' F' U2' R U R' U R2' U2' R' U F R U' R'",
+      "algorithmList": [
+         "F R' F' R U2 R U2 R' U' r U R' U R U2 r'",
+         "R U R' U R' F R F' R' U' F' U F R2 U' R'",
+         "y R U R2 F' R U R U' R' F U R U' R' U R U2 R'",
+         "y R U R2 D' R U R' D R2 U2 R' U R U R' U R U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI6",
+      "name": "PI6",
+      "colorsCodeToPaint": "662232454222324235652",
+      "setup": "F R U R' U' R' F' R U2 R' U' R2 U' R2 U2 R",
+      "algorithmList": [
+         "y R' U2 R' D' R U R' D F' R U R U' R' F R U'",
+         "y R2 F2 r U r' F R2 U2 x' U' R U l'",
+         "y' R U L' R' U2 R U2 R' U2 L U' R U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI7",
+      "name": "PI7",
+      "colorsCodeToPaint": "642232456222524235632",
+      "setup": "R' U' R U' R' U R U R' F R U R' U' R' F' R2'",
+      "algorithmList": [
+         "R2 F R U R U' R' F' R U' R' U' R U R' U R",
+         "y R U2 R2 U' R U' R' U2 F R U R U' R' F'",
+         "y' R U R' U R U2 R' F U R U2 R' U R U R' F'",
+         "R U2 R2 U' R' D R' U' R D2 L F2 L' D R2"
+      ]
+   },
+   {
+      "id": "ZBLLPI8",
+      "name": "PI8",
+      "colorsCodeToPaint": "632232455222624235642",
+      "setup": "F R U' R' U R U2' R' U' R U R' U' F' y'",
+      "algorithmList": [
+         "y F U R U' R' U R U2 R' U' R U R' F'",
+         "R' U R U R' U R U' R2 D' R U' R' D R U' R",
+         "R U y R U' R' U R U2 R' U' R U R' F'",
+         "U R' U2 R2 F' R2 F R2 U2 R' U2 F' R F U2 R2 U'"
+      ]
+   },
+   {
+      "id": "ZBLLPI9",
+      "name": "PI9",
+      "colorsCodeToPaint": "452262536222425263432",
+      "setup": "F' R U2' R' U2' R' F R U R U R' U' R U' R' y",
+      "algorithmList": [
+         "y' R U R' U R U' R' U' R' F' R U2 R U2 R' F",
+         "y F R2 U' R2 U R2 U S R2 f'",
+         "y F R2 U' R2 U R2 U F' B U2 B'",
+         "R U R' U L' U2 R U R' U2 L R U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI10",
+      "name": "PI10",
+      "colorsCodeToPaint": "532242366222423246552",
+      "setup": "F U' R U2' R' U2' R U' R' U' R U R' U F' y",
+      "algorithmList": [
+         "y' F U' R U' R' U R U R' U2 R U2 R' U F'",
+         "y R' B' U' R2 U2 R2 U' R2 U' R2 B R",
+         "y R' F' R U R U' R' F U R2 U R2 U R U' R U' R2",
+         "R U' L U' R' U L' U' R' U' R2 U' R2 U2 R"
+      ]
+   },
+   {
+      "id": "ZBLLPI11",
+      "name": "PI11",
+      "colorsCodeToPaint": "332252644222626254352",
+      "setup": "R' U R U R' U' R' D' R U' R' D R U' R' D' R U R' D",
+      "algorithmList": [
+         "y' R F U R2 U2 R2 U R2 U R2 F' R'",
+         "y R2 D' R U' R' D R U R' D' R U R' D R U R U' R' U' R",
+         "y2 R' U R U' D' R U' R' U2 R U' R' D R' U' R",
+         "y L U L2 R U2 L2 U L2 U L2 U R' U' L'"
+      ]
+   },
+   {
+      "id": "ZBLLPI12",
+      "name": "PI12",
+      "colorsCodeToPaint": "342252646222326254352",
+      "setup": "R' U2' R U2' R2' F' R U R U' R' F U R",
+      "algorithmList": [
+         "R' U' F' R U R' U' R' F R2 U2 R' U2 R",
+         "R' U' R U' L U2 R' U' L' U2 L R U2 L'",
+         "y' B' R2 U R2 U' R2 U' S R2 F z'"
+      ]
+   },
+   {
+      "id": "ZBLLPI13",
+      "name": "PI13",
+      "colorsCodeToPaint": "632232455222423246562",
+      "setup": "R2' D' R U' R' D R2' U' R2' D' R U2' R' D R2' y'",
+      "algorithmList": [
+         "y R2 D' R U2 R' D R2 U R2 D' R U R' D R2",
+         "y R2 U' R2 F U R2 U' R2 F' U' R2 U R2",
+         "y2 R' U R U' R' U R U R' U2 L' U R U' L",
+         "L' U L U' L' U L U L' U2 R' U L U' R"
+      ]
+   },
+   {
+      "id": "ZBLLPI14",
+      "name": "PI14",
+      "colorsCodeToPaint": "652232456222423246532",
+      "setup": "R2' D R' U R D' R2' U R2' D R' U2' R D' R2' y",
+      "algorithmList": [
+         "y' R2 D R' U2 R D' R2 U' R2 D R' U' R D' R2",
+         "y' R2 U R2 B' U' R2 U R2 B U R2 U' R2",
+         "R' U2 R2 U R2 U R2 U' R' U' R' F R2 U' R' U' R U R' F'",
+         "L U2 R' U L' U L U' L' U' L U' R U2 L'"
+      ]
+   },
+   {
+      "id": "ZBLLPI15",
+      "name": "PI15",
+      "colorsCodeToPaint": "452262536222326254342",
+      "setup": "R' U2' R U R2' D' R U' R' D R2' U R' U R",
+      "algorithmList": [
+         "R' U' R U' R2 D' R U R' D R2 U' R' U2 R",
+         "R' U2 R' D R' U R D' R U R2 U2 R'",
+         "y2 L' U2 L' D L' U L D' L U L2 U2 L' U2"
+      ]
+   },
+   {
+      "id": "ZBLLPI16",
+      "name": "PI16",
+      "colorsCodeToPaint": "342252645222325264462",
+      "setup": "R U2' R' U' R2' D R' U R D' R2' U' R U' R'",
+      "algorithmList": [
+         "R U R' U R2 D R' U' R D' R2 U R U2 R'",
+         "R U2 R D' R U' R' D R' U' R2 U2 R"
+      ]
+   },
+   {
+      "id": "ZBLLPI17",
+      "name": "PI17",
+      "colorsCodeToPaint": "642232455222623246532",
+      "setup": "R2' D' R U2' R' D R2' U R' U R U R' U2' R U R' U R",
+      "algorithmList": [
+         "R' U' R U R2 F' R U R U' R' F U' R U R' U R",
+         "R U2 R2 U' R2 U' R' U R' U2 L U' R U L'",
+         "R' U' R U' R' U2 R U' R' U' R U' R2 D' R U2 R' D R2",
+         "y' R' U2 R U R' U2 R U2 R' U R2 D R' U R D' R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI18",
+      "name": "PI18",
+      "colorsCodeToPaint": "542242365222624235632",
+      "setup": "R' F' R U2' R U2' R' F R' U' R2' U' R' U R' U R y'",
+      "algorithmList": [
+         "y R U2 R' U' R U2 R' U2 R U' R2 D' R U' R' D R",
+         "y' R' U' F' R U2 R' U' R U' R' F U R U R' U2 R",
+         "R' U2 R2 U R2 U R U' R U2 L' U R' U' L",
+         "y R' U' R U' R U R2 U R F' R U2 R' U2 R' F R"
+      ]
+   },
+   {
+      "id": "ZBLLPI19",
+      "name": "PI19",
+      "colorsCodeToPaint": "442262546222526254332",
+      "setup": "R U R' U R U2' R' F R U' R' U' R U2' R' U' F' y",
+      "algorithmList": [
+         "y' F U R U2 R' U R U R' F' R U2 R' U' R U' R'",
+         "y' R2 D R' U R D' R2 U R U2 R2 U' R U' R' U2 R",
+         "y R U2 R2 U' R2 U' R D' r U2 r' D R2",
+         "y R' U' R U' R' U2 R2 U R' U' R' F' R U2 R U2 R' F"
+      ]
+   },
+   {
+      "id": "ZBLLPI20",
+      "name": "PI20",
+      "colorsCodeToPaint": "432262535222626254342",
+      "setup": "r' F' r U R U2' r' F2' r U' R' U R U2' R' y2'",
+      "algorithmList": [
+         "y2 R U2 R' U' R U r' F2 r U2 R' U' r' F r",
+         "L' U2 L U L' U' R U2 R' U2 L U R U' R'",
+         "R2 U R' U' R' U2 R' U2 R U R' D R' U R D'",
+         "R U2 R2 U' R2 D R' U' R D' R2 U2 R U R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI21",
+      "name": "PI21",
+      "colorsCodeToPaint": "552242366222424235632",
+      "setup": "R U R' U R U L' U R' U' L y2'",
+      "algorithmList": [
+         "y2 L' U R U' L U' R' U' R U' R'",
+         "y' R U2 R' U R' D' R U2 R' D R2 U' R'",
+         "y R' U' R U' R' U R' F R U R U' R' F' R",
+         "R' U L U' R U' L' U' L U' L'"
+      ]
+   },
+   {
+      "id": "ZBLLPI22",
+      "name": "PI22",
+      "colorsCodeToPaint": "442262535222326254362",
+      "setup": "R U R' U R U2' R D' R U' R' D R U R",
+      "algorithmList": [
+         "r' U r U r' U' r U R2 F R F' R",
+         "r' U r U r' U' r U l' R' U R U' R",
+         "R' U' R' D' R U R' D R' U2 R' U' R U' R'",
+         "y2 L' U R U' L U R' U' R' U' R U' R' U2 R"
+      ]
+   },
+   {
+      "id": "ZBLLPI23",
+      "name": "PI23",
+      "colorsCodeToPaint": "352252646222325264443",
+      "setup": "R' U' R U' R' U2' R' D R' U R D' R' U' R'",
+      "algorithmList": [
+         "r U' r' U' r U r' U' R2 B' R' B R' U",
+         "r U' r' U' r U r' U' l R U' R' U l'",
+         "r U' r' U' r U r' F R' F' R2 U' R'",
+         "R U R D R' U' R D' R U2 R U R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLPI24",
+      "name": "PI24",
+      "colorsCodeToPaint": "642232456222323246552",
+      "setup": "L' U' L U' L' U' R U' L U R'",
+      "algorithmList": [
+         "y' R U R' U F' R U2 R' U2 R' F R",
+         "R U' L' U R' U L U L' U L",
+         "l F' r' x F l' U L U L' U L",
+         "R U' r' F R' F r U r' F r"
+      ]
+   },
+   {
+      "id": "ZBLLPI25",
+      "name": "PI25",
+      "colorsCodeToPaint": "452262454222623263532",
+      "setup": "R' U' R U' R' U R U' R2' D' R U R' D R U R",
+      "algorithmList": [
+         "R' U' R' D' R U' R' D R2 U R' U' R U R' U R",
+         "R' U2 R U R' U' R U2 L U' R' U R L'",
+         "R' U2 R U R' U' R U F R' U R U' F'",
+         "y2 L' U2 L U L' U' L U2 R U' L' U M' x'"
+      ]
+   },
+   {
+      "id": "ZBLLPI26",
+      "name": "PI26",
+      "colorsCodeToPaint": "332252364222524254662",
+      "setup": "F' R U R' U' R' F R U' R U' R' U' R U R' U R U R'",
+      "algorithmList": [
+         "R U' R' U' R U' R' U R U R' U R' F' R U R U' R' F",
+         "y' R U2 R' U L U' R' U' R2 U' R2 U2 R L'",
+         "y' R U2 R F2 R2 U' R U' R' U R2 F2 R2",
+         "R' U R U2 R' U R2 D R' U R D' R2 U2 R U R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLPI27",
+      "name": "PI27",
+      "colorsCodeToPaint": "632232644222625235452",
+      "setup": "R U2' R' U' R U R' U2' L' U R U' R' L y'",
+      "algorithmList": [
+         "y R U R' U R U' R' U R2 D R' U' R D' R' U' R'",
+         "y L' R U R' U' L U2 R U' R' U R U2 R'",
+         "F' U' L U L' F U L U' L' U L U2 L' U"
+      ]
+   },
+   {
+      "id": "ZBLLPI28",
+      "name": "PI28",
+      "colorsCodeToPaint": "662232644222525235432",
+      "setup": "R' F R U R' U' R' F' R2' U' R' U R U' R' U2' R y2'",
+      "algorithmList": [
+         "y2 R' U2 R U R' U' R U R2 F R U R U' R' F' R",
+         "L' R U2 R2 U' R2 U' R' U' L U R' U2 R",
+         "y R2 B2 R2 U R' U' R U' R2 B2 R U2 R",
+         "y F' U R' F U' R' F' R2 F2 R' F' U R"
+      ]
+   },
+   {
+      "id": "ZBLLPI29",
+      "name": "PI29",
+      "colorsCodeToPaint": "542242535222626246332",
+      "setup": "R U2' R' U2' R' F R2' U' R' U2' R U2' R' U' F' y'",
+      "algorithmList": [
+         "y F U R U2 R' U2 R U R2 F' R U2 R U2 R'",
+         "R U' L' U R' U' L U' R U' L' U R' U' L",
+         "L U' R U R' L' U2 R U2 R' U R U2 R'",
+         "L' U2 R U' L U' R' U' R U2 L' U M' x'"
+      ]
+   },
+   {
+      "id": "ZBLLPI30",
+      "name": "PI30",
+      "colorsCodeToPaint": "642232645222625235432",
+      "setup": "R U R' U' R' F R2' U R' U' R U R' U' F' y'",
+      "algorithmList": [
+         "y F U R U' R' U R U' R2 F' R U R U' R'",
+         "y' R U' R U2 R U2 R2 U R' F2 R' U R' U' R2 F2",
+         "R U R' U R' F R2 U' R' U' R U R' F' U R U' R'",
+         "y2 L' U' L U L F' L2 U' L U L' U' L U F"
+      ]
+   },
+   {
+      "id": "ZBLLPI31",
+      "name": "PI31",
+      "colorsCodeToPaint": "432262455222623264542",
+      "setup": "x U R' U' R U2' L U L' U x' U' R U' R' U' R U' R' ",
+      "algorithmList": [
+         "y R U R' U' R U R2 D' R U R' D R U R U' R' U R U2 R'",
+         "F U R U' R2 F' R2 U R' F' U' F U2 R U' R'",
+         "F U' R2 U R U' R' U R2 U2 R' U' R' U R U' R F'",
+         "y R U R' U R U2 R' U' R U R' U R2 D R' U2 R D' R2"
+      ]
+   },
+   {
+      "id": "ZBLLPI32",
+      "name": "PI32",
+      "colorsCodeToPaint": "662232643222425235452",
+      "setup": "r' F' r U r U2' r' F2' U' R U R' U' R U' R' y",
+      "algorithmList": [
+         "y' R U R' U R U' R2 F R F' R U' R' F' U F",
+         "f R U R2 D' R U' R' D R S' R U R' U' F'",
+         "y' F' U' L' U L S' L D L' U' L D' L2 U L f U2",
+         "y2 R' D' R U R' D R U2 R U2 R' U R U' R' U' R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI33",
+      "name": "PI33",
+      "colorsCodeToPaint": "652232646222425235432",
+      "setup": "l U2' l' U2' R' U2' R B2' U R' U R y'",
+      "algorithmList": [
+         "y R' U' R U' B2 R' U2 R U2 l U2 l'",
+         "y r' F R F' r U R' U R U2 R' U' R U' R'",
+         "y R' F R F' r U R' U R U2 r' U' R U' R'",
+         "y' L' U' L U' F2 L' U2 L U2 L F2 L'"
+      ]
+   },
+   {
+      "id": "ZBLLPI34",
+      "name": "PI34",
+      "colorsCodeToPaint": "562242534222526246332",
+      "setup": "R2' D' R U' R' D R U' R U R' U' R U R' U R y",
+      "algorithmList": [
+         "y' R' U' R U' R' U R U' R' U R' D' R U R' D R2",
+         "y L' U R U' L U R2 U' R U' R' U2 R",
+         "y R B2 R' U R2 B2 R' U' R' U' R2 B2 R2"
+      ]
+   },
+   {
+      "id": "ZBLLPI35",
+      "name": "PI35",
+      "colorsCodeToPaint": "452262456222323263542",
+      "setup": "R' F2' R U' R2' F2' R U R U R2' F2' R2' y'",
+      "algorithmList": [
+         "y R U2 R' U' R U' R2 U r f' U f r'",
+         "y2 R2 D R' U R D' R' U R' U' R U R' U' R U' R'",
+         "y' L U2 L' U' L U' L2 U l F' L F l'",
+         "y R U2 R' U' R U' R' U2 r' F R F' r U R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI36",
+      "name": "PI36",
+      "colorsCodeToPaint": "462262453222523263542",
+      "setup": "R U R' U F2' R U2' R' U2' R' F2' R",
+      "algorithmList": [
+         "R' U' R U' R' U2 R U' L' U R U' L U R'",
+         "R' F2 R U2 R U2 R' F2 U' R U' R'",
+         "y2 L' U' L U' L' U2 L U L' U R U' L U R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI37",
+      "name": "PI37",
+      "colorsCodeToPaint": "332252455222424263662",
+      "setup": "R' U2' R U R' U' R U R2' F R U R U' R' F' R",
+      "algorithmList": [
+         "R' F R U R' U' R' F' R2 U' R' U R U' R' U2 R",
+         "y' R U R' U R2 F2 R' U2 R' U2 R2 F2 R2",
+         "y F' R U R' U R U' R' U' R' F R U' R U' R' U R U R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI38",
+      "name": "PI38",
+      "colorsCodeToPaint": "632232544222525246462",
+      "setup": "R U R' U R U' R' U R2' D R' U' R D' R' U' R'",
+      "algorithmList": [
+         "R U R D R' U R D' R2 U' R U R' U' R U' R'",
+         "R U2 R' U' R U R' U2 L' U R U' M' x'"
+      ]
+   },
+   {
+      "id": "ZBLLPI39",
+      "name": "PI39",
+      "colorsCodeToPaint": "562242645222426235332",
+      "setup": "R U2' R' U L U' R' U' R2' U' R2' U2' R L'",
+      "algorithmList": [
+         "y' R2 F2 R2 U' R U R' U R2 F2 R' U2 R'",
+         "y F' R U R' U' R' F R U' R U' R' U' R U R' U R U R'",
+         "R U2 R2 U' R2 U' R' U2 R' F R U R' U' R' F' R2",
+         "R' U2 R U R U2 R' U2 R' F' R U2 R U2 R' F R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLPI40",
+      "name": "PI40",
+      "colorsCodeToPaint": "462262364222523254532",
+      "setup": "R' U' R' D' R U' R' D R2' U R' U' R U R' U R y",
+      "algorithmList": [
+         "y' R' U' R U' R' U R U' R2 D' R U R' D R U R",
+         "y2 F U R' U' R F' U' R' U R U' R' U2 R",
+         "y' R' U R' F R2 U R' U' R U R' U' F' R U2 R' U R",
+         "y' R' U' R U' R' U R U2 R D R' U R D' R2 U2 R"
+      ]
+   },
+   {
+      "id": "ZBLLPI41",
+      "name": "PI41",
+      "colorsCodeToPaint": "652232533222425246462",
+      "setup": "F U R U' R' U R U' R2' F' R U R U' R'",
+      "algorithmList": [
+         "R U R' U' R' F R2 U R' U' R U R' U' F'",
+         "R U R' U' l' U R2 x' U R' U' R U R' U' F'"
+      ]
+   },
+   {
+      "id": "ZBLLPI42",
+      "name": "PI42",
+      "colorsCodeToPaint": "442262365222623254542",
+      "setup": "L U' R U R' L' U2' R U2' R' U R U2' R' y2'",
+      "algorithmList": [
+         "y2 R U2 R' U2 R' F R2 U' R' U2 R U2 R' U' F'",
+         "y2 R' U' R' D' R U' D R' D' R U2 R' D R D' R' D R2",
+         "y2 R U2 R' U2 l' U R' z' R' U' R U' r'",
+         "y2 R U2 R' U2 R' F R2 l U' R' U R' D' x"
+      ]
+   },
+   {
+      "id": "ZBLLPI43",
+      "name": "PI43",
+      "colorsCodeToPaint": "452262364222323254562",
+      "setup": "R2' F2' U R U R2' U' R' U' F2' R2' U' R U' R' y",
+      "algorithmList": [
+         "R U2 R' U R2 D R' U2 R D' R2 U' R U2 R' U' R U R'",
+         "y R U2 R' U' R U R' U' R' D' R U' R' D R2 U' R' U R U' R'",
+         "y R' U2 R U' D' R2 D R2 U' R' D' R D R' U R2",
+         "y' R U R' U R2 F2 U R U R2 U' R' U' F2 R2"
+      ]
+   },
+   {
+      "id": "ZBLLPI44",
+      "name": "PI44",
+      "colorsCodeToPaint": "542242626222526235332",
+      "setup": "R U R' U R U' R' U F2' r U2' r' U' r' F r",
+      "algorithmList": [
+         "r' F' r U r U2 r' F2 U' R U R' U' R U' R'",
+         "y' F U R U' R' S R' D' R U R' D R2 U' R' f'",
+         "y2 R U R' U R U R' U' R U2 R' U2 R' D' R U' R' D R",
+         "R' F R U R2 U' F' U R U' R U B U B'"
+      ]
+   },
+   {
+      "id": "ZBLLPI45",
+      "name": "PI45",
+      "colorsCodeToPaint": "642232533222625246452",
+      "setup": "R' U' R U' B2' R' U2' R U2' l U2' l'",
+      "algorithmList": [
+         "R U R' U R U2 R' U' R U' L' U R' U' L",
+         "R B2 R' U2 R' U2 R B2 U R' U R",
+         "y2 R U2 R' U2 R' F2 R F2 U L' U L",
+         "l U2 l' U2 R' U2 R B2 U R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLPI46",
+      "name": "PI46",
+      "colorsCodeToPaint": "532242646222426235352",
+      "setup": "R' U' R U' R' U R U' R' U R' D' R U R' D R2' y2'",
+      "algorithmList": [
+         "y' R' U2 R U R' U R2 U' r' F R' F' r",
+         "y' R' U2 R U R' U R2 U' L' U R' U' L",
+         "y2 R2 D' R U' R' D R U' R U R' U' R U R' U R",
+         "y' R2 B2 R2 U R U R B2 R2 U' R B2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI47",
+      "name": "PI47",
+      "colorsCodeToPaint": "332252454222624263652",
+      "setup": "R2' D R' U R D' R' U R' U' R U R' U' R U' R' y'",
+      "algorithmList": [
+         "y R U R' U R U' R' U R U' R D R' U' R D' R2",
+         "y' L U' R' U L' U' R2 U R' U R U2 R'",
+         "y' R' F2 R U' R2 F2 R U R U R2 F2 R2",
+         "y R U' L' U R' U' L2 U L' U L U2 L'"
+      ]
+   },
+   {
+      "id": "ZBLLPI48",
+      "name": "PI48",
+      "colorsCodeToPaint": "432262365222423254562",
+      "setup": "R' F2' R U2' R U2' R' F2' U' R U' R' y",
+      "algorithmList": [
+         "y' R U R' U F2 R U2 R' U2 R' F2 R",
+         "y2 R U R' U R U' R' U R' D' R U2 R' D R2 U' R' U2 R U2 R'",
+         "U' R U R' F' R U' r' F R' F r U F",
+         "y R U' L' U R' U' L U R' U2 R U R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLPI49",
+      "name": "PI49",
+      "colorsCodeToPaint": "342252366222325246452",
+      "setup": "R' U2' R2' U R U R2' D' R U' R' D U' R'",
+      "algorithmList": [
+         "y R U2 R' U2 R' U' F U R2 U' R' U R U' R' F'",
+         "R U D' R U R' D R2 U' R' U' R2 U2 R",
+         "y2 R F' U' R2 U' F U F' R2 U F R'",
+         "y2 R' U2 R U' R D R' U' R D' R2 U R U' R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLPI50",
+      "name": "PI5O",
+      "colorsCodeToPaint": "362252365222325246442",
+      "setup": "R U2' R' U' F' R U2' R' U' R U' R' F R U' R' y",
+      "algorithmList": [
+         "R' F' U' F U' R U S' R' U R S",
+         "y' R U R' F' R U R' U R U2 R' F U R U2 R'",
+         "r' U' R U' R' U R U' R' U R' F R F' U r",
+         "y2 S' R U R' S U R U' B U' B' R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI51",
+      "name": "PI51",
+      "colorsCodeToPaint": "662232645222423254532",
+      "setup": "F R2' U' R U' R U' R' U2' R' U R2' F' y2'",
+      "algorithmList": [
+         "y2 R F U' R2 U2 R U R' U R2 U F' R'",
+         "y2 R2 D R' U2 R D' R' U' R' U R2 D R' U2 R D' R2",
+         "S' R U R' S R U' R2 F' U' F U' R U R' U R",
+         "B' R2 U R' U R' U R U2 R U' R2 f z'"
+      ]
+   },
+   {
+      "id": "ZBLLPI52",
+      "name": "PI52",
+      "colorsCodeToPaint": "532342536222424263652",
+      "setup": "R U2' R' U R' D' R U R' D R2' U' R' U R U' R' y'",
+      "algorithmList": [
+         "y R U R' U' R U R2 D' R U' R' D R U' R U2 R'",
+         "R' U R U F R' U R U' F' U' R' U' R",
+         "F' L' U' L U L' U' L2 U F U' L' U2 L' U2 L",
+         "y' R U2 R2 U' R' U' R2 D R' U R U D' R"
+      ]
+   },
+   {
+      "id": "ZBLLPI53",
+      "name": "PI53",
+      "colorsCodeToPaint": "552242533222424263662",
+      "setup": "F R U' R' U2' R' U2' R2' U R2' U R U' F'",
+      "algorithmList": [
+         "F U R' U' R2 U' R2 U2 R U2 R U R' F'",
+         "y2 R U' R2 D' R U2 R' D U2 R2 U R2 U R",
+         "F U R' U' R2 U' R2 U2 R F' L' U L",
+         "y' R' U' R' F R F' R U' R' U2 R S R' F' R S' R' F R U' M' U2 M"
+      ]
+   },
+   {
+      "id": "ZBLLPI54",
+      "name": "PI54",
+      "colorsCodeToPaint": "342252365222625246432",
+      "setup": "R2' D' R U2' R' D R U2' R' D' R U' R' D R U R y'",
+      "algorithmList": [
+         "y R' U' R' D' R U R' D R U2 R' D' R U2 R' D R2",
+         "y R2 D' R U2 R' D R U2 R' D' R U' R' D R U R",
+         "y' R' F2 D R U2 R' D' R2 U2 R' F2 R U2 R'",
+         "y R U2 R' U' R U L' U R' U' L U' R U' R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI55",
+      "name": "PI55",
+      "colorsCodeToPaint": "542242536222524263632",
+      "setup": "R U R' U R U R' U' R U R D R' U R D' R2'",
+      "algorithmList": [
+         "R2 D R' U' R D' R' U' R' U R U' R' U' R U' R'",
+         "R U R' U L' U2 R U2 R' U2 L U' R U' R'",
+         "y2 R U R' U R U R' U' R U R D R' U R D' R2",
+         "R' L U L' U L U R U L' U R' U R"
+      ]
+   },
+   {
+      "id": "ZBLLPI56",
+      "name": "PI56",
+      "colorsCodeToPaint": "532242535222624263642",
+      "setup": "R' U' R U' R' U' R U R' U' R' D' R U' R' D R2'",
+      "algorithmList": [
+         "R2 D' R U R' D R U R U' R' U R U R' U R",
+         "R' U' R U2 F U' R' U2 R U F' U2 R' U R",
+         "U2 L' U' L U' R U2 L' U2 L U2 R' U L' U L",
+         "L U L' U R' U L U R U R' U M x"
+      ]
+   },
+   {
+      "id": "ZBLLPI57",
+      "name": "PI57",
+      "colorsCodeToPaint": "352252366222425246432",
+      "setup": "R U R' U' R U R2' D' R U' R' D R U' R U2' R' y2'",
+      "algorithmList": [
+         "y2 R U2 R' U R' D' R U R' D R2 U' R' U R U' R'",
+         "y2 R' U R U F U R' U' R F' U' R' U' R",
+         "y L' U2 L U2 L U F' U' L2 U L U' L' U L F",
+         "y' F' R U F2 U R' U' R F2 U' R' F"
+      ]
+   },
+   {
+      "id": "ZBLLPI58",
+      "name": "PI58",
+      "colorsCodeToPaint": "542242535222324263662",
+      "setup": "F R2' U' R U2' R U R' U R' U R2' F'",
+      "algorithmList": [
+         "R2 D R' U2 R D' R2 U' R U R D R' U2 R D' R2",
+         "R F U' R2 U' R U' R' U2 R2 U F' R'",
+         "F R2 U' R U' R U' R' U2 R' U R2 F'",
+         "y2 R2 U R' U2 R' U' R U R D R' U R D' R' U R U' R2"
+      ]
+   },
+   {
+      "id": "ZBLLPI59",
+      "name": "PI59",
+      "colorsCodeToPaint": "562242535222424263632",
+      "setup": "R' U2' R U' R D R' U' R D' R2' U R U' R' U R y",
+      "algorithmList": [
+         "R F' U' R2 F U' F' U R2 U F R'",
+         "y' R' U' R U R' U' R2 D R' U R D' R' U R' U2 R",
+         "y' r U R' U R' F R F' R U' R' U R U2 r'",
+         "y2 F R U R' U' R U R2 U' F' U R U2 R U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI60",
+      "name": "PI60",
+      "colorsCodeToPaint": "442262456222326235352",
+      "setup": "R U R' F' R U R' U R U2' R' F U R U2' R' y'",
+      "algorithmList": [
+         "y R U2 R' U' F' R U2 R' U' R U' R' F R U' R'",
+         "y2 S' R' U' R S U' R' U F' U F R",
+         "r U R' U R U' R' U x' R F' R U' R' U F' L'",
+         "y R U2 R2 U' R2 U' M' x' U' R' U L' U2 R"
+      ]
+   },
+   {
+      "id": "ZBLLPI61",
+      "name": "PI61",
+      "colorsCodeToPaint": "432262366222425235452",
+      "setup": "R' U2' R2' U R2' U R2' U2' R'",
+      "algorithmList": [
+         "R U2 R2 U' R2 U' R2 U2 R"
+      ]
+   },
+   {
+      "id": "ZBLLPI62",
+      "name": "PI62",
+      "colorsCodeToPaint": "552242646222423264532",
+      "setup": "R' U' R U' R' U2' R2' U2' R' U' R U' R' y'",
+      "algorithmList": [
+         "y' R' U2 R U R' U R2 U R' U R U2 R'",
+         "y R U R' U R U2 R2 U2 R U R' U R",
+         "R U2 R' U' R U' R' U2 R' U' R U' R' U2 R",
+         "S' r' U r2 U' r2 U' r2 U r' S"
+      ]
+   },
+   {
+      "id": "ZBLLPI63",
+      "name": "PI63",
+      "colorsCodeToPaint": "362252453222526246342",
+      "setup": "R U' R' U2' R U R' U2' R U R' U2' R U2' R' y",
+      "algorithmList": [
+         "y' R U2 R' U2 R U' R' U2 R U' R' U2 R U R'",
+         "y R U2 L' U R' U' R U R' U' R L U2 R'",
+         "S R2 S' R U2 R2 U R2 U' R2 U2 R",
+         "y2 R U2 R' U2 R' F D' R U R' D R2 U' R' F'"
+      ]
+   },
+   {
+      "id": "ZBLLPI64",
+      "name": "PI64",
+      "colorsCodeToPaint": "232252453222626246352",
+      "setup": "R' U R U2' R' U' R U2' R' U' R U2' R' U2' R y'",
+      "algorithmList": [
+         "y2 R U R' U' R2 U R' U R U2 R2 U' R U R'",
+         "y R' U2 R U2 R' U R U2 R' U R U2 R' U' R",
+         "y2 S' U2 S R U2 R2 U' R2 U R2 U2 R'",
+         "y L' U2 R U' L U L' U' L U L' R' U2 L"
+      ]
+   },
+   {
+      "id": "ZBLLPI65",
+      "name": "PI65",
+      "colorsCodeToPaint": "532242644222623263552",
+      "setup": "R U2' R' U2' R U' R' U2' R U' R' U2' R U R' y2'",
+      "algorithmList": [
+         "y' r U2 R2 F R F' R' F R F' R U2 r'",
+         "R' U2 R2 U R2 U' R2 U2 R' S R2 S'",
+         "y2 R' U R U' R2 U2 R U R' U R2 U' R' U R",
+         "y2 R U' R' U2 R U R' U2 R U R' U2 R U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI66",
+      "name": "PI66",
+      "colorsCodeToPaint": "662232534222524254632",
+      "setup": "R' U2' R U2' R' U R U2' R' U R U2' R' U' R y2'",
+      "algorithmList": [
+         "R U2 R2 U' R2 U R2 U2 R S R2 S'",
+         "y2 R2 U2 R U R U' R' U R' U R2 U' R' U R",
+         "y2 R U' R' U R2 U2 R' U' R U' R2 U R U' R'",
+         "y2 R' U R U2 R' U' R U2 R' U' R U2 R' U2 R"
+      ]
+   },
+   {
+      "id": "ZBLLPI67",
+      "name": "PI67",
+      "colorsCodeToPaint": "542242646222323263552",
+      "setup": "R' U2' R U R' U R2' U R' U R U2' R' y'",
+      "algorithmList": [
+         "y R U2 R' U' R U' R2 U' R U' R' U2 R",
+         "y' R' U' R U' R' U2 R2 U2 R' U' R U' R'",
+         "S' r U' r2 U r2 U r2 U' r S",
+         "R' U2 R U R' U R U2 R U R' U R U2 R'"
+      ]
+   },
+   {
+      "id": "ZBLLPI68",
+      "name": "PI68",
+      "colorsCodeToPaint": "462262365222425235432",
+      "setup": "R U2' R2' U' R2' U' R2' U2' R",
+      "algorithmList": [
+         "R' U2 R2 U R2 U R2 U2 R'",
+         "y2 L' U2 L2 U L2 U L2 U2 L'"
+      ]
+   },
+   {
+      "id": "ZBLLPI69",
+      "name": "PI69",
+      "colorsCodeToPaint": "442262366222525235432",
+      "setup": "R' U2' R2' U R' U R U2' R' U' R' U R",
+      "algorithmList": [
+         "R' U' R U R U2 R' U' R U' R2 U2 R",
+         "R U R' U R U2 R' U' R U R' U R U2 R'",
+         "F' U' L' U L S' U' L' U L f",
+         "y2 f' L' U' L U f F' L' U' L U F"
+      ]
+   },
+   {
+      "id": "ZBLLPI70",
+      "name": "PI70",
+      "colorsCodeToPaint": "432262365222625235442",
+      "setup": "R U2' R2' U' R U' R' U2' R U R U' R'",
+      "algorithmList": [
+         "R' U' R U' R' U2 R U R' U' R U' R' U2 R",
+         "R U R' U' R' U2 R U R' U R2 U2 R'",
+         "R U2 R2 U' R U' R' U2 R U R U' R'",
+         "y2 F U R U' R' S U R U' R' f'"
+      ]
+   },
+   {
+      "id": "ZBLLPI71",
+      "name": "PI71",
+      "colorsCodeToPaint": "452262363222425235462",
+      "setup": "R U2' R' U' R U' R' U' R U2' R' U' R U' R' y'",
+      "algorithmList": [
+         "y R U R' U R U2 R' U R U R' U R U2 R'",
+         "R' U2 R U R' U R U R' U2 R U R' U R",
+         "y' R' U' R U' R' U2 R U' R' U' R U' R' U2 R",
+         "y' F' R D2 R' F U' F' R D2 R' F"
+      ]
+   },
+   {
+      "id": "ZBLLPI72",
+      "name": "PI72",
+      "colorsCodeToPaint": "632232536222524254642",
+      "setup": "R U2' R' U' R U R2' U2' R2' U R2' U R2' U' R'",
+      "algorithmList": [
+         "R U R2 U' R2 U' R2 U2 R2 U' R' U R U2 R'",
+         "R U R' U' R' U' R U R U R' U' R' U R U' R U' R'",
+         "F R U R' U' R U R' U' F' R U R' U' M' U R U' r'",
+         "y' R' U2 R U R' U' R2 U2 R2 U' R2 U' R2 U R"
+      ]
    }
 ]
