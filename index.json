@@ -28,7 +28,7 @@
             "difficulty": 2,
             "puzzlePaintId": 1,
             "codeToPaint": "001550550-330033033-000005005",
-            "casesAmount": 20
+            "casesAmount": 42
         },
         {
             "id": "3x3-WV",
@@ -37,7 +37,7 @@
             "difficulty": 3,
             "puzzlePaintId": 1,
             "codeToPaint": "001552552-330033033-222225225",
-            "casesAmount": 20
+            "casesAmount": 27
         },
         {
             "id": "3x3-ZBLL",
@@ -55,7 +55,7 @@
             "difficulty": 4,
             "puzzlePaintId": 2,
             "codeToPaint": "000022020225320053021",
-            "casesAmount": 20
+            "casesAmount": 216
         },
         {
             "id": "3x3-COLL",
@@ -64,7 +64,7 @@
             "difficulty": 4,
             "puzzlePaintId": 2,
             "codeToPaint": "203362250222046225204",
-            "casesAmount": 20
+            "casesAmount": 42
         },
         {
             "id": "3x3-BLE",
@@ -73,7 +73,7 @@
             "difficulty": 4,
             "puzzlePaintId": 2,
             "codeToPaint": "203362250222046225204",
-            "casesAmount": 20
+            "casesAmount": 27
         },
         {
             "id": "3x3-FLS",
@@ -82,7 +82,7 @@
             "difficulty": 4,
             "puzzlePaintId": 2,
             "codeToPaint": "203362250222046225204",
-            "casesAmount": 20
+            "casesAmount": 0
         },
         {
             "id": "3x3-CLS",
@@ -91,7 +91,7 @@
             "difficulty": 3,
             "puzzlePaintId": 2,
             "codeToPaint": "203362250222046225204",
-            "casesAmount": 20
+            "casesAmount": 104
         },
         {
             "id": "3x3-MirrorBLE",
@@ -100,7 +100,7 @@
             "difficulty": 5,
             "puzzlePaintId": 2,
             "codeToPaint": "203362250222046225204",
-            "casesAmount": 20
+            "casesAmount": 27
         },
         {
             "id": "3x3-MirrorWV",
@@ -109,7 +109,7 @@
             "difficulty": 3,
             "puzzlePaintId": 1,
             "codeToPaint": "001552552-330033033-222225225",
-            "casesAmount": 20
+            "casesAmount": 27
         }
     ]
   },
@@ -193,7 +193,7 @@
             "difficulty": 2,
             "puzzlePaintId": 1,
             "codeToPaint": "001550550-330033033-000005005",
-            "casesAmount": 21
+            "casesAmount": 42
         }
     ]
   },
