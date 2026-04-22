@@ -67,33 +67,6 @@
             "casesAmount": 42
         },
         {
-            "id": "3x3-BLE",
-            "name": "BLE",
-            "description": "",
-            "difficulty": 4,
-            "puzzlePaintId": 2,
-            "codeToPaint": "203362250222046225204",
-            "casesAmount": 27
-        },
-        {
-            "id": "3x3-FLS",
-            "name": "FLS",
-            "description": "",
-            "difficulty": 4,
-            "puzzlePaintId": 2,
-            "codeToPaint": "203362250222046225204",
-            "casesAmount": 0
-        },
-        {
-            "id": "3x3-MirrorBLE",
-            "name": "BLE Mirror",
-            "description": "",
-            "difficulty": 5,
-            "puzzlePaintId": 2,
-            "codeToPaint": "203362250222046225204",
-            "casesAmount": 27
-        },
-        {
             "id": "3x3-MirrorWV",
             "name": "WV Mirror",
             "description": "",
