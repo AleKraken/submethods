@@ -85,15 +85,6 @@
             "casesAmount": 0
         },
         {
-            "id": "3x3-CLS",
-            "name": "CLS",
-            "description": "",
-            "difficulty": 3,
-            "puzzlePaintId": 2,
-            "codeToPaint": "203362250222046225204",
-            "casesAmount": 104
-        },
-        {
             "id": "3x3-MirrorBLE",
             "name": "BLE Mirror",
             "description": "",
