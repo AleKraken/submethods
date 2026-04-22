@@ -1,8 +1,8 @@
 [
-   {
+{
   "id": "F2L2",
   "name": "F2L 2",
-  "colorsCodeToPaint": "055550550-100330330-000000033",
+  "colorsCodeToPaint": "055550550-100033033-000000033",
   "setup": "R' F R F'",
   "algorithmList": ["F R' F' R", "y' U' R' U R", "U' F' U F"]
 }
