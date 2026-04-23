@@ -2,7 +2,7 @@
   {
     "id": "OLL_1",
     "name": "OLL 1",
-    "subset": "Dot Case",
+    "subset": "Dot",
     "colorsCodeToPaint": "020200022020220002020",
     "setup": "F R' F' R U2 F R' F' R2 U2 R'",
     "algorithmList": [
@@ -14,7 +14,7 @@
   {
     "id": "OLL_2",
     "name": "OLL 2",
-    "subset": "Dot Case",
+    "subset": "Dot",
     "colorsCodeToPaint": "022200002020220000022",
     "setup": "f U R U' R' f' F U R U' R' F'",
     "algorithmList": [
@@ -26,7 +26,7 @@
   {
     "id": "OLL_3",
     "name": "OLL 3",
-    "subset": "Dot Case",
+    "subset": "Dot",
     "colorsCodeToPaint": "220000022020202000022",
     "setup": "F U R U' R' F' U f U R U' R' f' y",
     "algorithmList": [
@@ -38,7 +38,7 @@
   {
     "id": "OLL_4",
     "name": "OLL 4",
-    "subset": "Dot Case",
+    "subset": "Dot",
     "colorsCodeToPaint": "022200002020200020220",
     "setup": "F U R U' R' F' U' f U R U' R' f' y",
     "algorithmList": [
@@ -50,7 +50,7 @@
   {
     "id": "OLL_5",
     "name": "OLL 5",
-    "subset": "Square Shapes",
+    "subset": "Square",
     "colorsCodeToPaint": "220000022022020220000",
     "setup": "r' U' R U' R' U2 r",
     "algorithmList": [
@@ -62,7 +62,7 @@
   {
     "id": "OLL_6",
     "name": "OLL 6",
-    "subset": "Square Shapes",
+    "subset": "Square",
     "colorsCodeToPaint": "000202202022000002220",
     "setup": "r U R' U R U2 r'",
     "algorithmList": [
@@ -74,7 +74,7 @@
   {
     "id": "OLL_7",
     "name": "OLL 7",
-    "subset": "Lightning Shapes",
+    "subset": "Lightning",
     "colorsCodeToPaint": "200002020220202000022",
     "setup": "r U2 R' U' R U' r'",
     "algorithmList": [
@@ -86,7 +86,7 @@
   {
     "id": "OLL_8",
     "name": "OLL 8",
-    "subset": "Lightning Shapes",
+    "subset": "Lightning",
     "colorsCodeToPaint": "002202002022000020220",
     "setup": "r' U2 R U R' U r y2",
     "algorithmList": [
@@ -98,7 +98,7 @@
   {
     "id": "OLL_9",
     "name": "OLL 9",
-    "subset": "Fish Shapes",
+    "subset": "Fish",
     "colorsCodeToPaint": "020200200220200202200",
     "setup": "F U R U' R2 F' R U R U' R' y'",
     "algorithmList": [
@@ -110,7 +110,7 @@
   {
     "id": "OLL_10",
     "name": "OLL 10",
-    "subset": "Fish Shapes",
+    "subset": "Fish",
     "colorsCodeToPaint": "220000200220220200002",
     "setup": "R U2 R' F R' F' R U' R U' R'",
     "algorithmList": [
@@ -122,7 +122,7 @@
   {
     "id": "OLL_11",
     "name": "OLL 11",
-    "subset": "Lightning Shapes",
+    "subset": "Lightning",
     "colorsCodeToPaint": "220000022022002200002",
     "setup": "M U' R U2 R' U' R U' R2 r",
     "algorithmList": [
@@ -134,7 +134,7 @@
   {
     "id": "OLL_12",
     "name": "OLL 12",
-    "subset": "Lightning Shapes",
+    "subset": "Lightning",
     "colorsCodeToPaint": "020200202022000202200",
     "setup": "F U R U' R' F' U' F U R U' R' F'",
     "algorithmList": [
@@ -146,7 +146,7 @@
   {
     "id": "OLL_13",
     "name": "OLL 13",
-    "subset": "Knight Move Shapes",
+    "subset": "Knight Move",
     "colorsCodeToPaint": "220000020222002000022",
     "setup": "F' U' F r U' r' U r U r'",
     "algorithmList": [
@@ -158,7 +158,7 @@
   {
     "id": "OLL_14",
     "name": "OLL 14",
-    "subset": "Knight Move Shapes",
+    "subset": "Knight Move",
     "colorsCodeToPaint": "022200000222000020220",
     "setup": "F U F' R' F R U' R' F' R",
     "algorithmList": [
@@ -170,7 +170,7 @@
   {
     "id": "OLL_15",
     "name": "OLL 15",
-    "subset": "Knight Move Shapes",
+    "subset": "Knight Move",
     "colorsCodeToPaint": "220000020222020020020",
     "setup": "r' U' r U' R' U R r' U r",
     "algorithmList": [
@@ -182,7 +182,7 @@
   {
     "id": "OLL_16",
     "name": "OLL 16",
-    "subset": "Knight Move Shapes",
+    "subset": "Knight Move",
     "colorsCodeToPaint": "020200200222000002220",
     "setup": "r U r' U R U' R' r U' r'",
     "algorithmList": [
@@ -194,7 +194,7 @@
   {
     "id": "OLL_17",
     "name": "OLL 17",
-    "subset": "Dot Case",
+    "subset": "Dot",
     "colorsCodeToPaint": "022020002020220020020",
     "setup": "F R' F' R U2 F R' F' R U' R U' R'",
     "algorithmList": [
@@ -206,7 +206,7 @@
   {
     "id": "OLL_18",
     "name": "OLL 18",
-    "subset": "Dot Case",
+    "subset": "Dot",
     "colorsCodeToPaint": "020020202020200000222",
     "setup": "r' U2 R U R' U r2 U2 R' U' R U' r'",
     "algorithmList": [
@@ -218,7 +218,7 @@
   {
     "id": "OLL_19",
     "name": "OLL 19",
-    "subset": "Dot Case",
+    "subset": "Dot",
     "colorsCodeToPaint": "020020202020220002020",
     "setup": "F R' F' R M U R U' R' U' M'",
     "algorithmList": [
@@ -230,7 +230,7 @@
   {
     "id": "OLL_20",
     "name": "OLL 20",
-    "subset": "Dot Case",
+    "subset": "Dot",
     "colorsCodeToPaint": "020020202020202020020",
     "setup": "r U R' U' M2 U R U' R' U' M'",
     "algorithmList": [
@@ -338,7 +338,7 @@
   {
     "id": "OLL_29",
     "name": "OLL 29",
-    "subset": "Awkward Shapes",
+    "subset": "Awkward",
     "colorsCodeToPaint": "020020200220220202000",
     "setup": "M F R' F' R U R U' R' U' M'",
     "algorithmList": [
@@ -350,7 +350,7 @@
   {
     "id": "OLL_30",
     "name": "OLL 30",
-    "subset": "Awkward Shapes",
+    "subset": "Awkward",
     "colorsCodeToPaint": "020020202022020202000",
     "setup": "F U R U2 R' U R U2 R' U' F' y2",
     "algorithmList": [
@@ -362,7 +362,7 @@
   {
     "id": "OLL_31",
     "name": "OLL 31",
-    "subset": "P Shapes",
+    "subset": "P",
     "colorsCodeToPaint": "200002202022000020220",
     "setup": "R' F R U R' U' F' U R",
     "algorithmList": [
@@ -374,7 +374,7 @@
   {
     "id": "OLL_32",
     "name": "OLL 32",
-    "subset": "P Shapes",
+    "subset": "P",
     "colorsCodeToPaint": "220000202022000220200",
     "setup": "f R' F' R U R U' R' S'",
     "algorithmList": [
@@ -386,7 +386,7 @@
   {
     "id": "OLL_33",
     "name": "OLL 33",
-    "subset": "T Shapes",
+    "subset": "T",
     "colorsCodeToPaint": "220000200222000020220",
     "setup": "F R' F' R U R U' R'",
     "algorithmList": [
@@ -398,7 +398,7 @@
   {
     "id": "OLL_34",
     "name": "OLL 34",
-    "subset": "C Shapes",
+    "subset": "C",
     "colorsCodeToPaint": "020020200222020002020",
     "setup": "F U R' U' R' F' R U R2 U' R' y2",
     "algorithmList": [
@@ -410,7 +410,7 @@
   {
     "id": "OLL_35",
     "name": "OLL 35",
-    "subset": "Fish Shapes",
+    "subset": "Fish",
     "colorsCodeToPaint": "020020022022000220200",
     "setup": "R U2 R' F R' F' R2 U2 R'",
     "algorithmList": [
@@ -422,7 +422,7 @@
   {
     "id": "OLL_36",
     "name": "OLL 36",
-    "subset": "W Shapes",
+    "subset": "W",
     "colorsCodeToPaint": "020020020220200220200",
     "setup": "F' L F L' U' L' U' L U L' U L y2",
     "algorithmList": [
@@ -434,7 +434,7 @@
   {
     "id": "OLL_37",
     "name": "OLL 37",
-    "subset": "Fish Shapes",
+    "subset": "Fish",
     "colorsCodeToPaint": "000022020220200020220",
     "setup": "F R U' R' U R U R' F'",
     "algorithmList": [
@@ -446,7 +446,7 @@
   {
     "id": "OLL_38",
     "name": "OLL 38",
-    "subset": "W Shapes",
+    "subset": "W",
     "colorsCodeToPaint": "200002200220202002020",
     "setup": "F R' F' R U R U R' U' R U' R'",
     "algorithmList": [
@@ -458,7 +458,7 @@
   {
     "id": "OLL_39",
     "name": "OLL 39",
-    "subset": "Lightning Shapes",
+    "subset": "Lightning",
     "colorsCodeToPaint": "002022002020220220000",
     "setup": "L U F' U' L' U L F L' y'",
     "algorithmList": [
@@ -470,7 +470,7 @@
   {
     "id": "OLL_40",
     "name": "OLL 40",
-    "subset": "Lightning Shapes",
+    "subset": "Lightning",
     "colorsCodeToPaint": "000202202020202200002",
     "setup": "R' U' F U R U' R' F' R y'",
     "algorithmList": [
@@ -482,7 +482,7 @@
   {
     "id": "OLL_41",
     "name": "OLL 41",
-    "subset": "Awkward Shapes",
+    "subset": "Awkward",
     "colorsCodeToPaint": "020020202022000200202",
     "setup": "F U R U' R' F' R U2 R' U' R U' R' y2",
     "algorithmList": [
@@ -494,7 +494,7 @@
   {
     "id": "OLL_42",
     "name": "OLL 42",
-    "subset": "Awkward Shapes",
+    "subset": "Awkward",
     "colorsCodeToPaint": "020020200220200200202",
     "setup": "F U R U' R' F' R' U2 R U R' U R",
     "algorithmList": [
@@ -506,7 +506,7 @@
   {
     "id": "OLL_43",
     "name": "OLL 43",
-    "subset": "P Shapes",
+    "subset": "P",
     "colorsCodeToPaint": "020020020220202202000",
     "setup": "f' U' L' U L f",
     "algorithmList": [
@@ -518,7 +518,7 @@
   {
     "id": "OLL_44",
     "name": "OLL 44",
-    "subset": "P Shapes",
+    "subset": "P",
     "colorsCodeToPaint": "020200202022020220000",
     "setup": "f U R U' R' f'",
     "algorithmList": [
@@ -530,7 +530,7 @@
   {
     "id": "OLL_45",
     "name": "OLL 45",
-    "subset": "T Shapes",
+    "subset": "T",
     "colorsCodeToPaint": "020200200222020020020",
     "setup": "F U R U' R' F'",
     "algorithmList": [
@@ -542,7 +542,7 @@
   {
     "id": "OLL_46",
     "name": "OLL 46",
-    "subset": "C Shapes",
+    "subset": "C",
     "colorsCodeToPaint": "000022022020202202000",
     "setup": "R' U' F R' F' R U R",
     "algorithmList": [
@@ -554,7 +554,7 @@
   {
     "id": "OLL_47",
     "name": "OLL 47",
-    "subset": "L Shapes",
+    "subset": "L",
     "colorsCodeToPaint": "200002022022000002220",
     "setup": "F' U' L' U L U' L' U L F",
     "algorithmList": [
@@ -566,7 +566,7 @@
   {
     "id": "OLL_48",
     "name": "OLL 48",
-    "subset": "L Shapes",
+    "subset": "L",
     "colorsCodeToPaint": "002202000220220000022",
     "setup": "F U R U' R' U R U' R' F'",
     "algorithmList": [
@@ -578,7 +578,7 @@
   {
     "id": "OLL_49",
     "name": "OLL 49",
-    "subset": "L Shapes",
+    "subset": "L",
     "colorsCodeToPaint": "220000020220200202200",
     "setup": "r' U r2 U' r2 U' r2 U r' y2",
     "algorithmList": [
@@ -590,7 +590,7 @@
   {
     "id": "OLL_50",
     "name": "OLL 50",
-    "subset": "L Shapes",
+    "subset": "L",
     "colorsCodeToPaint": "022200002022020200002",
     "setup": "r U' r2 U r2 U r2 U' r",
     "algorithmList": [
@@ -602,7 +602,7 @@
   {
     "id": "OLL_51",
     "name": "OLL 51",
-    "subset": "Line Shapes",
+    "subset": "Line",
     "colorsCodeToPaint": "022200000222020000022",
     "setup": "f U R U' R' U R U' R' f'",
     "algorithmList": [
@@ -614,7 +614,7 @@
   {
     "id": "OLL_52",
     "name": "OLL 52",
-    "subset": "Line Shapes",
+    "subset": "Line",
     "colorsCodeToPaint": "200002022020200202200",
     "setup": "F R U R' d R' U' R U' R'",
     "algorithmList": [
@@ -626,7 +626,7 @@
   {
     "id": "OLL_53",
     "name": "OLL 53",
-    "subset": "L Shapes",
+    "subset": "L",
     "colorsCodeToPaint": "020200022022020202000",
     "setup": "r' U2 R U R' U' R U R' U r",
     "algorithmList": [
@@ -638,7 +638,7 @@
   {
     "id": "OLL_54",
     "name": "OLL 54",
-    "subset": "L Shapes",
+    "subset": "L",
     "colorsCodeToPaint": "000202022022020002020",
     "setup": "r U2 R' U' R U R' U' R U' r'",
     "algorithmList": [
@@ -650,7 +650,7 @@
   {
     "id": "OLL_55",
     "name": "OLL 55",
-    "subset": "Line Shapes",
+    "subset": "Line",
     "colorsCodeToPaint": "000202022020220202000",
     "setup": "F R' F' U2 R U R' U R2 U2 R'",
     "algorithmList": [
@@ -662,7 +662,7 @@
   {
     "id": "OLL_56",
     "name": "OLL 56",
-    "subset": "Line Shapes",
+    "subset": "Line",
     "colorsCodeToPaint": "020200020222020002020",
     "setup": "r U r' R U R' U' R U R' U' r U' r'",
     "algorithmList": [
