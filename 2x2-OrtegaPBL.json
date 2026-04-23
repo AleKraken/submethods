@@ -1,1 +1,68 @@
-
+[
+  {
+    "id": "OrtegaPBL_Adj",
+    "name": "Ortega PBL Adj",
+    "colorsCodeToPaint": "4444-5355-2222",
+    "setup": "",
+    "algorithmList": [
+      "y R U R' F' R U R' U' R' F R2 U' R'",
+      "y R' F R F' R U2 R' U R U2 R'",
+      "y R U R' U' R' F R2 U' R' U' R U R' F'"
+    ]
+  },
+  {
+    "id": "OrtegaPBL_Opp",
+    "name": "Ortega PBL Opp",
+    "colorsCodeToPaint": "5655-4333-2222",
+    "setup": "",
+    "algorithmList": [
+      "R U' R' U' F2 U' R U R' U F2",
+      "F R U' R' U' R U R' F' R U R' U' R' F R F'",
+      "R U' R' U' F2 U' R U R' D R2"
+    ]
+  },
+  {
+    "id": "OrtegaPBL_Opp_Opp",
+    "name": "Ortega PBL Opp_Opp",
+    "colorsCodeToPaint": "6565-3434-2222",
+    "setup": "",
+    "algorithmList": [
+      "R2 F2 R2",
+      "R2 B2 R2",
+      "x R2 U2 R2"
+    ]
+  },
+  {
+    "id": "OrtegaPBL_Adj_Adj",
+    "name": "Ortega PBL Adj_Adj",
+    "colorsCodeToPaint": "5555-3636-2222",
+    "setup": "",
+    "algorithmList": [
+      "R2 U' B2 U2 R2 U' R2",
+      "y2 R2 U' R2 U2 F2 U' R2",
+      "R2 U R2 U2 F2 U F2"
+    ]
+  },
+  {
+    "id": "OrtegaPBL_Adj_Opp",
+    "name": "Ortega PBL Adj_Opp",
+    "colorsCodeToPaint": "5565-3634-2222",
+    "setup": "",
+    "algorithmList": [
+      "R U' R F2 R' U R'",
+      "R' F R' F2 R U' R",
+      "y2 R' U R' F2 R F' R"
+    ]
+  },
+  {
+    "id": "OrtegaPBL_Opp_Adj",
+    "name": "Ortega PBL Opp_Adj",
+    "colorsCodeToPaint": "5655-4336-2222",
+    "setup": "",
+    "algorithmList": [
+      "y R2 U R2 U' R2 U R2 U' R2",
+      "R' D R' F2 R D' R",
+      "z2 R U' R F2 R' U R'"
+    ]
+  }
+]
