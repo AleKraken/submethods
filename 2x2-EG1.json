@@ -1,242 +1,476 @@
 [
-   {
-      "id": "1EG1",
-      "name": "EG-1 AS 1",
-      "colorsCodeToPaint": "523245636224",
-      "setup": "",
-      "algorithmList": [
-         "y' B U' R2 F2 U' F x2",
-         "y R' F R2 U R' F' U' R U' R'"
-      ]
-   },
-   {
-      "id": "1EG2",
-      "name": "EG-1 AS 2",
-      "colorsCodeToPaint": "425253463226",
-      "setup": "",
-      "algorithmList": [
-         "y R U' R' F' U' F2 R U' R'",
-         "R U' F2 R U2 R U' F"
-      ]
-   },
-   {
-      "id": "1EG3",
-      "name": "EG-1 AS 3",
-      "colorsCodeToPaint": "425236356224",
-      "setup": "",
-      "algorithmList": [
-         "F' L F L' U' R U R' L' U' L",
-         "y' R U' R' U2 R' F R2 U2 R' F"
-      ]
-   },
-   {
-      "id": "1EG4",
-      "name": "EG-1 AS 4",
-      "colorsCodeToPaint": "425236465223",
-      "setup": "",
-      "algorithmList": [
-         "R U' R' F' U' R U R' U' F"
-      ]
-   },
-   {
-      "id": "1EG5",
-      "name": "EG-1 AS 5",
-      "colorsCodeToPaint": "624245353226",
-      "setup": "",
-      "algorithmList": [
-         "y' R U R' F' U' R U R' U' R U R'"
-      ]
-   },
-   {
-      "id": "1EG6",
-      "name": "EG-1 AS 6",
-      "colorsCodeToPaint": "326253546224",
-      "setup": "",
-      "algorithmList": [
-         "y2 R U' R2 F R U' R' F R F'"
-      ]
-   },
-   {
-      "id": "1EG7",
-      "name": "EG-1 H 1",
-      "colorsCodeToPaint": "652332244265",
-      "setup": "",
-      "algorithmList": [
-         "U' R' F R2 U' R' F R U R' F'",
-         "U' R' F R2 U' R2 U' F U R"
-      ]
-   },
-   {
-      "id": "1EG8",
-      "name": "EG-1 H 2",
-      "colorsCodeToPaint": "662342234255",
-      "setup": "",
-      "algorithmList": [
-         "U' F' U R U' R2 F2 R U' F",
-         "F R U' R2 F U' F2 U R"
-      ]
-   },
-   {
-      "id": "1EG9",
-      "name": "EG-1 H 3",
-      "colorsCodeToPaint": "642352245263",
-      "setup": "",
-      "algorithmList": [
-         "R' U' R' F2 U F' R F'",
-         "U' F U2 R U' R' F2 R' F2 R F'"
-      ]
-   },
-   {
-      "id": "1EG10",
-      "name": "EG-1 H 4",
-      "colorsCodeToPaint": "442652233256",
-      "setup": "",
-      "algorithmList": [
-         "U' R U R' F' R U R' U' R U R' U'",
-         "F' U R' F R F' U F2"
-      ]
-   },
-   {
-      "id": "1EG11",
-      "name": "EG-1 L 1",
-      "colorsCodeToPaint": "236425423256",
-      "setup": "",
-      "algorithmList": [
-         "y R U' R' U R U' R2 F' R F",
-         "y2 R U R' F' R U2 R' U2 R U R'"
-      ]
-   },
-   {
-      "id": "1EG12",
-      "name": "EG-1 L 2",
-      "colorsCodeToPaint": "256424523236",
-      "setup": "",
-      "algorithmList": [
-         "y' R' F R F' R' F R U R U2 R'",
-         "y2 L' U L U' L' U L2 F L' F'"
-      ]
-   },
-   {
-      "id": "1EG13",
-      "name": "EG-1 L 3",
-      "colorsCodeToPaint": "265323426254",
-      "setup": "",
-      "algorithmList": [
-         "y R' U R2 U' R2 U' F R2 U' R'"
-      ]
-   },
-   {
-      "id": "1EG14",
-      "name": "EG-1 L 4",
-      "colorsCodeToPaint": "244526523236",
-      "setup": "",
-      "algorithmList": [
-         "y R' F R2 U R' F' R U2 R'"
-      ]
-   },
-   {
-      "id": "1EG15",
-      "name": "EG-1 L 5",
-      "colorsCodeToPaint": "255324623246",
-      "setup": "",
-      "algorithmList": [
-         "y2 R U R' F' R U R' U' F R' F' R",
-         "y2 L' U L y' R U2 R U' R2"
-      ]
-   },
-   {
-      "id": "1EG16",
-      "name": "EG-1 L 6",
-      "colorsCodeToPaint": "245326423256",
-      "setup": "",
-      "algorithmList": [
-         "y2 R' U2 F R U2 R U' R2 F",
-         "y R U' R' y' R' U2 R' U R2"
-      ]
-   },
-   {
-      "id": "1EG17",
-      "name": "EG-1 Pi 1",
-      "colorsCodeToPaint": "622353245462",
-      "setup": "",
-      "algorithmList": [
-         "y2 R2 B2 R' U R' U' R U2 R U' R2",
-         "y2 F2 R U R' U2 R U R' U' F"
-      ]
-   },
-   {
-      "id": "1EG18",
-      "name": "EG-1 Pi 2",
-      "colorsCodeToPaint": "322536254642",
-      "setup": "",
-      "algorithmList": [
-         "y' R' F R2 U' R2 F R",
-         "y' R U R2 F' R2 U R'"
-      ]
-   },
-   {
-      "id": "1EG19",
-      "name": "EG-1 Pi 3",
-      "colorsCodeToPaint": "622345234652",
-      "setup": "",
-      "algorithmList": [
-         "y' F R' F U' F2 R U R"
-      ]
-   },
-   {
-      "id": "1EG20",
-      "name": "EG-1 Pi 4",
-      "colorsCodeToPaint": "322564265432",
-      "setup": "",
-      "algorithmList": [
-         "y' R U' R' U R U' R' F R U' R'"
-      ]
-   },
-   {
-      "id": "1EG21",
-      "name": "EG-1 Pi 5",
-      "colorsCodeToPaint": "622353254642",
-      "setup": "",
-      "algorithmList": [
-         "y F U' R U2 R' F' R U R' F'"
-      ]
-   },
-   {
-      "id": "1EG22",
-      "name": "EG-1 Pi 6",
-      "colorsCodeToPaint": "422645236352",
-      "setup": "",
-      "algorithmList": [
-         "F R U' R' F R U2 R' U F'"
-      ]
-   },
-   {
-      "id": "1EG23",
-      "name": "EG-1 S 1",
-      "colorsCodeToPaint": "253632625442",
-      "setup": "",
-      "algorithmList": [
-         "y' F' L U2 F2 R U' x'",
-         "y2 R U R' U F R U' R2 F' R"
-      ]
-   },
-   {
-      "id": "1EG24",
-      "name": "EG-1 S 2",
-      "colorsCodeToPaint": "246452323562",
-      "setup": "",
-      "algorithmList": [
-         "R U R' F2 U F R U R'"
-      ]
-   },
-   {
-      "id": "1EG25",
-      "name": "EG-1 S 3",
-      "colorsCodeToPaint": "265342325462",
-      "setup": "",
-      "algorithmList": [
-         "y2 F R' F' R U R' F' R2 U R'",
-         "y' R' F R U2 R U' R2 F2 R F'"
-      ]
-   }
+  {
+    "id": "EG1_U_1",
+    "name": "EG1 U 1",
+    "subset": "U",
+    "colorsCodeToPaint": "226445322365",
+    "setup": "",
+    "algorithmList": [
+      "y U2 R U R' U R U' R2 F' R2 U R' U",
+      "y U2 R U R' U R U R2 F R2 U' R'",
+      "y U2 R U' R2 F R2 U R' U' R U' R' U"
+    ]
+  },
+  {
+    "id": "EG1_U_2",
+    "name": "EG1 U 2",
+    "subset": "U",
+    "colorsCodeToPaint": "225345322466",
+    "setup": "",
+    "algorithmList": [
+      "U2 y R' U R' U' R U' R' U' F2 R2",
+      "U' F R2 B R2 F U F2 R2",
+      "U' F R U' R' F x F' L' U' L' U"
+    ]
+  },
+  {
+    "id": "EG1_U_3",
+    "name": "EG1 U 3",
+    "subset": "U",
+    "colorsCodeToPaint": "223664422355",
+    "setup": "",
+    "algorithmList": [
+      "F' U2 R U2 R' U2 F",
+      "U2 R U' R2 F2 R F' U R U R'",
+      "U y' R U R' F R2 F' R U' R'"
+    ]
+  },
+  {
+    "id": "EG1_U_4",
+    "name": "EG1 U 4",
+    "subset": "U",
+    "colorsCodeToPaint": "223653422456",
+    "setup": "",
+    "algorithmList": [
+      "y R' F R F' R' F R2 U' R'",
+      "y U2 R U' R' F R U' R2 F R",
+      "y U2 L F' L' F L F' L2 U L"
+    ]
+  },
+  {
+    "id": "EG1_U_5",
+    "name": "EG1 U 5",
+    "subset": "U",
+    "colorsCodeToPaint": "223645522436",
+    "setup": "",
+    "algorithmList": [
+      "U2 R U' R' U R U' R' U' F R U' R'",
+      "U R' F R F' U R U' R' F R U' R'",
+      "U2 L F' L' U L F' L' U L' U' L F"
+    ]
+  },
+  {
+    "id": "EG1_U_6",
+    "name": "EG1 U 6",
+    "subset": "U",
+    "colorsCodeToPaint": "224536522436",
+    "setup": "",
+    "algorithmList": [
+      "y2 R' F R U' R' F R U' R U R' F' U2",
+      "y2 R' F R2 U' R' U y' R U R'",
+      "y2 U L F' L' F U' L' U L F' L' U L"
+    ]
+  },
+  {
+    "id": "EG1_L_1",
+    "name": "EG1 L 1",
+    "subset": "L",
+    "colorsCodeToPaint": "236425423256",
+    "setup": "",
+    "algorithmList": [
+      "y R U' R' U R U' R2 F' R F",
+      "y U R U R' F' R U2 R' U2 R U R'",
+      "y U F R U' R' F' R U R' F' R U R'"
+    ]
+  },
+  {
+    "id": "EG1_L_2",
+    "name": "EG1 L 2",
+    "subset": "L",
+    "colorsCodeToPaint": "265323624245",
+    "setup": "",
+    "algorithmList": [
+      "y' U' R' F R U' R' F R2 U R' F' U2",
+      "y' U' R' F R U' R' F R2 U R' F'",
+      "y' U2 x R' U' R U' R' U' R U' R' U2 R"
+    ]
+  },
+  {
+    "id": "EG1_L_3",
+    "name": "EG1 L 3",
+    "subset": "L",
+    "colorsCodeToPaint": "265323426254",
+    "setup": "",
+    "algorithmList": [
+      "y R' U R2 U' R2 U' F R2 U' R'"
+    ]
+  },
+  {
+    "id": "EG1_L_4",
+    "name": "EG1 L 4",
+    "subset": "L",
+    "colorsCodeToPaint": "244526523236",
+    "setup": "",
+    "algorithmList": [
+      "y R' F R2 U R' F' R U2 R'",
+      "y R U2 R' F R U' R2 F' R"
+    ]
+  },
+  {
+    "id": "EG1_L_5",
+    "name": "EG1 L 5",
+    "subset": "L",
+    "colorsCodeToPaint": "255324623246",
+    "setup": "",
+    "algorithmList": [
+      "y2 R U R' F' R U R' U' F R' F' R",
+      "y2 U' R U R' F' U R U R' U' R U R' U'",
+      "y2 U F' R' F R U' R U R' U' R U R' U'"
+    ]
+  },
+  {
+    "id": "EG1_L_6",
+    "name": "EG1 L 6",
+    "subset": "L",
+    "colorsCodeToPaint": "264523625243",
+    "setup": "",
+    "algorithmList": [
+      "y2 R' U2 F R U2 R U' R2 F",
+      "y2 U' L' U' L F L' U' L U F' L F L'",
+      "y2 U2 F R U' R' U R' F' R U R' F' R"
+    ]
+  },
+  {
+    "id": "EG1_T_1",
+    "name": "EG1 T 1",
+    "subset": "T",
+    "colorsCodeToPaint": "362542422653",
+    "setup": "",
+    "algorithmList": [
+      "F R U' R2 F' R U R' F' R",
+      "F L F' L2 U' L U L' U' L",
+      "U R2 U R U' R2 F R U2 R' F"
+    ]
+  },
+  {
+    "id": "EG1_T_2",
+    "name": "EG1 T 2",
+    "subset": "T",
+    "colorsCodeToPaint": "642352622345",
+    "setup": "",
+    "algorithmList": [
+      "F' R' F R2 U R' U' R U R'",
+      "U2 R U2 R' F R U' R' F' R U R'",
+      "U2 R U' R' F R U' R' F R U R' F'"
+    ]
+  },
+  {
+    "id": "EG1_T_3",
+    "name": "EG1 T 3",
+    "subset": "T",
+    "colorsCodeToPaint": "332562422456",
+    "setup": "",
+    "algorithmList": [
+      "y R U' R2 F R U R U2 R'",
+      "y R U2 R' U' R' F' R2 U R'",
+      "y U2 R' F R2 U' R' U' R' F2 R"
+    ]
+  },
+  {
+    "id": "EG1_T_4",
+    "name": "EG1 T 4",
+    "subset": "T",
+    "colorsCodeToPaint": "562442522633",
+    "setup": "",
+    "algorithmList": [
+      "y' U2 R' F R F' U R U' R' U F R U' R'",
+      "y' U' R' U F R2 U' R2 U' F U' R",
+      "y' R2 B2 U' R' U' R U' R' U R'"
+    ]
+  },
+  {
+    "id": "EG1_T_5",
+    "name": "EG1 T 5",
+    "subset": "T",
+    "colorsCodeToPaint": "562442322365",
+    "setup": "",
+    "algorithmList": [
+      "y' R' F' R2 U R' F' R U R'",
+      "y' U2 R U R2 F' R F R' F' R",
+      "y' U2 R U R2 F' R F R' F' R U2"
+    ]
+  },
+  {
+    "id": "EG1_T_6",
+    "name": "EG1 T 6",
+    "subset": "T",
+    "colorsCodeToPaint": "332562622544",
+    "setup": "",
+    "algorithmList": [
+      "y' U' R U' R' U2 F R U2 R' F",
+      "y' U R' U' R U F2 U' F2 R U R",
+      "y' U R' U' R U F2 U' F2 R U R"
+    ]
+  },
+  {
+    "id": "EG1_H_1",
+    "name": "EG1 H 1",
+    "subset": "H",
+    "colorsCodeToPaint": "652332244265",
+    "setup": "",
+    "algorithmList": [
+      "U' R' F R2 U' R' F R U R' F'",
+      "U' R' F R2 U' R2 U' F U R",
+      "U R U' R2 F R F' R' F' R F"
+    ]
+  },
+  {
+    "id": "EG1_H_2",
+    "name": "EG1 H 2",
+    "subset": "H",
+    "colorsCodeToPaint": "442652265233",
+    "setup": "",
+    "algorithmList": [
+      "U' F' U R U' R2 F2 R U' F",
+      "y' R2 U' R U' R' U R' U' R U' R2",
+      "F R U' R2 F U' F2 U R"
+    ]
+  },
+  {
+    "id": "EG1_H_3",
+    "name": "EG1 H 3",
+    "subset": "H",
+    "colorsCodeToPaint": "642352245263",
+    "setup": "",
+    "algorithmList": [
+      "U R' F R F' U2 F R U2 R' F",
+      "R' U' R' F2 U F' R F'",
+      "U R U' R' F U2 x U' R' U2 R U'"
+    ]
+  },
+  {
+    "id": "EG1_H_4",
+    "name": "EG1 H 4",
+    "subset": "H",
+    "colorsCodeToPaint": "442652233256",
+    "setup": "",
+    "algorithmList": [
+      "U' R U R' F' R U R' U' R U R' U'",
+      "F' U R' F R F' U F2",
+      "U' R U R' F' R U R' U' R U R'"
+    ]
+  },
+  {
+    "id": "EG1_Pi_1",
+    "name": "EG1 Pi 1",
+    "subset": "Pi",
+    "colorsCodeToPaint": "622353245462",
+    "setup": "",
+    "algorithmList": [
+      "y2 F2 R U R' U2 R U R' U' F",
+      "y2 U' F U' R' F R U' F2 R U R'",
+      "y2 R2 B2 R' U R' U' R U2 R U' R2"
+    ]
+  },
+  {
+    "id": "EG1_Pi_2",
+    "name": "EG1 Pi 2",
+    "subset": "Pi",
+    "colorsCodeToPaint": "322536254642",
+    "setup": "",
+    "algorithmList": [
+      "y' R U' R2 F R2 U' R'",
+      "y' R' F R2 U' R2 F R",
+      "y' R U R2 F' R2 U R'"
+    ]
+  },
+  {
+    "id": "EG1_Pi_3",
+    "name": "EG1 Pi 3",
+    "subset": "Pi",
+    "colorsCodeToPaint": "622345234652",
+    "setup": "",
+    "algorithmList": [
+      "y' F R' F U' F2 R U R",
+      "y' F' R U2 R' F' U2 F R' F' R"
+    ]
+  },
+  {
+    "id": "EG1_Pi_4",
+    "name": "EG1 Pi 4",
+    "subset": "Pi",
+    "colorsCodeToPaint": "322564265432",
+    "setup": "",
+    "algorithmList": [
+      "y' R U' R' U R U' R' F R U' R'",
+      "y' F' R U R' U' R U R' F' R U R'"
+    ]
+  },
+  {
+    "id": "EG1_Pi_5",
+    "name": "EG1 Pi 5",
+    "subset": "Pi",
+    "colorsCodeToPaint": "422636235452",
+    "setup": "",
+    "algorithmList": [
+      "R U' R2 F R U R U' R' U' R' F R F'",
+      "U' R U R' U R U' R2 F' R F R' F' R",
+      "R' U' R' F2 U' R U2 F2 R"
+    ]
+  },
+  {
+    "id": "EG1_Pi_6",
+    "name": "EG1 Pi 6",
+    "subset": "Pi",
+    "colorsCodeToPaint": "422645236352",
+    "setup": "",
+    "algorithmList": [
+      "U' R' F' R U' R' F R2 U R' F' R U R'",
+      "U' R' F R F' R' F R2 U R' U' R U' R'",
+      "F R U' R' F R U2 R' U F'"
+    ]
+  },
+  {
+    "id": "EG1_S_1",
+    "name": "EG1 S 1",
+    "subset": "S",
+    "colorsCodeToPaint": "245352324662",
+    "setup": "",
+    "algorithmList": [
+      "y2 U' L F' L2 U' L F U L' U L",
+      "y2 R U R' U F R U' R2 F' R",
+      "y2 U F' R B2 U2 R F' R2"
+    ]
+  },
+  {
+    "id": "EG1_S_2",
+    "name": "EG1 S 2",
+    "subset": "S",
+    "colorsCodeToPaint": "246452323562",
+    "setup": "",
+    "algorithmList": [
+      "R U R' F2 U F R U R'",
+      "U F R' F' R F R U' R' U R' F' R",
+      "U R' F R F U F2 R' F R"
+    ]
+  },
+  {
+    "id": "EG1_S_3",
+    "name": "EG1 S 3",
+    "subset": "S",
+    "colorsCodeToPaint": "234562524632",
+    "setup": "",
+    "algorithmList": [
+      "y2 F R' F' R U R' F' R2 U R'",
+      "y2 F L' U' L U L' U' L R U R'",
+      "y2 U R' F R U2 R U' R2 F2 R F'"
+    ]
+  },
+  {
+    "id": "EG1_S_4",
+    "name": "EG1 S 4",
+    "subset": "S",
+    "colorsCodeToPaint": "234562623542",
+    "setup": "",
+    "algorithmList": [
+      "U F' R' F R2 U R' U' F R' F' R U",
+      "U F' R' F R2 U R' U' F R' F' R",
+      "F' U R U' R' U F R U R'"
+    ]
+  },
+  {
+    "id": "EG1_S_5",
+    "name": "EG1 S 5",
+    "subset": "S",
+    "colorsCodeToPaint": "253632424652",
+    "setup": "",
+    "algorithmList": [
+      "y R U' R' U R U' R' U F R U' R'",
+      "y U2 R2 F U' R U' R U' B2 U2",
+      "y U2 L' U' L F U L' U' L U L' U' L"
+    ]
+  },
+  {
+    "id": "EG1_S_6",
+    "name": "EG1 S 6",
+    "subset": "S",
+    "colorsCodeToPaint": "235362625442",
+    "setup": "",
+    "algorithmList": [
+      "R' F R2 U' R' U R U' R' F",
+      "L' U L2 F' L' U L F' L' F",
+      "R' F R2 U' R' U L F' L' F"
+    ]
+  },
+  {
+    "id": "EG1_AS_1",
+    "name": "EG1 AS 1",
+    "subset": "AS",
+    "colorsCodeToPaint": "326253464225",
+    "setup": "",
+    "algorithmList": [
+      "y U2 B U' R2 F2 U' F",
+      "y R' F R2 U R' F' U' R U' R'",
+      "y U' L' U' L U' F' L' U L2 F L'"
+    ]
+  },
+  {
+    "id": "EG1_AS_2",
+    "name": "EG1 AS 2",
+    "subset": "AS",
+    "colorsCodeToPaint": "523236546224",
+    "setup": "",
+    "algorithmList": [
+      "U R U' R' F' U' F2 R U' R'",
+      "U2 L' U' L F2 U' F' L' U' L",
+      "R U' F2 R U2 R U' F"
+    ]
+  },
+  {
+    "id": "EG1_AS_3",
+    "name": "EG1 AS 3",
+    "subset": "AS",
+    "colorsCodeToPaint": "425236356224",
+    "setup": "",
+    "algorithmList": [
+      "F' R U R' U' R U R2 F' R",
+      "U' R U' R' U2 R' F R2 U2 R' F",
+      "F' L F L' U' L F L2 U' L"
+    ]
+  },
+  {
+    "id": "EG1_AS_4",
+    "name": "EG1 AS 4",
+    "subset": "AS",
+    "colorsCodeToPaint": "425236465223",
+    "setup": "",
+    "algorithmList": [
+      "R U' R' F' U' R U R' U' F",
+      "U' R' F R F' U R U' R2 F' R F",
+      "U2 F U' L' U L U' F' L' U' L"
+    ]
+  },
+  {
+    "id": "EG1_AS_5",
+    "name": "EG1 AS 5",
+    "subset": "AS",
+    "colorsCodeToPaint": "624245353226",
+    "setup": "",
+    "algorithmList": [
+      "y' R U R' F' U' R U R' U' R U R'",
+      "y' U2 R' F R U' R' F R U R U R' F'",
+      "d U2 L' U L U' L' U L U L F L' F'"
+    ]
+  },
+  {
+    "id": "EG1_AS_6",
+    "name": "EG1 AS 6",
+    "subset": "AS",
+    "colorsCodeToPaint": "326253546224",
+    "setup": "",
+    "algorithmList": [
+      "y2 R U' R2 F R U' R' F R F'",
+      "y2 L F' L2 U L U' L' U L F'"
+    ]
+  }
 ]
