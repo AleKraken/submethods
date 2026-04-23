@@ -326,7 +326,7 @@
   {
     "id": "OLL_28",
     "name": "OLL 28",
-    "subset": "All Corners Oriented",
+    "subset": "Corner",
     "colorsCodeToPaint": "000022200220202020020",
     "setup": "R U R' U' M' U R U' r'",
     "algorithmList": [
@@ -674,7 +674,7 @@
   {
     "id": "OLL_57",
     "name": "OLL 57",
-    "subset": "All Corners Oriented",
+    "subset": "Corner",
     "colorsCodeToPaint": "020020200222002020020",
     "setup": "r U R' U' M U R U' R'",
     "algorithmList": [
