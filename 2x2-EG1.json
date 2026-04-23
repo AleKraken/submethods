@@ -3,7 +3,7 @@
     "id": "EG1_U_1",
     "name": "EG1 U 1",
     "subset": "U",
-    "colorsCodeToPaint": "226445322365",
+    "colorsCodeToPaint": "225336422456",
     "setup": "",
     "algorithmList": [
       "y U2 R U R' U R U' R2 F' R2 U R' U",
@@ -15,7 +15,7 @@
     "id": "EG1_U_2",
     "name": "EG1 U 2",
     "subset": "U",
-    "colorsCodeToPaint": "225345322466",
+    "colorsCodeToPaint": "226436422355",
     "setup": "",
     "algorithmList": [
       "U2 y R' U R' U' R U' R' U' F2 R2",
@@ -27,7 +27,7 @@
     "id": "EG1_U_3",
     "name": "EG1 U 3",
     "subset": "U",
-    "colorsCodeToPaint": "223664422355",
+    "colorsCodeToPaint": "224553322466",
     "setup": "",
     "algorithmList": [
       "F' U2 R U2 R' U2 F",
@@ -39,7 +39,7 @@
     "id": "EG1_U_4",
     "name": "EG1 U 4",
     "subset": "U",
-    "colorsCodeToPaint": "223653422456",
+    "colorsCodeToPaint": "224564322365",
     "setup": "",
     "algorithmList": [
       "y R' F R F' R' F R2 U' R'",
@@ -51,7 +51,7 @@
     "id": "EG1_U_5",
     "name": "EG1 U 5",
     "subset": "U",
-    "colorsCodeToPaint": "223645522436",
+    "colorsCodeToPaint": "224536622345",
     "setup": "",
     "algorithmList": [
       "U2 R U' R' U R U' R' U' F R U' R'",
@@ -63,7 +63,7 @@
     "id": "EG1_U_6",
     "name": "EG1 U 6",
     "subset": "U",
-    "colorsCodeToPaint": "224536522436",
+    "colorsCodeToPaint": "223645622345",
     "setup": "",
     "algorithmList": [
       "y2 R' F R U' R' F R U' R U R' F' U2",
@@ -75,7 +75,7 @@
     "id": "EG1_L_1",
     "name": "EG1 L 1",
     "subset": "L",
-    "colorsCodeToPaint": "236425423256",
+    "colorsCodeToPaint": "245326324265",
     "setup": "",
     "algorithmList": [
       "y R U' R' U R U' R2 F' R F",
@@ -87,7 +87,7 @@
     "id": "EG1_L_2",
     "name": "EG1 L 2",
     "subset": "L",
-    "colorsCodeToPaint": "265323624245",
+    "colorsCodeToPaint": "256424523236",
     "setup": "",
     "algorithmList": [
       "y' U' R' F R U' R' F R2 U R' F' U2",
@@ -99,7 +99,7 @@
     "id": "EG1_L_3",
     "name": "EG1 L 3",
     "subset": "L",
-    "colorsCodeToPaint": "265323426254",
+    "colorsCodeToPaint": "256424325263",
     "setup": "",
     "algorithmList": [
       "y R' U R2 U' R2 U' F R2 U' R'"
@@ -109,7 +109,7 @@
     "id": "EG1_L_4",
     "name": "EG1 L 4",
     "subset": "L",
-    "colorsCodeToPaint": "244526523236",
+    "colorsCodeToPaint": "233625624245",
     "setup": "",
     "algorithmList": [
       "y R' F R2 U R' F' R U2 R'",
@@ -120,7 +120,7 @@
     "id": "EG1_L_5",
     "name": "EG1 L 5",
     "subset": "L",
-    "colorsCodeToPaint": "255324623246",
+    "colorsCodeToPaint": "266423524235",
     "setup": "",
     "algorithmList": [
       "y2 R U R' F' R U R' U' F R' F' R",
@@ -132,7 +132,7 @@
     "id": "EG1_L_6",
     "name": "EG1 L 6",
     "subset": "L",
-    "colorsCodeToPaint": "264523625243",
+    "colorsCodeToPaint": "253624526234",
     "setup": "",
     "algorithmList": [
       "y2 R' U2 F R U2 R U' R2 F",
@@ -144,7 +144,7 @@
     "id": "EG1_T_1",
     "name": "EG1 T 1",
     "subset": "T",
-    "colorsCodeToPaint": "362542422653",
+    "colorsCodeToPaint": "452632322564",
     "setup": "",
     "algorithmList": [
       "F R U' R2 F' R U R' F' R",
@@ -156,7 +156,7 @@
     "id": "EG1_T_2",
     "name": "EG1 T 2",
     "subset": "T",
-    "colorsCodeToPaint": "642352622345",
+    "colorsCodeToPaint": "532462522436",
     "setup": "",
     "algorithmList": [
       "F' R' F R2 U R' U' R U R'",
@@ -168,7 +168,7 @@
     "id": "EG1_T_3",
     "name": "EG1 T 3",
     "subset": "T",
-    "colorsCodeToPaint": "332562422456",
+    "colorsCodeToPaint": "442652322365",
     "setup": "",
     "algorithmList": [
       "y R U' R2 F R U R U2 R'",
@@ -180,7 +180,7 @@
     "id": "EG1_T_4",
     "name": "EG1 T 4",
     "subset": "T",
-    "colorsCodeToPaint": "562442522633",
+    "colorsCodeToPaint": "652332622544",
     "setup": "",
     "algorithmList": [
       "y' U2 R' F R F' U R U' R' U F R U' R'",
@@ -192,7 +192,7 @@
     "id": "EG1_T_5",
     "name": "EG1 T 5",
     "subset": "T",
-    "colorsCodeToPaint": "562442322365",
+    "colorsCodeToPaint": "652332422456",
     "setup": "",
     "algorithmList": [
       "y' R' F' R2 U R' F' R U R'",
@@ -204,7 +204,7 @@
     "id": "EG1_T_6",
     "name": "EG1 T 6",
     "subset": "T",
-    "colorsCodeToPaint": "332562622544",
+    "colorsCodeToPaint": "442652522633",
     "setup": "",
     "algorithmList": [
       "y' U' R U' R' U2 F R U2 R' F",
@@ -216,7 +216,7 @@
     "id": "EG1_H_1",
     "name": "EG1 H 1",
     "subset": "H",
-    "colorsCodeToPaint": "652332244265",
+    "colorsCodeToPaint": "562442233256",
     "setup": "",
     "algorithmList": [
       "U' R' F R2 U' R' F R U R' F'",
@@ -228,7 +228,7 @@
     "id": "EG1_H_2",
     "name": "EG1 H 2",
     "subset": "H",
-    "colorsCodeToPaint": "442652265233",
+    "colorsCodeToPaint": "332562256244",
     "setup": "",
     "algorithmList": [
       "U' F' U R U' R2 F2 R U' F",
@@ -240,7 +240,7 @@
     "id": "EG1_H_3",
     "name": "EG1 H 3",
     "subset": "H",
-    "colorsCodeToPaint": "642352245263",
+    "colorsCodeToPaint": "532462236254",
     "setup": "",
     "algorithmList": [
       "U R' F R F' U2 F R U2 R' F",
@@ -252,7 +252,7 @@
     "id": "EG1_H_4",
     "name": "EG1 H 4",
     "subset": "H",
-    "colorsCodeToPaint": "442652233256",
+    "colorsCodeToPaint": "332562244265",
     "setup": "",
     "algorithmList": [
       "U' R U R' F' R U R' U' R U R' U'",
@@ -264,7 +264,7 @@
     "id": "EG1_Pi_1",
     "name": "EG1 Pi 1",
     "subset": "Pi",
-    "colorsCodeToPaint": "622353245462",
+    "colorsCodeToPaint": "522464236352",
     "setup": "",
     "algorithmList": [
       "y2 F2 R U R' U2 R U R' U' F",
@@ -276,7 +276,7 @@
     "id": "EG1_Pi_2",
     "name": "EG1 Pi 2",
     "subset": "Pi",
-    "colorsCodeToPaint": "322536254642",
+    "colorsCodeToPaint": "422645263532",
     "setup": "",
     "algorithmList": [
       "y' R U' R2 F R2 U' R'",
@@ -288,7 +288,7 @@
     "id": "EG1_Pi_3",
     "name": "EG1 Pi 3",
     "subset": "Pi",
-    "colorsCodeToPaint": "622345234652",
+    "colorsCodeToPaint": "522436243562",
     "setup": "",
     "algorithmList": [
       "y' F R' F U' F2 R U R",
@@ -299,7 +299,7 @@
     "id": "EG1_Pi_4",
     "name": "EG1 Pi 4",
     "subset": "Pi",
-    "colorsCodeToPaint": "322564265432",
+    "colorsCodeToPaint": "422653256342",
     "setup": "",
     "algorithmList": [
       "y' R U' R' U R U' R' F R U' R'",
@@ -310,7 +310,7 @@
     "id": "EG1_Pi_5",
     "name": "EG1 Pi 5",
     "subset": "Pi",
-    "colorsCodeToPaint": "422636235452",
+    "colorsCodeToPaint": "322545246362",
     "setup": "",
     "algorithmList": [
       "R U' R2 F R U R U' R' U' R' F R F'",
@@ -322,7 +322,7 @@
     "id": "EG1_Pi_6",
     "name": "EG1 Pi 6",
     "subset": "Pi",
-    "colorsCodeToPaint": "422645236352",
+    "colorsCodeToPaint": "322536245462",
     "setup": "",
     "algorithmList": [
       "U' R' F' R U' R' F R2 U R' F' R U R'",
@@ -334,7 +334,7 @@
     "id": "EG1_S_1",
     "name": "EG1 S 1",
     "subset": "S",
-    "colorsCodeToPaint": "245352324662",
+    "colorsCodeToPaint": "236462423552",
     "setup": "",
     "algorithmList": [
       "y2 U' L F' L2 U' L F U L' U L",
@@ -346,7 +346,7 @@
     "id": "EG1_S_2",
     "name": "EG1 S 2",
     "subset": "S",
-    "colorsCodeToPaint": "246452323562",
+    "colorsCodeToPaint": "235362424652",
     "setup": "",
     "algorithmList": [
       "R U R' F2 U F R U R'",
@@ -358,7 +358,7 @@
     "id": "EG1_S_3",
     "name": "EG1 S 3",
     "subset": "S",
-    "colorsCodeToPaint": "234562524632",
+    "colorsCodeToPaint": "243652623542",
     "setup": "",
     "algorithmList": [
       "y2 F R' F' R U R' F' R2 U R'",
@@ -370,7 +370,7 @@
     "id": "EG1_S_4",
     "name": "EG1 S 4",
     "subset": "S",
-    "colorsCodeToPaint": "234562623542",
+    "colorsCodeToPaint": "243652524632",
     "setup": "",
     "algorithmList": [
       "U F' R' F R2 U R' U' F R' F' R U",
@@ -382,7 +382,7 @@
     "id": "EG1_S_5",
     "name": "EG1 S 5",
     "subset": "S",
-    "colorsCodeToPaint": "253632424652",
+    "colorsCodeToPaint": "264542323562",
     "setup": "",
     "algorithmList": [
       "y R U' R' U R U' R' U F R U' R'",
@@ -394,7 +394,7 @@
     "id": "EG1_S_6",
     "name": "EG1 S 6",
     "subset": "S",
-    "colorsCodeToPaint": "235362625442",
+    "colorsCodeToPaint": "246452526332",
     "setup": "",
     "algorithmList": [
       "R' F R2 U' R' U R U' R' F",
@@ -406,7 +406,7 @@
     "id": "EG1_AS_1",
     "name": "EG1 AS 1",
     "subset": "AS",
-    "colorsCodeToPaint": "326253464225",
+    "colorsCodeToPaint": "425264353226",
     "setup": "",
     "algorithmList": [
       "y U2 B U' R2 F2 U' F",
@@ -418,7 +418,7 @@
     "id": "EG1_AS_2",
     "name": "EG1 AS 2",
     "subset": "AS",
-    "colorsCodeToPaint": "523236546224",
+    "colorsCodeToPaint": "624245635223",
     "setup": "",
     "algorithmList": [
       "U R U' R' F' U' F2 R U' R'",
@@ -430,7 +430,7 @@
     "id": "EG1_AS_3",
     "name": "EG1 AS 3",
     "subset": "AS",
-    "colorsCodeToPaint": "425236356224",
+    "colorsCodeToPaint": "326245465223",
     "setup": "",
     "algorithmList": [
       "F' R U R' U' R U R2 F' R",
@@ -442,7 +442,7 @@
     "id": "EG1_AS_4",
     "name": "EG1 AS 4",
     "subset": "AS",
-    "colorsCodeToPaint": "425236465223",
+    "colorsCodeToPaint": "326245356224",
     "setup": "",
     "algorithmList": [
       "R U' R' F' U' R U R' U' F",
@@ -454,7 +454,7 @@
     "id": "EG1_AS_5",
     "name": "EG1 AS 5",
     "subset": "AS",
-    "colorsCodeToPaint": "624245353226",
+    "colorsCodeToPaint": "523236464225",
     "setup": "",
     "algorithmList": [
       "y' R U R' F' U' R U R' U' R U R'",
@@ -466,7 +466,7 @@
     "id": "EG1_AS_6",
     "name": "EG1 AS 6",
     "subset": "AS",
-    "colorsCodeToPaint": "326253546224",
+    "colorsCodeToPaint": "425264635223",
     "setup": "",
     "algorithmList": [
       "y2 R U' R2 F R U' R' F R F'",
