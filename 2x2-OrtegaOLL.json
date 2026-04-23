@@ -1,1 +1,79 @@
-
+[
+  {
+    "id": "OrtegaOLL_Sune",
+    "name": "Ortega OLL Sune",
+    "colorsCodeToPaint": "236462423552",
+    "setup": "",
+    "algorithmList": [
+      "R U R' U R U2 R'",
+      "R U R2 U' R2 U R",
+      "R U' L' U R' U' L"
+    ]
+  },
+  {
+    "id": "OrtegaOLL_Anti_Sune",
+    "name": "Ortega OLL Anti_Sune",
+    "colorsCodeToPaint": "462623545223",
+    "setup": "",
+    "algorithmList": [
+      "R U2 R' U' R U' R'",
+      "y L' U' L U' L' U2 L",
+      "y' R' U' R U' R' U2 R"
+    ]
+  },
+  {
+    "id": "OrtegaOLL_Pi",
+    "name": "Ortega OLL Pi",
+    "colorsCodeToPaint": "322545264632",
+    "setup": "",
+    "algorithmList": [
+      "F R U R' U' R U R' U' F'",
+      "R U' R2 U R2 U R2 U' R",
+      "R U2 R2 U' R2 U' R2 U2 R"
+    ]
+  },
+  {
+    "id": "OrtegaOLL_P",
+    "name": "Ortega OLL P",
+    "colorsCodeToPaint": "532425242663",
+    "setup": "",
+    "algorithmList": [
+      "F R U R' U' F'",
+      "y2 F U R U' R' F'",
+      "y' R2 D R' U2 R D' R' U2 R'"
+    ]
+  },
+  {
+    "id": "OrtegaOLL_L",
+    "name": "Ortega OLL L",
+    "colorsCodeToPaint": "634262352524",
+    "setup": "",
+    "algorithmList": [
+      "y F' R U R' U' R' F R",
+      "F R U' R' U' R U R' F'",
+      "F R' F' R U R U' R'"
+    ]
+  },
+  {
+    "id": "OrtegaOLL_T",
+    "name": "Ortega OLL T",
+    "colorsCodeToPaint": "233625542426",
+    "setup": "",
+    "algorithmList": [
+      "R U R' U' R' F R F'",
+      "R U2 R U2 R2",
+      "U R U R' U' F' U' F"
+    ]
+  },
+  {
+    "id": "OrtegaOLL_H",
+    "name": "Ortega OLL H",
+    "colorsCodeToPaint": "224564356322",
+    "setup": "",
+    "algorithmList": [
+      "R2 U2 R' U2 R2",
+      "R2 U2 R U2 R2",
+      "y R U R' U R U' R' U R U2 R'"
+    ]
+  }
+]
