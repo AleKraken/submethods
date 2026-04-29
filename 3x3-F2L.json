@@ -2,6 +2,7 @@
   {
     "id": "F2L1",
     "name": "F2L 1",
+    "subset": "Free Pairs",
     "colorsCodeToPaint": "001550550-330033033-000005005",
     "setup": "F R' F' R",
     "algorithmList": [
@@ -13,6 +14,7 @@
   {
     "id": "F2L2",
     "name": "F2L 2",
+    "subset": "Free Pairs",
     "colorsCodeToPaint": "055550550-100033033-000000033",
     "setup": "R' F R F'",
     "algorithmList": [
@@ -24,6 +26,7 @@
   {
     "id": "F2L3",
     "name": "F2L 3",
+    "subset": "Free Pairs",
     "colorsCodeToPaint": "001550550-300033033-000300005",
     "setup": "F' U F",
     "algorithmList": [
@@ -35,6 +38,7 @@
   {
     "id": "F2L4",
     "name": "F2L 4",
+    "subset": "Free Pairs",
     "colorsCodeToPaint": "005550550-100033033-050000003",
     "setup": "R U' R'",
     "algorithmList": [
@@ -46,6 +50,7 @@
   {
     "id": "F2L5",
     "name": "F2L 5",
+    "subset": "Disconnected Pairs",
     "colorsCodeToPaint": "001550550-300033033-050000005",
     "setup": "R U R' U2 R U' R' U",
     "algorithmList": [
@@ -57,6 +62,7 @@
   {
     "id": "F2L6",
     "name": "F2L 6",
+    "subset": "Disconnected Pairs",
     "colorsCodeToPaint": "005550550-100033033-000300003",
     "setup": "F' U' F U2 F' U F U'",
     "algorithmList": [
@@ -68,6 +74,7 @@
   {
     "id": "F2L7",
     "name": "F2L 7",
+    "subset": "Disconnected Pairs",
     "colorsCodeToPaint": "001550550-300033033-000500005",
     "setup": "R U R' U2 R U2 R' U",
     "algorithmList": [
@@ -79,8 +86,9 @@
   {
     "id": "F2L8",
     "name": "F2L 8",
+    "subset": "Disconnected Pairs",
     "colorsCodeToPaint": "005550550-100033033-030000003",
-    "setup": "r' U' R2 U' R2 U2 r",
+    "setup": "F' U L' U' L U2 F U'",
     "algorithmList": [
       "d R' U2 R U R' U2 R",
       "r' U2 R2 U R2 U r",
@@ -90,6 +98,7 @@
   {
     "id": "F2L9",
     "name": "F2L 9",
+    "subset": "Disconnected Pairs",
     "colorsCodeToPaint": "001550550-300033033-030000005",
     "setup": "F' U F U' R U R' U",
     "algorithmList": [
@@ -101,6 +110,7 @@
   {
     "id": "F2L10",
     "name": "F2L 10",
+    "subset": "Disconnected Pairs",
     "colorsCodeToPaint": "005550550-100033033-000500003",
     "setup": "R U' R' U' R U' R' U",
     "algorithmList": [
@@ -112,6 +122,7 @@
   {
     "id": "F2L11",
     "name": "F2L 11",
+    "subset": "Connected Pairs",
     "colorsCodeToPaint": "001550550-350033033-000003005",
     "setup": "F' U F U' R U2 R' U",
     "algorithmList": [
@@ -123,6 +134,7 @@
   {
     "id": "F2L12",
     "name": "F2L 12",
+    "subset": "Connected Pairs",
     "colorsCodeToPaint": "035550550-100033033-000000053",
     "setup": "R U R' U2 R U R' U' R U R'",
     "algorithmList": [
@@ -134,8 +146,9 @@
   {
     "id": "F2L13",
     "name": "F2L 13",
+    "subset": "Connected Pairs",
     "colorsCodeToPaint": "051550550-300033033-000000035",
-    "setup": "r U2 R' U R U' R' U M",
+    "setup": "R U R' F R' F' R U' R U R'",
     "algorithmList": [
       "y' U R' U R U' R' U' R",
       "M' U' R U R' U2 R U' r'",
@@ -145,6 +158,7 @@
   {
     "id": "F2L14",
     "name": "F2L 14",
+    "subset": "Connected Pairs",
     "colorsCodeToPaint": "005550550-130033033-000005003",
     "setup": "R U' R' U' R U R' U",
     "algorithmList": [
@@ -156,6 +170,7 @@
   {
     "id": "F2L15",
     "name": "F2L 15",
+    "subset": "Connected Pairs",
     "colorsCodeToPaint": "031550550-300033033-000000055",
     "setup": "R U R' U' R U R' U2 R U' R'",
     "algorithmList": [
@@ -167,6 +182,7 @@
   {
     "id": "F2L16",
     "name": "F2L 16",
+    "subset": "Connected Pairs",
     "colorsCodeToPaint": "005550550-150033033-000003003",
     "setup": "F' U F U2 R U R'",
     "algorithmList": [
@@ -178,6 +194,7 @@
   {
     "id": "F2L17",
     "name": "F2L 17",
+    "subset": "Connected Pairs",
     "colorsCodeToPaint": "003550550-530033033-000005001",
     "setup": "R U' R' U R U2 R'",
     "algorithmList": [
@@ -189,6 +206,7 @@
   {
     "id": "F2L18",
     "name": "F2L 18",
+    "subset": "Connected Pairs",
     "colorsCodeToPaint": "053550550-500033033-000000031",
     "setup": "R U R' U' R U R' F R' F' R",
     "algorithmList": [
@@ -200,6 +218,7 @@
   {
     "id": "F2L19",
     "name": "F2L 19",
+    "subset": "Disconnected Pairs",
     "colorsCodeToPaint": "003550550-500033033-050000001",
     "setup": "R U R' U' R U2 R' U'",
     "algorithmList": [
@@ -211,6 +230,7 @@
   {
     "id": "F2L20",
     "name": "F2L 20",
+    "subset": "Disconnected Pairs",
     "colorsCodeToPaint": "003550550-500033033-000300001",
     "setup": "R U R' F R' F' R2 U R' U",
     "algorithmList": [
@@ -222,6 +242,7 @@
   {
     "id": "F2L21",
     "name": "F2L 21",
+    "subset": "Disconnected Pairs",
     "colorsCodeToPaint": "003550550-500033033-000500001",
     "setup": "R U' R' U2 R U R'",
     "algorithmList": [
@@ -233,6 +254,7 @@
   {
     "id": "F2L22",
     "name": "F2L 22",
+    "subset": "Disconnected Pairs",
     "colorsCodeToPaint": "003550550-500033033-030000001",
     "setup": "F' L' U2 L F",
     "algorithmList": [
@@ -244,6 +266,7 @@
   {
     "id": "F2L23",
     "name": "F2L 23",
+    "subset": "Connected Pairs",
     "colorsCodeToPaint": "033550550-500033033-000000051",
     "setup": "R U' R' U R U' R' U2 R U' R'",
     "algorithmList": [
@@ -255,6 +278,7 @@
   {
     "id": "F2L24",
     "name": "F2L 24",
+    "subset": "Connected Pairs",
     "colorsCodeToPaint": "003550550-550033033-000003001",
     "setup": "R U R' F R U R' U' F'",
     "algorithmList": [
@@ -266,6 +290,7 @@
   {
     "id": "F2L25",
     "name": "F2L 25",
+    "subset": "Corner In Slot",
     "colorsCodeToPaint": "000550555-030033333-000005000",
     "setup": "F' R U R' U' R' F R",
     "algorithmList": [
@@ -277,6 +302,7 @@
   {
     "id": "F2L26",
     "name": "F2L 26",
+    "subset": "Corner In Slot",
     "colorsCodeToPaint": "050550555-000033333-000000030",
     "setup": "F' U' F U R U R' U'",
     "algorithmList": [
@@ -288,6 +314,7 @@
   {
     "id": "F2L27",
     "name": "F2L 27",
+    "subset": "Corner In Slot",
     "colorsCodeToPaint": "000550551-030033533-000005000",
     "setup": "R U R' U' R U R'",
     "algorithmList": [
@@ -299,6 +326,7 @@
   {
     "id": "F2L28",
     "name": "F2L 28",
+    "subset": "Corner In Slot",
     "colorsCodeToPaint": "050550553-000033133-000000030",
     "setup": "R' F R F' U R U' R'",
     "algorithmList": [
@@ -310,6 +338,7 @@
   {
     "id": "F2L29",
     "name": "F2L 29",
+    "subset": "Corner In Slot",
     "colorsCodeToPaint": "050550551-000033533-000000030",
     "setup": "F R' F' R F R' F' R",
     "algorithmList": [
@@ -321,6 +350,7 @@
   {
     "id": "F2L30",
     "name": "F2L 30",
+    "subset": "Corner In Slot",
     "colorsCodeToPaint": "000550553-030033133-000005000",
     "setup": "R U' R' U R U' R'",
     "algorithmList": [
@@ -332,6 +362,7 @@
   {
     "id": "F2L31",
     "name": "F2L 31",
+    "subset": "Edge In Slot",
     "colorsCodeToPaint": "003553550-500533033-000000001",
     "setup": "R U R' F R' F' R U",
     "algorithmList": [
@@ -343,6 +374,7 @@
   {
     "id": "F2L32",
     "name": "F2L 32",
+    "subset": "Edge In Slot",
     "colorsCodeToPaint": "003555550-500333033-000000001",
     "setup": "R U' R' U R U' R' U R U' R'",
     "algorithmList": [
@@ -354,6 +386,7 @@
   {
     "id": "F2L33",
     "name": "F2L 33",
+    "subset": "Edge In Slot",
     "colorsCodeToPaint": "001555550-300333033-000000005",
     "setup": "R U R' U2 R U R' U",
     "algorithmList": [
@@ -365,6 +398,7 @@
   {
     "id": "F2L34",
     "name": "F2L 34",
+    "subset": "Edge In Slot",
     "colorsCodeToPaint": "005555550-100333033-000000003",
     "setup": "R U' R' U2 R U' R' U'",
     "algorithmList": [
@@ -376,6 +410,7 @@
   {
     "id": "F2L35",
     "name": "F2L 35",
+    "subset": "Edge In Slot",
     "colorsCodeToPaint": "001553550-300533033-000000005",
     "setup": "F' U F U' R U' R' U",
     "algorithmList": [
@@ -387,6 +422,7 @@
   {
     "id": "F2L36",
     "name": "F2L 36",
+    "subset": "Edge In Slot",
     "colorsCodeToPaint": "005553550-100533033-000000003",
     "setup": "R U' R' U2 F R' F' R U2",
     "algorithmList": [
@@ -398,6 +434,7 @@
   {
     "id": "F2L37",
     "name": "F2L 37",
+    "subset": "Pieces In Slot",
     "colorsCodeToPaint": "000553555-000533333-000000000",
     "setup": "R U' R U2 F R2 F' U2 R2",
     "algorithmList": [
@@ -409,6 +446,7 @@
   {
     "id": "F2L38",
     "name": "F2L 38",
+    "subset": "Pieces In Slot",
     "colorsCodeToPaint": "000555551-000333533-000000000",
     "setup": "R U' R' U R U2 R' U R U' R'",
     "algorithmList": [
@@ -420,6 +458,7 @@
   {
     "id": "F2L39",
     "name": "F2L 39",
+    "subset": "Pieces In Slot",
     "colorsCodeToPaint": "000555553-000333133-000000000",
     "setup": "R U' R' U' R U R' U2 R U' R'",
     "algorithmList": [
@@ -431,6 +470,7 @@
   {
     "id": "F2L40",
     "name": "F2L 40",
+    "subset": "Pieces In Slot",
     "colorsCodeToPaint": "000553551-000533533-000000000",
     "setup": "R U R' F U R U' R' F' R U R'",
     "algorithmList": [
@@ -442,6 +482,7 @@
   {
     "id": "F2L41",
     "name": "F2L 41",
+    "subset": "Pieces In Slot",
     "colorsCodeToPaint": "000553553-000533133-000000000",
     "setup": "R F U R U' R' F' U' R'",
     "algorithmList": [
