@@ -520,7 +520,7 @@
     "name": "OLL 44",
     "subset": "P",
     "colorsCodeToPaint": "020200202022020220000",
-    "setup": "B3' L3' U3' L' U' B'",
+    "setup": "B L U L' U' B'",
     "algorithmList": [
       "f R U R' U' f'",
       "y2 F U R U' R' F'",
