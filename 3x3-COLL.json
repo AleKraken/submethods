@@ -1,364 +1,482 @@
-
 [
-   {
-      "id": "COLLSune01",
-      "name": "Sune 1",
-      "colorsCodeToPaint": "204532520222032246602",
-      "setup": "",
-      "algorithmList": [
-         "R U R' U R U2' R'"
-      ]
-   },
-   {
-      "id": "COLLSune02",
-      "name": "Sune 2",
-      "colorsCodeToPaint": "205642320222032254602",
-      "setup": "",
-      "algorithmList": [
-         "R U' L' U R' U' L "
-      ]
-   },
-   {
-      "id": "COLLSune03",
-      "name": "Sune 3",
-      "colorsCodeToPaint": "205452320222032246602",
-      "setup": "",
-      "algorithmList": [
-         "(L' U2 L U2') R (U' L' U L) R'"
-      ]
-   },
-   {
-      "id": "COLLSune04",
-      "name": "Sune 4",
-      "colorsCodeToPaint": "204642520222032235602",
-      "setup": "",
-      "algorithmList": [
-         "F' (R U2' R' U2) R' F2 (R U R U') R'  F'"
-      ]
-   },
-   {
-      "id": "COLLSune05",
-      "name": "Sune 5",
-      "colorsCodeToPaint": "206532420222032254602",
-      "setup": "",
-      "algorithmList": [
-         "L' (R U R' U') L (U2 R U2' R')"
-      ]
-   },
-   {
-      "id": "COLLSune06",
-      "name": "Sune 6",
-      "colorsCodeToPaint": "204532520222062263402",
-      "setup": "",
-      "algorithmList": [
-         "y' (R U R' U) (R U' R D) (R' U' R D')  R2'"
-      ]
-   },
-   {
-      "id": "COLLAnti01",
-      "name": "Anti Sune 1",
-      "colorsCodeToPaint": "602422360222054252203",
-      "setup": "",
-      "algorithmList": [
-         "y R U2' R' U' R U' R'"
-      ]
-   },
-   {
-      "id": "COLLAnti02",
-      "name": "Anti Sune 2",
-      "colorsCodeToPaint": "602422530222063242205",
-      "setup": "",
-      "algorithmList": [
-         "y2 L' U R U' L U R'"
-      ]
-   },
-   {
-      "id": "COLLAnti03",
-      "name": "Anti Sune 3",
-      "colorsCodeToPaint": "602422360222035242205",
-      "setup": "",
-      "algorithmList": [
-         "y2 (R U2 R' U2') L' (U R U' R') L"
-      ]
-   },
-   {
-      "id": "COLLAnti04",
-      "name": "Anti Sune 4",
-      "colorsCodeToPaint": "602422450222063252203",
-      "setup": "",
-      "algorithmList": [
-         "(R U' R' U2) (R U' R' U2) (R' D' R) U  (R' D R)"
-      ]
-   },
-   {
-      "id": "COLLAnti05",
-      "name": "Anti Sune 5",
-      "colorsCodeToPaint": "602422530222054232206",
-      "setup": "",
-      "algorithmList": [
-         "y2 R (L' U' L U) R' (U2' L' U2 L)"
-      ]
-   },
-   {
-      "id": "COLLAnti06",
-      "name": "Anti Sune 6",
-      "colorsCodeToPaint": "602422450222035232206",
-      "setup": "",
-      "algorithmList": [
-         "y (R' U' R U') (R' U R' D') (R U R' D)  R2"
-      ]
-   },
-   {
-      "id": "COLLL01",
-      "name": "L 1 ",
-      "colorsCodeToPaint": "603232250222062254402",
-      "setup": "",
-      "algorithmList": [
-         "y (R U R' U) (R U' R' U) (R U' R' U)  R U2' R' "
-      ]
-   },
-   {
-      "id": "COLLL02",
-      "name": "L 2",
-      "colorsCodeToPaint": "304252260222032254602",
-      "setup": "",
-      "algorithmList": [
-         "y' (R U2 R D) (R' U2 R D') R2'"
-      ]
-   },
-   {
-      "id": "COLLL03",
-      "name": "L 3",
-      "colorsCodeToPaint": "504242260222032235602",
-      "setup": "",
-      "algorithmList": [
-         "y' (F R' F' r) (U R U' r')"
-      ]
-   },
-   {
-      "id": "COLLL04",
-      "name": "L 4",
-      "colorsCodeToPaint": "604232260222052254302",
-      "setup": "",
-      "algorithmList": [
-         "y' r U2' (R2' F R F') R U2' r'"
-      ]
-   },
-   {
-      "id": "COLLL05",
-      "name": "L 5",
-      "colorsCodeToPaint": "306252230222062254402",
-      "setup": "",
-      "algorithmList": [
-         "y2 (R' U2 R' D') (R U2 R' D) R2"
-      ]
-   },
-   {
-      "id": "COLLL06",
-      "name": "L 6",
-      "colorsCodeToPaint": "506242230222062235402",
-      "setup": "",
-      "algorithmList": [
-         "F' (r U R' U') (r' F R)"
-      ]
-   },
-   {
-      "id": "COLLT01",
-      "name": "T 1 ",
-      "colorsCodeToPaint": "403262620222042223505",
-      "setup": "",
-      "algorithmList": [
-         "(R U2' R' U' R U' R2') (U2' R U R' U  R)"
-      ]
-   },
-   {
-      "id": "COLLT02",
-      "name": "T 2",
-      "colorsCodeToPaint": "606232420222042223505",
-      "setup": "",
-      "algorithmList": [
-         "(R' U R) U2' L' (R' U R U') L"
-      ]
-   },
-   {
-      "id": "COLLT03",
-      "name": "T 3",
-      "colorsCodeToPaint": "604232520222062223405",
-      "setup": "",
-      "algorithmList": [
-         "y (l' U' L U) (R U' r' F)"
-      ]
-   },
-   {
-      "id": "COLLT04",
-      "name": "T 4",
-      "colorsCodeToPaint": "403262620222052225304",
-      "setup": "",
-      "algorithmList": [
-         "y2 F (R U R' U') (R U' R' U') (R U R'  F')"
-      ]
-   },
-   {
-      "id": "COLLT05",
-      "name": "T 5",
-      "colorsCodeToPaint": "505242320222062226403",
-      "setup": "",
-      "algorithmList": [
-         "(R' U R2 D) (r' U2 r) (D' R2' U' R)"
-      ]
-   },
-   {
-      "id": "COLLT06",
-      "name": "T 6 ",
-      "colorsCodeToPaint": "604232520222052224306",
-      "setup": "",
-      "algorithmList": [
-         "y' (r U R' U') (r' F R F')"
-      ]
-   },
-   {
-      "id": "COLLU01",
-      "name": "U 1",
-      "colorsCodeToPaint": "202642360222042223505",
-      "setup": "",
-      "algorithmList": [
-         "y2 (R U R' U R U2' R2') (U' R U' R' U2 R)"
-      ]
-   },
-   {
-      "id": "COLLU02",
-      "name": "U 2 ",
-      "colorsCodeToPaint": "202452360222052224306",
-      "setup": "",
-      "algorithmList": [
-         "y2 R2 D (R' U2 R) D' (R' U2 R') "
-      ]
-   },
-   {
-      "id": "COLLU03",
-      "name": "U 3",
-      "colorsCodeToPaint": "202362640222042223505",
-      "setup": "",
-      "algorithmList": [
-         "R' F (R U' R' U') (R U R' F') (R U R'  U') (R' F R F' R)"
-      ]
-   },
-   {
-      "id": "COLLU04",
-      "name": "U 4",
-      "colorsCodeToPaint": "202642360222052225304",
-      "setup": "",
-      "algorithmList": [
-         "F (R U' R' U) (R U R' U) (R U' R' F')"
-      ]
-   },
-   {
-      "id": "COLLU05",
-      "name": "U 5",
-      "colorsCodeToPaint": "202452360222062223405",
-      "setup": "",
-      "algorithmList": [
-         "R2' D' (R U2 R') D (R U2 R)"
-      ]
-   },
-   {
-      "id": "COLLU06",
-      "name": "U 6",
-      "colorsCodeToPaint": "202362640222052225304",
-      "setup": "",
-      "algorithmList": [
-         " (R' U2 R) F (U' R' U' R) U F'"
-      ]
-   },
-   {
-      "id": "COLLPi01",
-      "name": "Pi 1",
-      "colorsCodeToPaint": "502242640222023263502",
-      "setup": "",
-      "algorithmList": [
-         "R U2' R2' U' R2 U' R2' U2' R"
-      ]
-   },
-   {
-      "id": "COLLPi02",
-      "name": "Pi 2",
-      "colorsCodeToPaint": "402262450222023263502",
-      "setup": "",
-      "algorithmList": [
-         "y F (U R U' R') (U R U' R2') F' R  (U R U' R')"
-      ]
-   },
-   {
-      "id": "COLLPi03",
-      "name": "Pi 3",
-      "colorsCodeToPaint": "402262530222026254302",
-      "setup": "",
-      "algorithmList": [
-         "y' (R U R' U) F' (R U2' R' U2') (R' F R)"
-      ]
-   },
-   {
-      "id": "COLLPi04",
-      "name": "Pi 4",
-      "colorsCodeToPaint": "402262450222026235302",
-      "setup": "",
-      "algorithmList": [
-         "(R U D') (R U R' D) (R2 U' R' U') R2'  U2' R"
-      ]
-   },
-   {
-      "id": "COLLPi05",
-      "name": "Pi 5",
-      "colorsCodeToPaint": "502242640222026235302",
-      "setup": "",
-      "algorithmList": [
-         "(R U R' U') R' F (R2 U R' U') (R U R'  U') F'"
-      ]
-   },
-   {
-      "id": "COLLPi06",
-      "name": "Pi 6",
-      "colorsCodeToPaint": "402252640222026254302",
-      "setup": "",
-      "algorithmList": [
-         "y F (U R U' R') (U R U2' R') (U' R U  R') F'"
-      ]
-   },
-   {
-      "id": "COLLH01",
-      "name": "H 1",
-      "colorsCodeToPaint": "403262620222025252403",
-      "setup": "",
-      "algorithmList": [
-         "(R U R' U) (R U' R' U) R U2' R' ",
-         "y R U2 R' U' (R U R' U') R U' R'"
-      ]
-   },
-   {
-      "id": "COLLH02",
-      "name": "H 2",
-      "colorsCodeToPaint": "505242320222026262304",
-      "setup": "",
-      "algorithmList": [
-         "F (R U' R' U) (R U2 R' U') (R U R'  U') F' "
-      ]
-   },
-   {
-      "id": "COLLH03",
-      "name": "H 3",
-      "colorsCodeToPaint": "404262520222026252303",
-      "setup": "",
-      "algorithmList": [
-         "y F (R U R' U') (R U R' U') (R U R'  U') F'"
-      ]
-   },
-   {
-      "id": "COLLH04",
-      "name": "H 4",
-      "colorsCodeToPaint": "503242620222023262504",
-      "setup": "",
-      "algorithmList": [
-         "(R U R' U) (R U L' U) R' U' L"
-      ]
-   }
+  {
+    "id": "COLL_AS_1",
+    "name": "AS 1",
+    "subset": "Anti Sune",
+    "colorsCodeToPaint": "602422360222054252203",
+    "setup": "R' U2 R U R' U R",
+    "algorithmList": [
+      "y R U2 R' U' R U' R'",
+      "R' U' R U' R' U2 R",
+      "y2 L' U' L U' L' U2 L"
+    ]
+  },
+  {
+    "id": "COLL_AS_2",
+    "name": "AS 2",
+    "subset": "Anti Sune",
+    "colorsCodeToPaint": "402522530222063262204",
+    "setup": "R U R' U R U' R D R' U' R D' R2 U2",
+    "algorithmList": [
+      "y2 R2 D R' U R D' R' U R' U' R U' R'",
+      "y R' U' R U' R' U R' D' R U R' D R2",
+      "U2 R2 D R' U R D' R' U R' U' R U' R'"
+    ]
+  },
+  {
+    "id": "COLL_AS_3",
+    "name": "AS 3",
+    "subset": "Anti Sune",
+    "colorsCodeToPaint": "402522360222035262204",
+    "setup": "R' U2 R U2 L U' R' U R L'",
+    "algorithmList": [
+      "y2 R2 D R' U2 R D' R2 U' R U' R'",
+      "R' U' F' R U R' U' R' F R2 U' R' U R",
+      "y2 M F' r U R' U2 r' F2 r"
+    ]
+  },
+  {
+    "id": "COLL_AS_4",
+    "name": "AS 4",
+    "subset": "Anti Sune",
+    "colorsCodeToPaint": "302622530222054262204",
+    "setup": "R2 F R U R U' R' F' R U' R' U R",
+    "algorithmList": [
+      "y2 R' U' R U' R2 D' R U2 R' D R2",
+      "y2 R U2 R' U2 r' F R F' M'",
+      "R' U' R U R' F R U R' U' R' F' R2"
+    ]
+  },
+  {
+    "id": "COLL_AS_5",
+    "name": "AS 5",
+    "subset": "Anti Sune",
+    "colorsCodeToPaint": "402522360222046252203",
+    "setup": "L U' R' U L' U' R",
+    "algorithmList": [
+      "y2 r' F R F' r U R'",
+      "R' U L U' R U L'",
+      "y2 L' U R U' L U R'"
+    ]
+  },
+  {
+    "id": "COLL_AS_6",
+    "name": "AS 6",
+    "subset": "Anti Sune",
+    "colorsCodeToPaint": "502322360222054262204",
+    "setup": "R' D' R U' R' D R U2 R U R' U2 R U R'",
+    "algorithmList": [
+      "R U' R' U2 R U' R' U2 R' D' R U R' D R",
+      "R U2 r' F R' F' r U' R U' R'",
+      "R U R' F' R U2 R' U' R U' R' F R U' R'"
+    ]
+  },
+  {
+    "id": "COLL_S_1",
+    "name": "S 1",
+    "subset": "Sune",
+    "colorsCodeToPaint": "203642620222042235502",
+    "setup": "R U2 R' U' R U' R'",
+    "algorithmList": [
+      "R U R' U R U2 R'",
+      "y' R' U2 R U R' U R",
+      "y L' U2 L U L' U L"
+    ]
+  },
+  {
+    "id": "COLL_S_2",
+    "name": "S 2",
+    "subset": "Sune",
+    "colorsCodeToPaint": "203532620222062254402",
+    "setup": "R L' U' L U R' U2 L' U2 L",
+    "algorithmList": [
+      "y2 R U R' U R2 D R' U2 R D' R2",
+      "r' F2 r U2 R U' r' F M'",
+      "L' U2 L U2 R U' L' U L R'"
+    ]
+  },
+  {
+    "id": "COLL_S_3",
+    "name": "S 3",
+    "subset": "Sune",
+    "colorsCodeToPaint": "204362520222062235402",
+    "setup": "R U2 R' U2 L' U R U' R' L",
+    "algorithmList": [
+      "L' R U R' U' L U2 R U2 R'",
+      "M F R' F' r U2 R U2 R'",
+      "y2 R2 D' R U2 R' D R2 U R' U R"
+    ]
+  },
+  {
+    "id": "COLL_S_4",
+    "name": "S 4",
+    "subset": "Sune",
+    "colorsCodeToPaint": "204532520222062263402",
+    "setup": "F' L U2 L' F L F' U2 F L'",
+    "algorithmList": [
+      "y' R U R' U R U' R D R' U' R D' R2",
+      "R U R' U' R' F R F' r U R' U R U2 r'",
+      "y' F R' U2 R F' R' F U2 F' R"
+    ]
+  },
+  {
+    "id": "COLL_S_5",
+    "name": "S 5",
+    "subset": "Sune",
+    "colorsCodeToPaint": "203452620222062235402",
+    "setup": "L' U R U' L U R'",
+    "algorithmList": [
+      "R U' L' U R' U' L",
+      "R U' r' F R' F' r",
+      "l F' L' F l' U' L"
+    ]
+  },
+  {
+    "id": "COLL_S_6",
+    "name": "S 6",
+    "subset": "Sune",
+    "colorsCodeToPaint": "206362420222052254302",
+    "setup": "F R U R' U' R' F2 R U2 R U2 R' F",
+    "algorithmList": [
+      "y2 R U R' F' R U R' U R U2 R' F R U' R'",
+      "y2 R U R' U r' F R F' r U2 R'",
+      "y2 R U R' U L' U R U' L U2 R'"
+    ]
+  },
+  {
+    "id": "COLL_L_1",
+    "name": "L 1",
+    "subset": "L",
+    "colorsCodeToPaint": "204452260222052232306",
+    "setup": "R U2 R' U' R U' R' U R' U2 R U R' U R",
+    "algorithmList": [
+      "y' R U R' U R U' R' U R U' R' U R U2 R'",
+      "y' R U2 R' U' R U R' U' R U R' U' R U' R'",
+      "y2 R' U2 R U R' U' R U R' U' R U R' U R"
+    ]
+  },
+  {
+    "id": "COLL_L_2",
+    "name": "L 2",
+    "subset": "L",
+    "colorsCodeToPaint": "204452260222032252603",
+    "setup": "R2 D' R U2 R' D R U2 R",
+    "algorithmList": [
+      "R' U2 R' D' R U2 R' D R2",
+      "y2 L' U2 L' D' L U2 L' D L2",
+      "y' R' U2 R U R2 D' R U R' D R2"
+    ]
+  },
+  {
+    "id": "COLL_L_3",
+    "name": "L 3",
+    "subset": "L",
+    "colorsCodeToPaint": "205362240222052262304",
+    "setup": "R U R2 D' R U R' D R2 U2 R' U2",
+    "algorithmList": [
+      "y R U2 R D R' U2 R D' R2",
+      "U2 R U2 R2 D' R U' R' D R2 U' R'",
+      "R' F' R U R' U' R' F R2 U' R' U2 R"
+    ]
+  },
+  {
+    "id": "COLL_L_4",
+    "name": "L 4",
+    "subset": "L",
+    "colorsCodeToPaint": "206532230222062242405",
+    "setup": "F R U R' U' R' F' R U R U' R'",
+    "algorithmList": [
+      "y F R' F' r U R U' r'",
+      "y2 R2 D R' U R D' R' U' R'",
+      "R U R' U' R' F R U R U' R' F'"
+    ]
+  },
+  {
+    "id": "COLL_L_5",
+    "name": "L 5",
+    "subset": "L",
+    "colorsCodeToPaint": "206452230222052262304",
+    "setup": "F U R U2 R' U R U R' F' U",
+    "algorithmList": [
+      "y2 F' r U R' U' r' F R",
+      "y x R' U R D' R' U' R D x'",
+      "r U R U' r' F R' F'"
+    ]
+  },
+  {
+    "id": "COLL_L_6",
+    "name": "L 6",
+    "subset": "L",
+    "colorsCodeToPaint": "205642240222032252603",
+    "setup": "R2 F' R U R U' R' F R U' R' U R U",
+    "algorithmList": [
+      "y r U2 R2 F R F' R U2 r'",
+      "y' R' U' R U R' F' R U R' U' R' F R2",
+      "U' R' U' R U R' F' R U R' U' R' F R2"
+    ]
+  },
+  {
+    "id": "COLL_U_1",
+    "name": "U 1",
+    "subset": "U",
+    "colorsCodeToPaint": "202532450222032224606",
+    "setup": "R U2 R' U' R U' R2 U2 R U R' U R",
+    "algorithmList": [
+      "R' U' R U' R' U2 R2 U R' U R U2 R'",
+      "y2 R U R' U R U2 R2 U' R U' R' U2 R",
+      "y R U2 R' U' R U' R' U' R U R' U R U2 R'"
+    ]
+  },
+  {
+    "id": "COLL_U_2",
+    "name": "U 2",
+    "subset": "U",
+    "colorsCodeToPaint": "202452530222032224606",
+    "setup": "R' F R' F' R U R U' R' F R U' R' U R U R' F' R",
+    "algorithmList": [
+      "R' F R U' R' U' R U R' F' R U R' U' R' F R F' R",
+      "y' r U R' U' r' F R2 U' R' U' R U2 R' U' F'",
+      "y' R' U' R F R2 D' R U R' D R2 U' F'"
+    ]
+  },
+  {
+    "id": "COLL_U_3",
+    "name": "U 3",
+    "subset": "U",
+    "colorsCodeToPaint": "202362450222062223405",
+    "setup": "R' D' R U2 R' D R U R U2 R' U R U R'",
+    "algorithmList": [
+      "y2 R2 D R' U2 R D' R' U2 R'",
+      "R U' R' U' R U2 R' U' R' D' R U2 R' D R",
+      "R' U R U R' F' R U R' U' R' F R2 U' R' U' R"
+    ]
+  },
+  {
+    "id": "COLL_U_4",
+    "name": "U 4",
+    "subset": "U",
+    "colorsCodeToPaint": "202642360222052225304",
+    "setup": "F R U R' U' R U' R' U' R U R' F'",
+    "algorithmList": [
+      "F R U' R' U R U R' U R U' R' F'",
+      "y2 R' F2 R U2 R U2 R' F2 R U2 R'",
+      "y' F U2 R' D' R U2 R' D R F'"
+    ]
+  },
+  {
+    "id": "COLL_U_5",
+    "name": "U 5",
+    "subset": "U",
+    "colorsCodeToPaint": "202642530222032225604",
+    "setup": "R' U2 R' D' R U2 R' D R2",
+    "algorithmList": [
+      "R2 D' R U2 R' D R U2 R",
+      "y2 L2 D' L U2 L' D L U2 L",
+      "R2 F' R U R' U' R' F R' U' R2 U2 R2 U R' U R"
+    ]
+  },
+  {
+    "id": "COLL_U_6",
+    "name": "U 6",
+    "subset": "U",
+    "colorsCodeToPaint": "202532360222042224506",
+    "setup": "F U' R' U R U F' R' U2 R",
+    "algorithmList": [
+      "R2 D' R U R' D R U R U' R' U' R",
+      "R' U2 R F U' R' U' R U F'",
+      "R U' R' U' R U R D R' U R D' R2"
+    ]
+  },
+  {
+    "id": "COLL_T_1",
+    "name": "T 1",
+    "subset": "T",
+    "colorsCodeToPaint": "304252520222032224606",
+    "setup": "R' U' R U' R' U2 R2 U R' U R U2 R'",
+    "algorithmList": [
+      "R U2 R' U' R U' R2 U2 R U R' U R",
+      "y' R U R2 U' R2 U' R2 U2 R U' R U' R'",
+      "R U2 R' r' F2 r U' R U' R' U' r' F r"
+    ]
+  },
+  {
+    "id": "COLL_T_2",
+    "name": "T 2",
+    "subset": "T",
+    "colorsCodeToPaint": "606232420222042223505",
+    "setup": "L' U R' U' L R U2 R' U' R",
+    "algorithmList": [
+      "R' U R U2 R' L' U R U' L",
+      "R' U R U2 r' R' F R F' r",
+      "y2 R' F R U R' U' R' F' R2 U' R' U2 R"
+    ]
+  },
+  {
+    "id": "COLL_T_3",
+    "name": "T 3",
+    "subset": "T",
+    "colorsCodeToPaint": "405262320222042226503",
+    "setup": "R' F R B' R' F' R B",
+    "algorithmList": [
+      "y R' F' r U R U' r' F",
+      "y l' U' L U R U' r' F",
+      "y2 R' U' R' D' R U R' D R2"
+    ]
+  },
+  {
+    "id": "COLL_T_4",
+    "name": "T 4",
+    "subset": "T",
+    "colorsCodeToPaint": "304252520222062226403",
+    "setup": "R U' R' U' R U2 R' U2 R' D' R U' R' D R",
+    "algorithmList": [
+      "y2 F R U R' U' R U' R' U' R U R' F'",
+      "y2 F R' D' R U2 R' D R U2 F'",
+      "y2 R F R' U R U2 R' U R U F' R'"
+    ]
+  },
+  {
+    "id": "COLL_T_5",
+    "name": "T 5",
+    "subset": "T",
+    "colorsCodeToPaint": "503242620222062223405",
+    "setup": "R2 D R' U R D' R' U' R'",
+    "algorithmList": [
+      "y' r U R' U' r' F R F'",
+      "R U R D R' U' R D' R2",
+      "y2 x' D R U' R' D' R U R' x"
+    ]
+  },
+  {
+    "id": "COLL_T_6",
+    "name": "T 6",
+    "subset": "T",
+    "colorsCodeToPaint": "505242320222062226403",
+    "setup": "L' U2 R U' R' U2 R L U R' U' R U' R'",
+    "algorithmList": [
+      "R' U R2 D r' U2 r D' R2 U' R",
+      "y2 R U' R2 D' r U2 r' D R2 U R'",
+      "y R' U' R U R2 D' R U2 R' D R2 U' R' U R"
+    ]
+  },
+  {
+    "id": "COLL_Pi_1",
+    "name": "Pi 1",
+    "subset": "Pi",
+    "colorsCodeToPaint": "402262360222025235402",
+    "setup": "R' U2 R2 U R2 U R2 U2 R'",
+    "algorithmList": [
+      "R U2 R2 U' R2 U' R2 U2 R",
+      "R' U2 R2 U R2 U R2 U2 R'",
+      "y2 L' U2 L2 U L2 U L2 U2 L'"
+    ]
+  },
+  {
+    "id": "COLL_Pi_2",
+    "name": "Pi 2",
+    "subset": "Pi",
+    "colorsCodeToPaint": "402262450222023263502",
+    "setup": "R U R' U F2 R U2 R' U2 R' F2 R",
+    "algorithmList": [
+      "y F U R U' R' U R U' R2 F' R U R U' R'",
+      "R' F2 R U2 R U2 R' F2 U' R U' R'",
+      "y2 L' U' L U L F' L2 U' L U L' U' L U F"
+    ]
+  },
+  {
+    "id": "COLL_Pi_3",
+    "name": "Pi 3",
+    "subset": "Pi",
+    "colorsCodeToPaint": "302252640222026254302",
+    "setup": "R' U2 R U2 R2 F' R U R U' R' F U R",
+    "algorithmList": [
+      "R' U' F' R U R' U' R' F R2 U2 R' U2 R",
+      "y F U R U' R' U R U2 R' U' R U R' F'",
+      "y F R2 U' R2 U R2 U S R2 f'"
+    ]
+  },
+  {
+    "id": "COLL_Pi_4",
+    "name": "Pi 4",
+    "subset": "Pi",
+    "colorsCodeToPaint": "602232530222025246402",
+    "setup": "F U R U' R' U R U' R2 F' R U R U' R'",
+    "algorithmList": [
+      "R U R' U' R' F R2 U R' U' R U R' U' F'",
+      "R U2 R' U' R U R' U2 r' F R F' M'",
+      "y' R' U2 R U R' U R2 U' L' U R' U' L"
+    ]
+  },
+  {
+    "id": "COLL_Pi_5",
+    "name": "Pi 5",
+    "subset": "Pi",
+    "colorsCodeToPaint": "602232450222023246502",
+    "setup": "L' U' L U' L' U' R U' L U R'",
+    "algorithmList": [
+      "R U' L' U R' U L U L' U L",
+      "y' R U2 R' U R' D' R U2 R' D R2 U' R'",
+      "y' R U R' U F' R U2 R' U2 R' F R"
+    ]
+  },
+  {
+    "id": "COLL_Pi_6",
+    "name": "Pi 6",
+    "subset": "Pi",
+    "colorsCodeToPaint": "302252360222025246402",
+    "setup": "R' U2 R2 U R U R2 D' R U' R' D U' R'",
+    "algorithmList": [
+      "R' F' U' F U' R U S' R' U R S",
+      "y' r U R' U R' F R F' R U' R' U R U2 r'",
+      "R2 D' R U R' D R U R U' R' U R U R' U R"
+    ]
+  },
+  {
+    "id": "COLL_H_1",
+    "name": "H 1",
+    "subset": "H",
+    "colorsCodeToPaint": "304252520222026262304",
+    "setup": "R U2 R' U' R U R' U' R U' R'",
+    "algorithmList": [
+      "R U R' U R U' R' U R U2 R'",
+      "y' R U2 R' U' R U R' U' R U' R'",
+      "y R U2 R' U' R U R' U' R U' R'"
+    ]
+  },
+  {
+    "id": "COLL_H_2",
+    "name": "H 2",
+    "subset": "H",
+    "colorsCodeToPaint": "606232420222025252403",
+    "setup": "F U R U' R' U R U2 R' U' R U R' F'",
+    "algorithmList": [
+      "F R U' R' U R U2 R' U' R U R' U' F'",
+      "f R2 S' U' R2 U' R2 U R2 F'",
+      "y2 f R U R' U' R F' R U R' U' R' S'"
+    ]
+  },
+  {
+    "id": "COLL_H_3",
+    "name": "H 3",
+    "subset": "H",
+    "colorsCodeToPaint": "306252420222026242305",
+    "setup": "L' U R U' L U' R' U' R U' R'",
+    "algorithmList": [
+      "R U R' U R U L' U R' U' L",
+      "R U R' U R U r' F R' F' r",
+      "R' F' R U2 R U2 R' F U' R U' R'"
+    ]
+  },
+  {
+    "id": "COLL_H_4",
+    "name": "H 4",
+    "subset": "H",
+    "colorsCodeToPaint": "303252620222025262404",
+    "setup": "F U R U' R' U R U' R' U R U' R' F' U'",
+    "algorithmList": [
+      "y F R U R' U' R U R' U' R U R' U' F'",
+      "y F U R U' R' U R U' R' U R U' R' F'",
+      "U F R U R' U' R U R' U' R U R' U' F'"
+    ]
+  }
 ]
