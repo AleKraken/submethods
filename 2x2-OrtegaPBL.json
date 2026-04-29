@@ -3,7 +3,7 @@
     "id": "PBL_Adj",
     "name": "Adj",
     "colorsCodeToPaint": "4444-5355-2222",
-    "setup": "",
+    "setup": "R2 F2 R F R' F2 R U' R",
     "algorithmList": [
       "y R U R' F' R U R' U' R' F R2 U' R'",
       "y R' F R F' R U2 R' U R U2 R'",
@@ -14,7 +14,7 @@
     "id": "PBL_Opp",
     "name": "Opp",
     "colorsCodeToPaint": "5655-4333-2222",
-    "setup": "",
+    "setup": "F2 U' R U' R' U F2 U R U R'",
     "algorithmList": [
       "R U' R' U' F2 U' R U R' U F2",
       "F R U' R' U' R U R' F' R U R' U' R' F R F'",
@@ -25,7 +25,7 @@
     "id": "PBL_OppOpp",
     "name": "Opp Opp",
     "colorsCodeToPaint": "6565-3434-2222",
-    "setup": "",
+    "setup": "R2 F2 R2",
     "algorithmList": [
       "R2 F2 R2",
       "R2 B2 R2",
@@ -36,7 +36,7 @@
     "id": "PBL_AdjAdj",
     "name": "Adj Adj",
     "colorsCodeToPaint": "5555-3636-2222",
-    "setup": "",
+    "setup": "R2 U R2 U2 B2 U R2",
     "algorithmList": [
       "R2 U' B2 U2 R2 U' R2",
       "y2 R2 U' R2 U2 F2 U' R2",
@@ -47,7 +47,7 @@
     "id": "PBL_AdjOpp",
     "name": "Adj Opp",
     "colorsCodeToPaint": "5565-3634-2222",
-    "setup": "",
+    "setup": "R U' R F2 R' U R'",
     "algorithmList": [
       "R U' R F2 R' U R'",
       "R' F R' F2 R U' R",
@@ -58,7 +58,7 @@
     "id": "PBL_OppAdj",
     "name": "Opp Adj",
     "colorsCodeToPaint": "5655-4336-2222",
-    "setup": "",
+    "setup": "R' D R' F2 R D' R",
     "algorithmList": [
       "y R2 U R2 U' R2 U R2 U' R2",
       "R' D R' F2 R D' R",
