@@ -4,7 +4,7 @@
     "name": "CLL AS 1",
     "subset": "AS",
     "colorsCodeToPaint": "624236545223",
-    "setup": "",
+    "setup": "R' U2 R U R' U R",
     "algorithmList": [
       "y R U2 R' U' R U' R'",
       "y2 L' U' L U' L' U2 L",
@@ -16,7 +16,7 @@
     "name": "CLL AS 2",
     "subset": "AS",
     "colorsCodeToPaint": "425253463226",
-    "setup": "",
+    "setup": "R U R' U R' F R F' R U2 R'",
     "algorithmList": [
       "R U2 R' F R' F' R U' R U' R'",
       "y2 R' U R U' R2 F R F' R U R' U' R",
@@ -28,7 +28,7 @@
     "name": "CLL AS 3",
     "subset": "AS",
     "colorsCodeToPaint": "326245465223",
-    "setup": "",
+    "setup": "L U' R' U L' U' R",
     "algorithmList": [
       "y2 F' L F L' U2 L' U2 L",
       "R' U L U' R U L'",
@@ -40,7 +40,7 @@
     "name": "CLL AS 4",
     "subset": "AS",
     "colorsCodeToPaint": "326245356224",
-    "setup": "",
+    "setup": "R U' L' U R' U' L U2",
     "algorithmList": [
       "y2 R' F R F' R U R'",
       "U2 L' U R U' L U R'",
@@ -52,7 +52,7 @@
     "name": "CLL AS 5",
     "subset": "AS",
     "colorsCodeToPaint": "326253546224",
-    "setup": "",
+    "setup": "F R' F' R U2 R U2 R' y2",
     "algorithmList": [
       "y2 R U2 R' U2 R' F R F'",
       "L U2 L' U2 x' L' U L U'",
@@ -64,7 +64,7 @@
     "name": "CLL AS 6",
     "subset": "AS",
     "colorsCodeToPaint": "326264545223",
-    "setup": "",
+    "setup": "R' F U2 R U R' U2 R' F' R2",
     "algorithmList": [
       "y' R U2 R' U' R U' R' F R' F' R U R U' R' U'",
       "R2 F R U2 R U' R' U2 F' R",
@@ -76,7 +76,7 @@
     "name": "CLL H 1",
     "subset": "H",
     "colorsCodeToPaint": "662342255243",
-    "setup": "",
+    "setup": "F R2 U' R2 U R2 U R2 F'",
     "algorithmList": [
       "F R2 U' R2 U' R2 U R2 F'",
       "F R U' R' U R U2 R' U' R U R' U' F'",
@@ -88,7 +88,7 @@
     "name": "CLL H 2",
     "subset": "H",
     "colorsCodeToPaint": "362542264235",
-    "setup": "",
+    "setup": "R' F R F' R U' R' U' R U' R'",
     "algorithmList": [
       "R U R' U R U R' F R' F' R",
       "y2 R' F' R U' R' F' R F' R U R'",
@@ -100,7 +100,7 @@
     "name": "CLL H 3",
     "subset": "H",
     "colorsCodeToPaint": "332562256244",
-    "setup": "",
+    "setup": "R' F R F' R U R2 F R F' R U R'",
     "algorithmList": [
       "y F R U R' U' R U R' U' R U R' U' F'",
       "y x' U2 R U2 R2 F2 R U2 x",
@@ -112,7 +112,7 @@
     "name": "CLL H 4",
     "subset": "H",
     "colorsCodeToPaint": "342552266234",
-    "setup": "",
+    "setup": "R U2 R' U' R U R' U' R U' R'",
     "algorithmList": [
       "y R2 U2 R' U2 R2",
       "y R2 U2 R U2 R2",
@@ -124,7 +124,7 @@
     "name": "CLL L 1",
     "subset": "L",
     "colorsCodeToPaint": "264523625243",
-    "setup": "",
+    "setup": "R' U2 R U R2 F' R U R U' R' F R",
     "algorithmList": [
       "y R U2 R' F' R U2 R' U R' F2 R",
       "y R' U' R U2 R' F R' F' R U' R",
@@ -136,7 +136,7 @@
     "name": "CLL L 2",
     "subset": "L",
     "colorsCodeToPaint": "244526325263",
-    "setup": "",
+    "setup": "R U' R2 F R F' R U R' U' R U R'",
     "algorithmList": [
       "y2 R U2 R2 F2 R U R' F2 R F'",
       "R U' R' U R U' R' F R' F' R2 U R'",
@@ -148,7 +148,7 @@
     "name": "CLL L 3",
     "subset": "L",
     "colorsCodeToPaint": "244526523236",
-    "setup": "",
+    "setup": "F2 R' F' R U' R U R' U F'",
     "algorithmList": [
       "y2 R' U R' U2 R U' R' U R U' R2",
       "y2 R2 U' R U2 R' U2 R U' R2",
@@ -160,7 +160,7 @@
     "name": "CLL L 4",
     "subset": "L",
     "colorsCodeToPaint": "256424325263",
-    "setup": "",
+    "setup": "R U2 R2 F R F' R U2 R'",
     "algorithmList": [
       "y R U2 R2 F R F' R U2 R'",
       "R U2 R' F R' F' R2 U2 R'",
@@ -172,7 +172,7 @@
     "name": "CLL L 5",
     "subset": "L",
     "colorsCodeToPaint": "243626425253",
-    "setup": "",
+    "setup": "R U R' U' R' F R F' y'",
     "algorithmList": [
       "y F R' F' R U R U' R'",
       "y F R' F' U' R' U R",
@@ -184,7 +184,7 @@
     "name": "CLL L 6",
     "subset": "L",
     "colorsCodeToPaint": "264523526234",
-    "setup": "",
+    "setup": "F R F' R U R' U' R'",
     "algorithmList": [
       "y2 F' R U R' U' R' F R",
       "y F R U' R' U' R U R' F'",
@@ -196,7 +196,7 @@
     "name": "CLL Pi 1",
     "subset": "Pi",
     "colorsCodeToPaint": "422645236352",
-    "setup": "",
+    "setup": "F' U R U R' U2 F R' F2 R",
     "algorithmList": [
       "y F R' F' R U2 R U' R' U R U2 R'",
       "R' F2 R F' U2 R U' R' U' F",
@@ -208,7 +208,7 @@
     "name": "CLL Pi 2",
     "subset": "Pi",
     "colorsCodeToPaint": "622353254642",
-    "setup": "",
+    "setup": "F R' F' R U2 R U' R' U R U2 R'",
     "algorithmList": [
       "R U2 R' U' R U R' U2 R' F R F'",
       "y F' R U R' U2 R' F R U' R' F2 R",
@@ -220,7 +220,7 @@
     "name": "CLL Pi 3",
     "subset": "Pi",
     "colorsCodeToPaint": "522436234652",
-    "setup": "",
+    "setup": "F U R U' R' U F' U' R' F' R U",
     "algorithmList": [
       "y F R2 U' R2 U R2 U R2 F'",
       "y' R U' R U' R' U R' F R2 F'",
@@ -232,7 +232,7 @@
     "name": "CLL Pi 4",
     "subset": "Pi",
     "colorsCodeToPaint": "622345234652",
-    "setup": "",
+    "setup": "R' F' R U' R' F' R F' R U R'",
     "algorithmList": [
       "y2 R' F R F' R U' R' U' R U' R'",
       "R U' R' F R' F R U R' F R",
@@ -244,7 +244,7 @@
     "name": "CLL Pi 5",
     "subset": "Pi",
     "colorsCodeToPaint": "322536254642",
-    "setup": "",
+    "setup": "R2 U R' F R' F' U R U' R2",
     "algorithmList": [
       "y' R' U' R' F R F' R U' R' U2 R",
       "R2 U R' U' F R F' R U' R2",
@@ -256,7 +256,7 @@
     "name": "CLL Pi 6",
     "subset": "Pi",
     "colorsCodeToPaint": "322545264632",
-    "setup": "",
+    "setup": "F U R U' R' U R U' R' F'",
     "algorithmList": [
       "F R U R' U' R U R' U' F'",
       "R U' R2 U R2 U R2 U' R",
@@ -268,7 +268,7 @@
     "name": "CLL Sune 1",
     "subset": "Sune",
     "colorsCodeToPaint": "235362625442",
-    "setup": "",
+    "setup": "F' L F L' U2 L' U2 L",
     "algorithmList": [
       "L' U2 L U2 L F' L' F",
       "y2 R' U2 R U2 R B' R' B",
@@ -280,7 +280,7 @@
     "name": "CLL Sune 2",
     "subset": "Sune",
     "colorsCodeToPaint": "253632424652",
-    "setup": "",
+    "setup": "R U2 R' U' R U' R' F R' F' R U R U' R'",
     "algorithmList": [
       "R U R' U' R' F R F' R U R' U R U2 R'",
       "R U2 R' F R U2 R' U R U' R' F",
@@ -292,7 +292,7 @@
     "name": "CLL Sune 3",
     "subset": "Sune",
     "colorsCodeToPaint": "234562623542",
-    "setup": "",
+    "setup": "R' F R F' R U R'",
     "algorithmList": [
       "R U' R' F R' F' R",
       "R U' R' F L' U' L",
@@ -304,7 +304,7 @@
     "name": "CLL Sune 4",
     "subset": "Sune",
     "colorsCodeToPaint": "243652623542",
-    "setup": "",
+    "setup": "R U2 R' U2 R' F R F'",
     "algorithmList": [
       "F R' F' R U2 R U2 R'",
       "y2 x' U R' F' R F2 R U2 R'",
@@ -316,7 +316,7 @@
     "name": "CLL Sune 5",
     "subset": "Sune",
     "colorsCodeToPaint": "246452323562",
-    "setup": "",
+    "setup": "R U2 R' F R' F' R U' R U' R' U2",
     "algorithmList": [
       "y2 R U R' U R' F R F' R U2 R'",
       "y' R' F R2 F' U' R' U' R2 U R'",
@@ -328,7 +328,7 @@
     "name": "CLL Sune 6",
     "subset": "Sune",
     "colorsCodeToPaint": "236462423552",
-    "setup": "",
+    "setup": "R U2 R' U' R U' R'",
     "algorithmList": [
       "R U R' U R U2 R'",
       "R U R2 U' R2 U R",
@@ -340,7 +340,7 @@
     "name": "CLL T 1",
     "subset": "T",
     "colorsCodeToPaint": "532462622345",
-    "setup": "",
+    "setup": "F R' F' R U R U' R' y",
     "algorithmList": [
       "y' R U R' U' R' F R F'",
       "y2 R' U' R U F R F'",
@@ -352,7 +352,7 @@
     "name": "CLL T 2",
     "subset": "T",
     "colorsCodeToPaint": "452632422653",
-    "setup": "",
+    "setup": "F' L F L' U' L' U L y'",
     "algorithmList": [
       "y L' U' L U L F' L' F",
       "y R' F' R U R U' R' F",
@@ -364,7 +364,7 @@
     "name": "CLL T 3",
     "subset": "T",
     "colorsCodeToPaint": "552432622643",
-    "setup": "",
+    "setup": "R U' R' F2 U R U2 R' U F'",
     "algorithmList": [
       "F U' R U2 R' U' F2 R U R'",
       "y R U2 R2 F R F' R U' R' U R U2 R'",
@@ -376,7 +376,7 @@
     "name": "CLL T 4",
     "subset": "T",
     "colorsCodeToPaint": "432662422355",
-    "setup": "",
+    "setup": "R2 F2 R U R' F R2 U2 R' U' R",
     "algorithmList": [
       "R' U R U2 R2 F' R U' R' F2 R2",
       "y R' U R' F U' R U F2 R2",
@@ -388,7 +388,7 @@
     "name": "CLL T 5",
     "subset": "T",
     "colorsCodeToPaint": "652332422456",
-    "setup": "",
+    "setup": "F R' F' R U' R U2 R' U' R U2 R'",
     "algorithmList": [
       "y2 F R U R' U' R U' R' U' R U R' F'",
       "y' R U R' U' R U' R' F' U' F R U R'",
@@ -400,7 +400,7 @@
     "name": "CLL T 6",
     "subset": "T",
     "colorsCodeToPaint": "662342422355",
-    "setup": "",
+    "setup": "R' F R' F' R2 U2 R' U' R",
     "algorithmList": [
       "R' U R U2 R2 F R F' R",
       "U2 y z R U R' U' R' F R2 U' R' U' R U R' F'",
@@ -412,7 +412,7 @@
     "name": "CLL U 1",
     "subset": "U",
     "colorsCodeToPaint": "226445322365",
-    "setup": "",
+    "setup": "R' U' F' U F R",
     "algorithmList": [
       "y' F R U R' U' F'",
       "y F U R U' R' F'",
@@ -424,7 +424,7 @@
     "name": "CLL U 2",
     "subset": "U",
     "colorsCodeToPaint": "224564522633",
-    "setup": "",
+    "setup": "R U' R U2 R' U2 R U' R2 U R",
     "algorithmList": [
       "R' U' R2 U R' U2 R U2 R' U R'",
       "y' R2 F2 R U R' F R2 U2 R' U' R",
@@ -436,7 +436,7 @@
     "name": "CLL U 3",
     "subset": "U",
     "colorsCodeToPaint": "224553322466",
-    "setup": "",
+    "setup": "R' F R' F' R U R U' R' F R U' R' U R U R' F' R",
     "algorithmList": [
       "y2 F R U R' U2 F' R U' R' F",
       "R' F R U' R' U' R U R' F' R U R' U' R' F R F' R",
@@ -448,7 +448,7 @@
     "name": "CLL U 4",
     "subset": "U",
     "colorsCodeToPaint": "224564322365",
-    "setup": "",
+    "setup": "F R U R' U' R U' R' U' R U R' F'",
     "algorithmList": [
       "y' F R' F' R U' R U' R' U2 R U' R'",
       "F R U' R' U R U R' U R U' R' F'",
@@ -460,7 +460,7 @@
     "name": "CLL U 5",
     "subset": "U",
     "colorsCodeToPaint": "226453322564",
-    "setup": "",
+    "setup": "R U' R' U R U' R' F R' F' R2 U R'",
     "algorithmList": [
       "R U' R2 F R F' R U R' U' R U R'",
       "y2 R U2 R' U R' F2 R F' R' F2 R",
@@ -472,7 +472,7 @@
     "name": "CLL U 6",
     "subset": "U",
     "colorsCodeToPaint": "223645622345",
-    "setup": "",
+    "setup": "R' U' R U2 R' F R' F' R U' R",
     "algorithmList": [
       "R' U R' F R F' R U2 R' U R",
       "L' U L2 F' L' F L' U' L U L' U' L",
