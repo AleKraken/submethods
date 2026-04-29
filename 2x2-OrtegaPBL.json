@@ -1,7 +1,7 @@
 [
   {
-    "id": "OrtegaPBL_Adj",
-    "name": "Ortega PBL Adj",
+    "id": "PBL_Adj",
+    "name": "Adj",
     "colorsCodeToPaint": "4444-5355-2222",
     "setup": "",
     "algorithmList": [
@@ -11,8 +11,8 @@
     ]
   },
   {
-    "id": "OrtegaPBL_Opp",
-    "name": "Ortega PBL Opp",
+    "id": "PBL_Opp",
+    "name": "Opp",
     "colorsCodeToPaint": "5655-4333-2222",
     "setup": "",
     "algorithmList": [
@@ -22,8 +22,8 @@
     ]
   },
   {
-    "id": "OrtegaPBL_Opp_Opp",
-    "name": "Ortega PBL Opp_Opp",
+    "id": "PBL_OppOpp",
+    "name": "Opp Opp",
     "colorsCodeToPaint": "6565-3434-2222",
     "setup": "",
     "algorithmList": [
@@ -33,8 +33,8 @@
     ]
   },
   {
-    "id": "OrtegaPBL_Adj_Adj",
-    "name": "Ortega PBL Adj_Adj",
+    "id": "PBL_AdjAdj",
+    "name": "Adj Adj",
     "colorsCodeToPaint": "5555-3636-2222",
     "setup": "",
     "algorithmList": [
@@ -44,8 +44,8 @@
     ]
   },
   {
-    "id": "OrtegaPBL_Adj_Opp",
-    "name": "Ortega PBL Adj_Opp",
+    "id": "PBL_AdjOpp",
+    "name": "Adj Opp",
     "colorsCodeToPaint": "5565-3634-2222",
     "setup": "",
     "algorithmList": [
@@ -55,8 +55,8 @@
     ]
   },
   {
-    "id": "OrtegaPBL_Opp_Adj",
-    "name": "Ortega PBL Opp_Adj",
+    "id": "PBL_OppAdj",
+    "name": "Opp Adj",
     "colorsCodeToPaint": "5655-4336-2222",
     "setup": "",
     "algorithmList": [
